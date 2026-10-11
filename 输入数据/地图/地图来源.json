@@ -1,0 +1,12 @@
+{
+  "source": "Natural Earth 1:10m Admin 0 Countries",
+  "version": "5.1.1",
+  "source URL": "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/",
+  "terms URL": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "license": "Public domain",
+  "simplification degrees": 0.045,
+  "identity field": "ISO_A3_EH, fallback ADM0_A3",
+  "purpose": "Display only; boundaries are not official WHO or IHME statistical boundaries. No exposure or population aggregation is performed on this map.",
+  "shp SHA256": "7ce119ef6342e43cff7c0c3004e0911ab7ec1988a14734372031d2012180e7bc",
+  "features": 258
+}

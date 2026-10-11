@@ -1,0 +1,98 @@
+{
+  "source": "https://ncdportal.org/Indicators",
+  "survey": "WHO NCD Country Capacity Survey",
+  "checked local date": "2026-10-05",
+  "definition time caution": "Current portal metadata do not by themselves prove verbatim equivalence of all historic questionnaires.",
+  "common medication definition": {
+    "setting": "Primary health care facilities in the public health sector",
+    "generally available threshold": "50% or more pharmacies",
+    "No interpretation": "Does not meet general availability threshold; not zero availability",
+    "measurement": "Official country response, not a direct census of individual facilities or patient access",
+    "age": "No adult-specific age restriction in downloaded capacity records"
+  },
+  "common technology definition": {
+    "setting": "Primary health care, private or public sector or both",
+    "generally available threshold": "50% or more health care facilities"
+  },
+  "items": [
+    {
+      "label": "支气管扩张剂",
+      "code": "NCD_CCS_Bronchodilators",
+      "api name": "General availability of bronchodilators in the public health sector",
+      "portal label": "General availability of bronchodilator inhalers in the public health sector",
+      "type": "medication",
+      "downloaded years": [2013,2015,2017,2019,2021],
+      "url": "https://ghoapi.azureedge.net/api/NCD_CCS_Bronchodilators",
+      "caution": "Generic bronchodilator field. Salbutamol/SABA-only molecule identity not proven for all waves; preserve source label."
+    },
+    {
+      "label": "吸入激素",
+      "code": "NCD_CCS_Steroid",
+      "api name": "General availability of steroid inhalers in the public health sector",
+      "type": "medication",
+      "downloaded years": [2013,2015,2017,2019,2021],
+      "url": "https://ghoapi.azureedge.net/api/NCD_CCS_Steroid",
+      "caution": "Inhaled, not oral steroid. Separate ComboInhaler item is available in 2021. Do not equate No with absence of every anti-inflammatory inhaler. Single-component restriction needs questionnaire-level verification."
+    },
+    {
+      "label": "复方吸入剂",
+      "code": "NCD_CCS_ComboInhaler",
+      "api name": "General availability of combination budesonide formoterol inhaler in the public health sector",
+      "type": "medication",
+      "downloaded years": [2021],
+      "url": "https://ghoapi.azureedge.net/api/NCD_CCS_ComboInhaler",
+      "caution": "Specifies budesonide-formoterol. Availability is not correct prescription, reliever authorization, dose, device technique, or use of a GINA pathway."
+    },
+    {
+      "label": "肺量计",
+      "code": "NCD_CCS_Spirom",
+      "api name": "General availability of spirometry at the primary health care level",
+      "type": "technology",
+      "downloaded years": [2021],
+      "url": "https://ghoapi.azureedge.net/api/NCD_CCS_Spirom",
+      "caution": "Presence of technology is not verified diagnostic quality or correct asthma diagnosis."
+    },
+    {
+      "label": "峰流速",
+      "code": "NCD_CCS_PeakFlow",
+      "api name": "General availability of peak flow measurement at the primary health care level",
+      "type": "technology",
+      "downloaded years": [2021],
+      "url": "https://ghoapi.azureedge.net/api/NCD_CCS_PeakFlow",
+      "caution": "Current portal heading includes an apparent extra word spirometry, but the definition and API field are specifically peak flow. Do not combine the two measures."
+    },
+    {
+      "label": "呼吸病计划",
+      "code": "NCD_CCS_CRDPlan",
+      "api name": "Existence of operational policy/strategy/action plan for chronic respiratory diseases",
+      "definition summary": "CRD-specific operational policy/strategy/action plan, or CRD included in an integrated NCD policy/strategy/action plan",
+      "type": "policy",
+      "downloaded years": [2013,2015,2017,2019,2021],
+      "url": "https://ghoapi.azureedge.net/api/NCD_CCS_CRDPlan",
+      "caution": "Policy indicator, not availability of actual diagnosis or treatment to patients."
+    },
+    {
+      "label": "呼吸病指南",
+      "code": "NCD_CCS_CRD_GUIDE",
+      "api name": "Existence of evidence-based national guidelines/protocols/standards for the management of chronic respiratory diseases",
+      "definition summary": "Government/competent authority approved or recognized national evidence-based guidelines/protocols/standards for CRD management through primary care",
+      "type": "guideline",
+      "downloaded years": [2021],
+      "url": "https://ghoapi.azureedge.net/api/NCD_CCS_CRD_GUIDE",
+      "caution": "Existence of guidance, not implementation, guideline concordance, or provision of care."
+    }
+  ],
+  "row schema": {
+    "TimeDim": "Survey year as reported by API; do not automatically treat as an annual facility audit",
+    "SpatialDim": "WHO country code, mapped with DIMENSION/COUNTRY/DimensionValues",
+    "ParentLocationCode and ParentLocation": "Original WHO region code and label; retained per record",
+    "Value": "Original response retained verbatim",
+    "Yes No Missing": "Derived: only exact Yes/No are valid, all other values are Missing",
+    "Missing reason": "Original non-Yes/No string, such as Don't know or No response, retained",
+    "Id and Date": "Original API ID and Date retained, not survey year replacements"
+  },
+  "country names": "https://ghoapi.azureedge.net/api/DIMENSION/COUNTRY/DimensionValues",
+  "api indicator catalog": "https://ghoapi.azureedge.net/api/Indicator",
+  "account required": false,
+  "2023 status": "2023 survey reports and portal display exist. Global row-level 2023 data not obtained in this audit; these seven downloaded API series end in 2021."
+}

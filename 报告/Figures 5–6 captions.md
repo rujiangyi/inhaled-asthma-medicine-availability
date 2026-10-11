@@ -1,0 +1,7 @@
+# Figures 5–6 captions
+
+**Figure 5. Concentration of adult asthma burden across ICS trajectories.**
+(a) Cumulative asthma disability-adjusted life years (DALYs) across 168 countries ordered from highest to lowest burden; coloured layers track the eight ICS-response trajectories. (b) Trajectory shares use separate country, population and DALY denominators within that panel. Row labels include country counts. (c) Contributions within the 35 NNN countries, with actual percentages shown on a logarithmic vertical axis. Sequences indicate responses in 2017, 2019 and 2021: N, No; Y, Yes. Burden and population refer to 2021 and ages 25+. These are DALYs among residents, not estimates of untreated or treatment-attributable burden.
+
+**Figure 6. Environmental and health-system context of ICS availability.**
+(a) Ambient PM2.5 versus GDP per capita in 160 countries; colour denotes 2021 ICS responses and compressed bubble areas indicate populations aged 25+. (b) Country distributions by ICS trajectory, with available counts; Changed combines six nonconstant response sequences without implying improvement. Boxes indicate medians and interquartile ranges. (c) Four indicators aligned across the same 160 complete-data countries, ordered by GDP; colour denotes within-indicator percentile across countries, not a risk score. The separate status strip records ICS responses. Contextual data are from 2021; GDP and health-spending axes are logarithmic. These descriptive country-level comparisons do not identify causal effects.

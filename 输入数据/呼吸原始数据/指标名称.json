@@ -1,0 +1,37 @@
+[
+  {
+    "IndicatorCode": "NCD_CCS_Bronchodilators",
+    "IndicatorName": "General availability of bronchodilators in the public health sector",
+    "Language": "EN"
+  },
+  {
+    "IndicatorCode": "NCD_CCS_CRDPlan",
+    "IndicatorName": "Existence of operational policy/strategy/action plan for chronic respiratory diseases",
+    "Language": "EN"
+  },
+  {
+    "IndicatorCode": "NCD_CCS_Spirom",
+    "IndicatorName": "General availability of spirometry at the primary health care level",
+    "Language": "EN"
+  },
+  {
+    "IndicatorCode": "NCD_CCS_PeakFlow",
+    "IndicatorName": "General availability of peak flow measurement at the primary health care level",
+    "Language": "EN"
+  },
+  {
+    "IndicatorCode": "NCD_CCS_Steroid",
+    "IndicatorName": "General availability of steroid inhalers in the public health sector",
+    "Language": "EN"
+  },
+  {
+    "IndicatorCode": "NCD_CCS_CRD_GUIDE",
+    "IndicatorName": "Existence of evidence-based national guidelines/protocols/standards for the management of chronic respiratory diseases",
+    "Language": "EN"
+  },
+  {
+    "IndicatorCode": "NCD_CCS_ComboInhaler",
+    "IndicatorName": "General availability of combination budesonide formoterol inhaler in the public health sector",
+    "Language": "EN"
+  }
+]

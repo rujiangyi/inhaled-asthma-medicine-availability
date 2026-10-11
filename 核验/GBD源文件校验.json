@@ -1,0 +1,87 @@
+{
+  "checked UTC": "2026-10-05T00:45:29.007258+00:00",
+  "source files": [
+    {
+      "dataset": "asthma",
+      "raw CSV": "I:\\数据恢复\\小川的数据\\论文\\我的论文\\火灾烟霾暴露估计不确定性对人群防护重点地区选择的影响\\data\\global_outcome\\GBD2023\\raw_exports\\adult_20260914\\gbd_asthma_dalys_adult_agebands.csv",
+      "raw ZIP": "I:\\数据恢复\\小川的数据\\论文\\我的论文\\火灾烟霾暴露估计不确定性对人群防护重点地区选择的影响\\data\\global_outcome\\GBD2023\\raw_exports\\adult_20260914\\1ef634e1dcb197c1\\IHME-GBD_2023_DATA-f3910aa6-1.zip",
+      "CSV SHA256": "d83fa262c1543e8f575de7087b0309cdfbf149de81e7390d7fab6ecb9bc98edc",
+      "ZIP SHA256": "781c83f88545f77343981c9cba48530c978980a77645a1b04d07d2c2d9bbdf4e",
+      "citation SHA256": "339dc2be55e1576d87c0a9640ee20865e222e4f7d19e6d30a7731a0f8e476874",
+      "task id": "f3910aa69dc58d191a7f63c87e1b73c3",
+      "download URL": "https://dl.healthdata.org:443/gbd-api-2023-public/f3910aa69dc58d191a7f63c87e1b73c3_files/IHME-GBD_2023_DATA-f3910aa6-1.zip",
+      "ZIP CRC": "PASS",
+      "CSV byte match": true
+    },
+    {
+      "dataset": "population",
+      "raw CSV": "I:\\数据恢复\\小川的数据\\论文\\我的论文\\火灾烟霾暴露估计不确定性对人群防护重点地区选择的影响\\data\\global_outcome\\GBD2023\\raw_exports\\adult_20260914\\gbd_population_number_adult_agebands.csv",
+      "raw ZIP": "I:\\数据恢复\\小川的数据\\论文\\我的论文\\火灾烟霾暴露估计不确定性对人群防护重点地区选择的影响\\data\\global_outcome\\GBD2023\\raw_exports\\adult_20260914\\6a744fe970b8dbe4\\IHME-GBD_2023_DATA-e981cf77-1.zip",
+      "CSV SHA256": "c15196c4059b7ca6503121dfa01e83170efa37520579bd26b764540647378eea",
+      "ZIP SHA256": "9df21813aef6a8c339a78997e70c52e51c7d16302b0e88a1340c31a6d33bde00",
+      "citation SHA256": "339dc2be55e1576d87c0a9640ee20865e222e4f7d19e6d30a7731a0f8e476874",
+      "task id": "e981cf774ebe93dd53b2009ae49d0cca",
+      "download URL": "https://dl.healthdata.org:443/gbd-api-2023-public/e981cf774ebe93dd53b2009ae49d0cca_files/IHME-GBD_2023_DATA-e981cf77-1.zip",
+      "ZIP CRC": "PASS",
+      "CSV byte match": true
+    }
+  ],
+  "release label": "GBD 2023",
+  "citation year in original package": 2024,
+  "release evidence status": "Supported by provider download namespace, package citation, preserved task record and official hierarchy; the original citation template lists 2024, but the dataset publication year has not been independently confirmed. The methods articles published in 2025 are different bibliographic objects and do not establish that the dataset date is incorrect. The original citation and download receipts are preserved; the dynamic results tool is cited as undated with its access date.",
+  "online retrieval 2026-10-05": "Original asthma and population dl.healthdata.org/gbd-api-2023-public ZIP links returned HTTP 404; no replacement data used.",
+  "population checks": {
+    "rows": 2448,
+    "unique countries and territories": 204,
+    "years": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "age id": 157,
+    "sex id": 3,
+    "measure id": 44,
+    "metric id": 1,
+    "max relative denominator discrepancy": 2.1653955351624948e-15,
+    "failed at tolerance 1e-8": 0,
+    "rate interpretation": "25+ age-aggregate crude DALY rate per 100000, not an age-standardized rate"
+  },
+  "geography checks": {
+    "crosswalk rows": 204,
+    "all old review flags": 23,
+    "WHO frame old review flags": 21,
+    "balanced168 old review flags": 19,
+    "balanced flagged ISO3": [
+      "AUS",
+      "AZE",
+      "CYP",
+      "DNK",
+      "FIN",
+      "FRA",
+      "GBR",
+      "GEO",
+      "IND",
+      "ISR",
+      "MAR",
+      "NLD",
+      "NOR",
+      "NZL",
+      "PAK",
+      "RUS",
+      "SOM",
+      "SRB",
+      "UKR"
+    ],
+    "automatic exclusions justified by old map flag": 0,
+    "exact territorial equivalence": "not certified; national ID matching is separate from identical spatial support"
+  }
+}

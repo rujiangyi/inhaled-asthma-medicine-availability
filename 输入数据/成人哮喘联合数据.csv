@@ -1,0 +1,583 @@
+﻿ISO3,country,year,Bronchodilator,ICS,Budesonide formoterol,two medicines valid,balanced 168,adult DALY matched,adult DALYs,adult DALY rate,geography review
+AFG,Afghanistan,2017,Don't know,Don't know,No observation for year,False,False,True,39899.08067737736,400.9501233396557,standard_ISO_cartographic_proxy
+AFG,Afghanistan,2019,Yes,Yes,No observation for year,True,False,True,42214.511728867175,387.31957586920237,standard_ISO_cartographic_proxy
+AFG,Afghanistan,2021,Yes,Yes,No,True,False,True,40795.10264031364,341.4419608311236,standard_ISO_cartographic_proxy
+AGO,Angola,2017,No,No,No observation for year,True,False,True,61311.91475549249,595.2104281892346,standard_ISO_cartographic_proxy
+AGO,Angola,2019,No,No,No observation for year,True,False,True,65169.91998292372,587.4435288040806,standard_ISO_cartographic_proxy
+AGO,Angola,2021,Yes,Don't know,Yes,False,False,True,63961.61413359077,536.7683636623733,standard_ISO_cartographic_proxy
+ALB,Albania,2017,Yes,Yes,No observation for year,True,True,True,7310.097923151005,404.938477440908,standard_ISO_cartographic_proxy
+ALB,Albania,2019,Yes,Yes,No observation for year,True,True,True,7455.883961072315,414.67489689677535,standard_ISO_cartographic_proxy
+ALB,Albania,2021,Yes,Yes,Yes,True,True,True,7460.237600277043,407.6144222375488,standard_ISO_cartographic_proxy
+AND,Andorra,2017,Yes,Yes,No observation for year,True,True,True,196.45077625357214,322.82710334170497,standard_ISO_cartographic_proxy
+AND,Andorra,2019,Yes,Yes,No observation for year,True,True,True,200.1987651155468,320.3590460202717,standard_ISO_cartographic_proxy
+AND,Andorra,2021,Yes,Yes,Yes,True,True,True,205.37828357792202,315.18954926883896,standard_ISO_cartographic_proxy
+ARE,United Arab Emirates,2017,Yes,Yes,No observation for year,True,True,True,18120.3197568978,233.01572879905675,standard_ISO_cartographic_proxy
+ARE,United Arab Emirates,2019,Yes,Yes,No observation for year,True,True,True,19508.433049496714,247.7961221161699,standard_ISO_cartographic_proxy
+ARE,United Arab Emirates,2021,Yes,Yes,Yes,True,True,True,20373.292157468903,255.681645448608,standard_ISO_cartographic_proxy
+ARG,Argentina,2017,Yes,No,No observation for year,True,True,True,70229.14090006113,259.786406981722,standard_ISO_cartographic_proxy
+ARG,Argentina,2019,Yes,Yes,No observation for year,True,True,True,71887.85353716403,256.20554120704696,standard_ISO_cartographic_proxy
+ARG,Argentina,2021,Yes,Yes,No,True,True,True,72719.1060995255,250.83866954055998,standard_ISO_cartographic_proxy
+ARM,Armenia,2017,Yes,Yes,No observation for year,True,True,True,2590.2607339503675,123.71225353945565,standard_ISO_cartographic_proxy
+ARM,Armenia,2019,Yes,Yes,No observation for year,True,True,True,2601.83339723704,123.17893144383379,standard_ISO_cartographic_proxy
+ARM,Armenia,2021,Yes,Yes,Yes,True,True,True,2583.6526316894924,122.1012943902286,standard_ISO_cartographic_proxy
+ATG,Antigua and Barbuda,2017,Yes,Yes,No observation for year,True,True,True,184.91424978665168,324.57831775819193,standard_ISO_cartographic_proxy
+ATG,Antigua and Barbuda,2019,Yes,Yes,No observation for year,True,True,True,196.24417337898996,335.8682671289284,standard_ISO_cartographic_proxy
+ATG,Antigua and Barbuda,2021,Yes,Yes,Yes,True,True,True,201.7453677034893,337.501090055844,standard_ISO_cartographic_proxy
+AUS,Australia,2017,Yes,Yes,No observation for year,True,True,True,72647.03447134537,438.8368495905629,review_required
+AUS,Australia,2019,Yes,Yes,No observation for year,True,True,True,81856.46966363784,472.6470353117485,review_required
+AUS,Australia,2021,Yes,Yes,Yes,True,True,True,85827.6048763212,473.8191846332715,review_required
+AUT,Austria,2017,Yes,Yes,No observation for year,True,True,True,16813.2571442295,259.13312101519927,standard_ISO_cartographic_proxy
+AUT,Austria,2019,Yes,Yes,No observation for year,True,True,True,17075.981102712587,258.2440104000895,standard_ISO_cartographic_proxy
+AUT,Austria,2021,Yes,Yes,Yes,True,True,True,17208.33146003173,256.45668778702867,standard_ISO_cartographic_proxy
+AZE,Azerbaijan,2017,Yes,No,No observation for year,True,True,True,13145.417868029377,212.08447195652846,review_required
+AZE,Azerbaijan,2019,Yes,No,No observation for year,True,True,True,13886.234966959573,215.7862932662508,review_required
+AZE,Azerbaijan,2021,Yes,Yes,Yes,True,True,True,13680.20072371585,206.91748439911774,review_required
+BDI,Burundi,2017,Yes,No,No observation for year,True,True,True,23048.656474061754,562.5027703686319,standard_ISO_cartographic_proxy
+BDI,Burundi,2019,No,No,No observation for year,True,True,True,24528.647490267518,556.8743602828413,standard_ISO_cartographic_proxy
+BDI,Burundi,2021,No,No,No,True,True,True,24275.93443486739,509.24317910996075,standard_ISO_cartographic_proxy
+BEL,Belgium,2017,Yes,Yes,No observation for year,True,True,True,18792.866939071788,231.9886946125374,standard_ISO_cartographic_proxy
+BEL,Belgium,2019,Yes,Yes,No observation for year,True,True,True,17381.19593026437,211.8092583371855,standard_ISO_cartographic_proxy
+BEL,Belgium,2021,Yes,Yes,Don't know,True,True,True,18225.83368079242,220.33948275785505,standard_ISO_cartographic_proxy
+BEN,Benin,2017,No,No,No observation for year,True,True,True,16622.866705373388,405.64947708698384,standard_ISO_cartographic_proxy
+BEN,Benin,2019,No,No,No observation for year,True,True,True,16816.230579470048,380.6596215165066,standard_ISO_cartographic_proxy
+BEN,Benin,2021,No,No,No,True,True,True,17535.05934820339,368.04262521797585,standard_ISO_cartographic_proxy
+BFA,Burkina Faso,2017,No,No,No observation for year,True,True,True,25650.880038632728,360.58177708356885,standard_ISO_cartographic_proxy
+BFA,Burkina Faso,2019,No,No,No observation for year,True,True,True,25968.972432000268,342.92761126220466,standard_ISO_cartographic_proxy
+BFA,Burkina Faso,2021,No,No,No,True,True,True,25535.311535357137,316.89490896947683,standard_ISO_cartographic_proxy
+BGD,Bangladesh,2017,Yes,No,No observation for year,True,True,True,564339.8467768962,714.8009038085704,standard_ISO_cartographic_proxy
+BGD,Bangladesh,2019,Yes,Yes,No observation for year,True,True,True,579753.6536411379,700.4751375788313,standard_ISO_cartographic_proxy
+BGD,Bangladesh,2021,No,No,No,True,True,True,510714.3081418445,590.1089379127649,standard_ISO_cartographic_proxy
+BGR,Bulgaria,2017,Yes,Yes,No observation for year,True,True,True,11515.614146129168,204.70489856835226,standard_ISO_cartographic_proxy
+BGR,Bulgaria,2019,Yes,Yes,No observation for year,True,True,True,11607.561615489276,208.45698709758696,standard_ISO_cartographic_proxy
+BGR,Bulgaria,2021,Yes,Yes,Don't know,True,True,True,11659.933138700768,212.34326597053774,standard_ISO_cartographic_proxy
+BHR,Bahrain,2017,Yes,Yes,No observation for year,True,True,True,2250.4238174009743,241.0009294759888,standard_ISO_cartographic_proxy
+BHR,Bahrain,2019,Yes,Yes,No observation for year,True,True,True,2344.8051508800118,243.38906750872073,standard_ISO_cartographic_proxy
+BHR,Bahrain,2021,Yes,Yes,Yes,True,True,True,2366.6856321608543,235.36502570425336,standard_ISO_cartographic_proxy
+BHS,Bahamas,2017,Yes,Yes,No observation for year,True,True,True,767.6227952170151,326.2216761310055,standard_ISO_cartographic_proxy
+BHS,Bahamas,2019,Yes,Yes,No observation for year,True,True,True,801.249156657294,326.54947282346535,standard_ISO_cartographic_proxy
+BHS,Bahamas,2021,Yes,Yes,Yes,True,True,True,817.0392804672637,322.96769023108783,standard_ISO_cartographic_proxy
+BIH,Bosnia and Herzegovina,2017,Yes,Yes,No observation for year,True,True,True,5946.822849762114,235.40022127938582,standard_ISO_cartographic_proxy
+BIH,Bosnia and Herzegovina,2019,Yes,Yes,No observation for year,True,True,True,5925.674132447943,238.67592822824963,standard_ISO_cartographic_proxy
+BIH,Bosnia and Herzegovina,2021,Yes,Yes,Yes,True,True,True,5785.104812165738,236.67612886036594,standard_ISO_cartographic_proxy
+BLR,Belarus,2017,Yes,Yes,No observation for year,True,True,True,10225.711279537161,144.56263688828196,standard_ISO_cartographic_proxy
+BLR,Belarus,2019,Yes,Yes,No observation for year,True,True,True,10336.75083890543,146.23108409205548,standard_ISO_cartographic_proxy
+BLR,Belarus,2021,Yes,Yes,Yes,True,True,True,10351.099673859711,147.36728764412095,standard_ISO_cartographic_proxy
+BLZ,Belize,2017,No,No,No observation for year,True,True,True,645.9128593991738,348.1845036716822,standard_ISO_cartographic_proxy
+BLZ,Belize,2019,Yes,No,No observation for year,True,True,True,681.7864628105,348.2046971507628,standard_ISO_cartographic_proxy
+BLZ,Belize,2021,Yes,No,Don't know,True,True,True,678.0242262384505,330.2339049030296,standard_ISO_cartographic_proxy
+BOL,Bolivia (Plurinational State of),2017,Don't know,Don't know,No observation for year,False,False,True,9570.085808818005,167.15689897231454,standard_ISO_cartographic_proxy
+BOL,Bolivia (Plurinational State of),2019,Don't know,Don't know,No observation for year,False,False,True,9958.305731299253,165.05473280607924,standard_ISO_cartographic_proxy
+BOL,Bolivia (Plurinational State of),2021,Yes,Yes,Yes,True,False,True,9755.590526156886,155.62419106745793,standard_ISO_cartographic_proxy
+BRA,Brazil,2017,Yes,Yes,No observation for year,True,True,True,223253.79939921325,173.70554508425548,standard_ISO_cartographic_proxy
+BRA,Brazil,2019,Yes,Yes,No observation for year,True,True,True,220553.00252954251,166.87098416542267,standard_ISO_cartographic_proxy
+BRA,Brazil,2021,Yes,Yes,Yes,True,True,True,327733.72673649876,242.1757054707868,standard_ISO_cartographic_proxy
+BRB,Barbados,2017,Yes,Yes,No observation for year,True,True,True,788.9271131608203,380.5746118431389,standard_ISO_cartographic_proxy
+BRB,Barbados,2019,Yes,Yes,No observation for year,True,True,True,815.7328946460344,385.7816842768094,standard_ISO_cartographic_proxy
+BRB,Barbados,2021,Yes,Yes,Yes,True,True,True,806.453779711055,376.12973745504223,standard_ISO_cartographic_proxy
+BRN,Brunei Darussalam,2017,Yes,Yes,No observation for year,True,True,True,733.6733768555227,280.14664673917594,standard_ISO_cartographic_proxy
+BRN,Brunei Darussalam,2019,Yes,Yes,No observation for year,True,True,True,758.943149259175,277.26940695979323,standard_ISO_cartographic_proxy
+BRN,Brunei Darussalam,2021,Yes,Yes,Yes,True,True,True,797.5654868675633,279.1997617248229,standard_ISO_cartographic_proxy
+BTN,Bhutan,2017,Yes,No,No observation for year,True,True,True,2384.0536073770013,586.0304849950645,standard_ISO_cartographic_proxy
+BTN,Bhutan,2019,Yes,No,No observation for year,True,True,True,2497.6026158477966,591.63533905147,standard_ISO_cartographic_proxy
+BTN,Bhutan,2021,Yes,Yes,Yes,True,True,True,2603.2149717384564,600.1448136841071,standard_ISO_cartographic_proxy
+BWA,Botswana,2017,Yes,Yes,No observation for year,True,True,True,6291.426787400932,554.119626848104,standard_ISO_cartographic_proxy
+BWA,Botswana,2019,Yes,Yes,No observation for year,True,True,True,6553.320377158682,551.5242093481161,standard_ISO_cartographic_proxy
+BWA,Botswana,2021,Yes,Yes,Yes,True,True,True,6344.390029649401,512.8547594634227,standard_ISO_cartographic_proxy
+CAF,Central African Republic,2017,No,No,No observation for year,True,True,True,13600.01699062811,685.2012561853611,standard_ISO_cartographic_proxy
+CAF,Central African Republic,2019,Yes,No,No observation for year,True,True,True,14260.438998169187,690.1521274820539,standard_ISO_cartographic_proxy
+CAF,Central African Republic,2021,No,No,No,True,True,True,14710.610030557606,678.7647675149171,standard_ISO_cartographic_proxy
+CAN,Canada,2017,Yes,Yes,No observation for year,True,True,True,99021.26512862254,381.6400704703634,standard_ISO_cartographic_proxy
+CAN,Canada,2019,Yes,Yes,No observation for year,True,True,True,104657.43446074537,393.1007399452401,standard_ISO_cartographic_proxy
+CAN,Canada,2021,Yes,Yes,Yes,True,True,True,109618.90263199004,402.1458627632273,standard_ISO_cartographic_proxy
+CHE,Switzerland,2017,Yes,Yes,No observation for year,True,True,True,17096.9095955663,269.31793626977037,standard_ISO_cartographic_proxy
+CHE,Switzerland,2019,Yes,Yes,No observation for year,True,True,True,17385.575076225545,268.67623264078014,standard_ISO_cartographic_proxy
+CHE,Switzerland,2021,Yes,Yes,Yes,True,True,True,17302.84838427063,262.7463492073183,standard_ISO_cartographic_proxy
+CHL,Chile,2017,Yes,Yes,No observation for year,True,True,True,28036.297721435327,239.77413632646434,standard_ISO_cartographic_proxy
+CHL,Chile,2019,Yes,Yes,No observation for year,True,True,True,29311.317957462146,241.47932327354235,standard_ISO_cartographic_proxy
+CHL,Chile,2021,Yes,Yes,Yes,True,True,True,29909.699142558904,237.71694089391215,standard_ISO_cartographic_proxy
+CHN,China,2017,Yes,Yes,No observation for year,True,False,True,1265055.4667459815,127.09809899598002,review_required
+CHN,China,2019,Yes,Yes,No observation for year,True,False,True,1362741.4097121481,134.9678670323271,review_required
+CHN,China,2021,Yes,Don't know,No,False,False,True,1558961.1244491453,152.7167050219181,review_required
+CIV,Cote d'Ivoire,2017,Yes,No,No observation for year,True,True,True,38990.946022177865,375.0475354182038,standard_ISO_cartographic_proxy
+CIV,Cote d'Ivoire,2019,Yes,No,No observation for year,True,True,True,40940.15129863475,361.4171725042157,standard_ISO_cartographic_proxy
+CIV,Cote d'Ivoire,2021,No,No,No,True,True,True,41879.17578161648,338.39337161528846,standard_ISO_cartographic_proxy
+CMR,Cameroon,2017,Yes,No,No observation for year,True,True,True,43614.65608018027,422.5725570915542,standard_ISO_cartographic_proxy
+CMR,Cameroon,2019,Yes,No,No observation for year,True,True,True,46357.327374980836,416.35393066899223,standard_ISO_cartographic_proxy
+CMR,Cameroon,2021,Yes,No,No,True,True,True,46222.999197325946,386.4524232356164,standard_ISO_cartographic_proxy
+COD,Democratic Republic of the Congo,2017,No,Don't know,No observation for year,False,False,True,186726.09470937742,642.9851317492236,standard_ISO_cartographic_proxy
+COD,Democratic Republic of the Congo,2019,No,Don't know,No observation for year,False,False,True,195619.12846740268,632.2788884267052,standard_ISO_cartographic_proxy
+COD,Democratic Republic of the Congo,2021,Yes,Don't know,Don't know,False,False,True,194687.26359075095,591.9389145130762,standard_ISO_cartographic_proxy
+COG,Congo,2017,No,No,No observation for year,True,True,True,10583.83690312915,488.6229868288218,standard_ISO_cartographic_proxy
+COG,Congo,2019,No,No,No observation for year,True,True,True,11006.834845731128,480.3579593012627,standard_ISO_cartographic_proxy
+COG,Congo,2021,No,No,No,True,True,True,10817.98800313121,448.1196556626873,standard_ISO_cartographic_proxy
+COK,Cook Islands,2017,Yes,Yes,No observation for year,True,True,True,48.32069273327486,458.0919884020813,standard_ISO_cartographic_proxy
+COK,Cook Islands,2019,Yes,Yes,No observation for year,True,True,True,46.8090275463751,469.09463695884386,standard_ISO_cartographic_proxy
+COK,Cook Islands,2021,Yes,Yes,Yes,True,True,True,37.92631995360545,402.03275222719554,standard_ISO_cartographic_proxy
+COL,Colombia,2017,Yes,Yes,No observation for year,True,True,True,50957.65705617071,182.30455031365662,standard_ISO_cartographic_proxy
+COL,Colombia,2019,Yes,Yes,No observation for year,True,True,True,62167.127989463,211.3379339454148,standard_ISO_cartographic_proxy
+COL,Colombia,2021,Yes,Yes,Don't know,True,True,True,67899.54724956586,219.13693988563958,standard_ISO_cartographic_proxy
+COM,Comoros,2017,Yes,No,No observation for year,True,True,True,1526.9459149704376,458.85096459457503,standard_ISO_cartographic_proxy
+COM,Comoros,2019,Yes,No,No observation for year,True,True,True,1588.8607395510624,453.5352877204467,standard_ISO_cartographic_proxy
+COM,Comoros,2021,Yes,No,No,True,True,True,1523.9755378718723,413.7566690303989,standard_ISO_cartographic_proxy
+CPV,Cabo Verde,2017,Yes,Yes,No observation for year,True,True,True,804.4099280715488,303.95714072125253,standard_ISO_cartographic_proxy
+CPV,Cabo Verde,2019,Yes,Yes,No observation for year,True,True,True,816.942587910878,301.8483937807714,standard_ISO_cartographic_proxy
+CPV,Cabo Verde,2021,Yes,No,No,True,True,True,678.4773408694932,246.61936443090028,standard_ISO_cartographic_proxy
+CRI,Costa Rica,2017,Yes,Yes,No observation for year,True,True,True,16134.827480150481,543.0567006411388,standard_ISO_cartographic_proxy
+CRI,Costa Rica,2019,Yes,Yes,No observation for year,True,True,True,16763.078533405165,539.4079111884159,standard_ISO_cartographic_proxy
+CRI,Costa Rica,2021,Yes,Yes,No,True,True,True,17362.16284889799,536.527937897312,standard_ISO_cartographic_proxy
+CUB,Cuba,2017,Yes,Yes,No observation for year,True,True,True,30753.359163492212,376.0749431475194,standard_ISO_cartographic_proxy
+CUB,Cuba,2019,Yes,Yes,No observation for year,True,True,True,31691.710098051703,386.05699545753174,standard_ISO_cartographic_proxy
+CUB,Cuba,2021,Yes,Yes,Yes,True,True,True,33867.598728397286,412.31637645825884,standard_ISO_cartographic_proxy
+CYP,Cyprus,2017,Yes,Yes,No observation for year,True,True,True,2882.4720892978225,314.85770251973344,review_required
+CYP,Cyprus,2019,Yes,Yes,No observation for year,True,True,True,2978.0883848357403,312.6248519863237,review_required
+CYP,Cyprus,2021,No,No,No,True,True,True,2993.6482791262106,304.9441296658792,review_required
+CZE,Czechia,2017,Yes,Yes,No observation for year,True,True,True,14539.519722587534,182.63800682021892,standard_ISO_cartographic_proxy
+CZE,Czechia,2019,Yes,Yes,No observation for year,True,True,True,14980.541320952407,187.42249305480695,standard_ISO_cartographic_proxy
+CZE,Czechia,2021,Yes,Yes,Yes,True,True,True,15298.80933312776,192.3176968676719,standard_ISO_cartographic_proxy
+DEU,Germany,2017,Yes,Yes,No observation for year,True,True,True,180929.4939503029,286.9254182041652,standard_ISO_cartographic_proxy
+DEU,Germany,2019,Yes,Yes,No observation for year,True,True,True,177649.77389870537,281.0323134266468,standard_ISO_cartographic_proxy
+DEU,Germany,2021,Yes,Yes,Yes,True,True,True,177079.0139524339,279.3326649402524,standard_ISO_cartographic_proxy
+DJI,Djibouti,2017,Yes,No,No observation for year,True,True,True,2456.66818220234,450.99442568494777,standard_ISO_cartographic_proxy
+DJI,Djibouti,2019,Yes,No,No observation for year,True,True,True,2619.573758556482,448.9011075756393,standard_ISO_cartographic_proxy
+DJI,Djibouti,2021,Yes,Yes,No,True,True,True,2640.612189244256,423.6286739356925,standard_ISO_cartographic_proxy
+DMA,Dominica,2017,Yes,Yes,No observation for year,True,True,True,185.64127430857394,430.0961520483162,standard_ISO_cartographic_proxy
+DMA,Dominica,2019,Yes,Yes,No observation for year,True,True,True,187.7065924482713,427.3708532987996,standard_ISO_cartographic_proxy
+DMA,Dominica,2021,Yes,No,No,True,True,True,184.45745234743816,414.41579326978535,standard_ISO_cartographic_proxy
+DNK,Denmark,2017,Yes,Yes,No observation for year,True,True,True,13322.345973217856,329.6380965098242,review_required
+DNK,Denmark,2019,Yes,Yes,No observation for year,True,True,True,13296.723446727417,323.2945386863072,review_required
+DNK,Denmark,2021,Yes,Yes,Yes,True,True,True,13435.787118880264,320.88737372969814,review_required
+DOM,Dominican Republic,2017,Yes,No,No observation for year,True,True,True,20584.445933275118,364.5650485654388,standard_ISO_cartographic_proxy
+DOM,Dominican Republic,2019,Yes,No,No observation for year,True,True,True,21490.284221498274,366.1085242313221,standard_ISO_cartographic_proxy
+DOM,Dominican Republic,2021,Yes,No,No,True,True,True,21652.742206023955,356.0239078255281,standard_ISO_cartographic_proxy
+DZA,Algeria,2017,Yes,No,No observation for year,True,True,True,73662.53705257784,321.51984493192595,standard_ISO_cartographic_proxy
+DZA,Algeria,2019,Yes,No,No observation for year,True,True,True,76614.97269903979,320.01580530857115,standard_ISO_cartographic_proxy
+DZA,Algeria,2021,Yes,No,Yes,True,True,True,79658.32817312173,320.32494360905423,standard_ISO_cartographic_proxy
+ECU,Ecuador,2017,Yes,Yes,No observation for year,True,True,True,8017.904045361871,91.28975955138182,standard_ISO_cartographic_proxy
+ECU,Ecuador,2019,Yes,Yes,No observation for year,True,True,True,8313.618308830399,90.2572038564112,standard_ISO_cartographic_proxy
+ECU,Ecuador,2021,Yes,Yes,No,True,True,True,8624.003201425909,89.50003644599794,standard_ISO_cartographic_proxy
+EGY,Egypt,2017,Yes,No,No observation for year,True,False,True,148333.25372980363,321.5820999091794,standard_ISO_cartographic_proxy
+EGY,Egypt,2019,Yes,No,No observation for year,True,False,True,155682.23963381234,321.86488028592794,standard_ISO_cartographic_proxy
+EGY,Egypt,2021,No response,No response,No response,False,False,True,160149.31634156645,316.31043903113925,standard_ISO_cartographic_proxy
+ERI,Eritrea,2017,No,No,No observation for year,True,True,True,17319.776150914167,691.0735635999533,standard_ISO_cartographic_proxy
+ERI,Eritrea,2019,Yes,No,No observation for year,True,True,True,17872.475277442856,677.5339769739174,standard_ISO_cartographic_proxy
+ERI,Eritrea,2021,Yes,No,No,True,True,True,18121.451605710117,647.2538162475877,standard_ISO_cartographic_proxy
+ESP,Spain,2017,Yes,Yes,No observation for year,True,True,True,116878.93143660203,331.8194780697094,standard_ISO_cartographic_proxy
+ESP,Spain,2019,Yes,Yes,No observation for year,True,True,True,116849.79824117507,328.9484027276374,standard_ISO_cartographic_proxy
+ESP,Spain,2021,Yes,Yes,Yes,True,True,True,114933.35208768566,320.80619122694173,standard_ISO_cartographic_proxy
+EST,Estonia,2017,Yes,Yes,No observation for year,True,True,True,1585.4927286585228,162.99608369963718,standard_ISO_cartographic_proxy
+EST,Estonia,2019,Yes,Yes,No observation for year,True,True,True,1568.7220840900761,160.10568546013425,standard_ISO_cartographic_proxy
+EST,Estonia,2021,Yes,Yes,Yes,True,True,True,1583.1617526308492,160.41905778847462,standard_ISO_cartographic_proxy
+ETH,Ethiopia,2017,No,No,No observation for year,True,True,True,214162.536583716,598.4889318851817,standard_ISO_cartographic_proxy
+ETH,Ethiopia,2019,Yes,No,No observation for year,True,True,True,226226.9764534457,589.3702986606654,standard_ISO_cartographic_proxy
+ETH,Ethiopia,2021,Yes,Yes,Don't know,True,True,True,202337.1067836973,494.53140505612504,standard_ISO_cartographic_proxy
+FIN,Finland,2017,Yes,Yes,No observation for year,True,True,True,14180.202491609874,354.6423469286296,review_required
+FIN,Finland,2019,Yes,Yes,No observation for year,True,True,True,14660.18683052141,362.39248781427057,review_required
+FIN,Finland,2021,Yes,Yes,Yes,True,True,True,14837.195168230228,363.0165013503044,review_required
+FJI,Fiji,2017,Yes,Yes,No observation for year,True,True,True,6469.86160915932,1318.9433248869138,standard_ISO_cartographic_proxy
+FJI,Fiji,2019,Yes,Yes,No observation for year,True,True,True,6681.34638800625,1342.8034969171006,standard_ISO_cartographic_proxy
+FJI,Fiji,2021,Yes,Yes,No,True,True,True,6449.149936795318,1279.5348570216909,standard_ISO_cartographic_proxy
+FRA,France,2017,Yes,Yes,No observation for year,True,True,True,154949.20916392008,331.0243043536087,review_required
+FRA,France,2019,Yes,Yes,No observation for year,True,True,True,142127.46183009064,297.8150210593395,review_required
+FRA,France,2021,Yes,Yes,Yes,True,True,True,138894.6825921322,286.0629813161501,review_required
+FSM,Micronesia (Federated States of),2017,Yes,No,No observation for year,True,True,True,312.8816419116502,629.7187376992518,standard_ISO_cartographic_proxy
+FSM,Micronesia (Federated States of),2019,Yes,Yes,No observation for year,True,True,True,308.24506017225895,606.6807925751255,standard_ISO_cartographic_proxy
+FSM,Micronesia (Federated States of),2021,Yes,Yes,No,True,True,True,292.97489742414496,564.5183000678949,standard_ISO_cartographic_proxy
+GAB,Gabon,2017,Don't know,Don't know,No observation for year,False,False,True,4480.462258007264,581.0451067364442,standard_ISO_cartographic_proxy
+GAB,Gabon,2019,Don't know,Don't know,No observation for year,False,False,True,4589.097696316251,567.3631045672938,standard_ISO_cartographic_proxy
+GAB,Gabon,2021,No,No,No,True,False,True,4365.879536692688,516.1285554942444,standard_ISO_cartographic_proxy
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,Yes,Yes,No observation for year,True,True,True,230718.5877686749,491.4175168090109,review_required
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,Yes,Yes,No observation for year,True,True,True,218158.3311870315,456.6174697678212,review_required
+GBR,United Kingdom of Great Britain and Northern Ireland,2021,Yes,Yes,Yes,True,True,True,217929.1429489927,449.7728420043726,review_required
+GEO,Georgia,2017,Yes,Yes,No observation for year,True,True,True,5500.206789813236,212.54181606088886,review_required
+GEO,Georgia,2019,Yes,Yes,No observation for year,True,True,True,5105.316209033135,199.73334691776216,review_required
+GEO,Georgia,2021,Yes,Yes,Yes,True,True,True,4757.725229926878,189.55908188289868,review_required
+GHA,Ghana,2017,Yes,No,No observation for year,True,True,True,46509.387587982186,370.087221942835,standard_ISO_cartographic_proxy
+GHA,Ghana,2019,Yes,No,No observation for year,True,True,True,48121.25245087092,362.71361767423326,standard_ISO_cartographic_proxy
+GHA,Ghana,2021,Yes,No,No,True,True,True,49609.099085922564,354.94399716965137,standard_ISO_cartographic_proxy
+GIN,Guinea,2017,No,No,No observation for year,True,True,True,21128.096853753417,494.1078048263078,standard_ISO_cartographic_proxy
+GIN,Guinea,2019,Yes,No,No observation for year,True,True,True,21482.105454136276,473.2894571596027,standard_ISO_cartographic_proxy
+GIN,Guinea,2021,No,No,No,True,True,True,21795.517529917895,452.0974659588504,standard_ISO_cartographic_proxy
+GMB,Gambia,2017,No,Yes,No observation for year,True,True,True,3268.920039408157,409.95592632642706,standard_ISO_cartographic_proxy
+GMB,Gambia,2019,No,No,No observation for year,True,True,True,3405.986658214467,400.4828181630581,standard_ISO_cartographic_proxy
+GMB,Gambia,2021,Yes,No,No,True,True,True,3001.392955355263,331.9048222658183,standard_ISO_cartographic_proxy
+GNB,Guinea-Bissau,2017,Yes,No,No observation for year,True,False,True,3438.5138292918423,503.87179258757857,standard_ISO_cartographic_proxy
+GNB,Guinea-Bissau,2019,Yes,No,No observation for year,True,False,True,3605.3280924790593,496.55047298103676,standard_ISO_cartographic_proxy
+GNB,Guinea-Bissau,2021,No response,No response,No response,False,False,True,3529.4397368513623,458.6549983588946,standard_ISO_cartographic_proxy
+GNQ,Equatorial Guinea,2017,Don't know,Don't know,No observation for year,False,False,True,2329.729289906459,497.33710939078543,standard_ISO_cartographic_proxy
+GNQ,Equatorial Guinea,2019,Yes,Yes,No observation for year,True,False,True,2504.6809328646814,485.4626760112701,standard_ISO_cartographic_proxy
+GNQ,Equatorial Guinea,2021,Yes,Yes,Yes,True,False,True,2615.916178747691,462.68735113738853,standard_ISO_cartographic_proxy
+GRC,Greece,2017,Yes,Yes,No observation for year,True,True,True,21246.532703218618,258.52603353008396,standard_ISO_cartographic_proxy
+GRC,Greece,2019,Yes,Yes,No observation for year,True,True,True,21218.208267023434,257.5058966401998,standard_ISO_cartographic_proxy
+GRC,Greece,2021,Yes,Yes,Yes,True,True,True,21038.87832113224,255.66252383044872,standard_ISO_cartographic_proxy
+GRD,Grenada,2017,Yes,Yes,No observation for year,True,True,True,231.00688312556997,333.41301430882675,standard_ISO_cartographic_proxy
+GRD,Grenada,2019,Yes,Yes,No observation for year,True,True,True,252.3935392556471,355.7880256802411,standard_ISO_cartographic_proxy
+GRD,Grenada,2021,Yes,Yes,No,True,True,True,257.7980027410033,358.01415517181226,standard_ISO_cartographic_proxy
+GTM,Guatemala,2017,Yes,No,No observation for year,True,True,True,17124.604424204404,254.26889708336964,standard_ISO_cartographic_proxy
+GTM,Guatemala,2019,Yes,No,No observation for year,True,True,True,17756.904667916133,248.56846280168352,standard_ISO_cartographic_proxy
+GTM,Guatemala,2021,No,No,No,True,True,True,18683.315418401995,247.38086838095893,standard_ISO_cartographic_proxy
+GUY,Guyana,2017,Yes,Yes,No observation for year,True,True,True,1551.236275190267,383.9541667200125,standard_ISO_cartographic_proxy
+GUY,Guyana,2019,Yes,Yes,No observation for year,True,True,True,1678.0795706037597,396.4894078212623,standard_ISO_cartographic_proxy
+GUY,Guyana,2021,Yes,Yes,No,True,True,True,1616.5235541597756,366.94971618257193,standard_ISO_cartographic_proxy
+HND,Honduras,2017,No,No,No observation for year,True,True,True,29236.83175300263,699.0026841859083,standard_ISO_cartographic_proxy
+HND,Honduras,2019,No,No,No observation for year,True,True,True,31159.224240104137,695.2565927858075,standard_ISO_cartographic_proxy
+HND,Honduras,2021,No,No,Don't know,True,True,True,31029.504112755316,649.5916919503552,standard_ISO_cartographic_proxy
+HRV,Croatia,2017,Yes,Yes,No observation for year,True,True,True,7511.13765371083,242.2473366817357,standard_ISO_cartographic_proxy
+HRV,Croatia,2019,Yes,Yes,No observation for year,True,True,True,7385.531994557388,242.01066456913546,standard_ISO_cartographic_proxy
+HRV,Croatia,2021,Yes,Yes,Yes,True,True,True,7484.469369707731,249.67094985751,standard_ISO_cartographic_proxy
+HTI,Haiti,2017,Yes,Don't know,No observation for year,False,False,True,23105.23044886629,421.04455284992923,standard_ISO_cartographic_proxy
+HTI,Haiti,2019,Yes,Don't know,No observation for year,False,False,True,24470.004175741666,422.2648507744464,standard_ISO_cartographic_proxy
+HTI,Haiti,2021,No,No,No,True,False,True,25590.94831416102,419.95227509211253,standard_ISO_cartographic_proxy
+HUN,Hungary,2017,Yes,Yes,No observation for year,True,True,True,15309.713178665688,209.21596423804232,standard_ISO_cartographic_proxy
+HUN,Hungary,2019,Yes,Yes,No observation for year,True,True,True,15329.05588724706,209.40340867644764,standard_ISO_cartographic_proxy
+HUN,Hungary,2021,Yes,Yes,Yes,True,True,True,15382.570224629688,211.12826482517127,standard_ISO_cartographic_proxy
+IDN,Indonesia,2017,Yes,Yes,No observation for year,True,True,True,1066446.852140386,699.095770633235,standard_ISO_cartographic_proxy
+IDN,Indonesia,2019,Yes,No,No observation for year,True,True,True,1098035.270898086,687.2975950094698,standard_ISO_cartographic_proxy
+IDN,Indonesia,2021,Yes,Yes,No,True,True,True,1019768.0256192109,611.53019715865,standard_ISO_cartographic_proxy
+IND,India,2017,Yes,No,No observation for year,True,True,True,4467698.749651824,624.2716072049277,review_required
+IND,India,2019,Yes,No,No observation for year,True,True,True,4440383.817840871,592.7180280882942,review_required
+IND,India,2021,Yes,No,Don't know,True,True,True,4303974.074824821,550.731573521413,review_required
+IRL,Ireland,2017,Yes,Yes,No observation for year,True,True,True,10487.842363581454,319.05382610128504,standard_ISO_cartographic_proxy
+IRL,Ireland,2019,Yes,Yes,No observation for year,True,True,True,10672.411523012826,315.2276713417163,standard_ISO_cartographic_proxy
+IRL,Ireland,2021,Yes,Yes,Yes,True,True,True,10777.220433040568,308.4371951788616,standard_ISO_cartographic_proxy
+IRN,Iran (Islamic Republic of),2017,Yes,Yes,No observation for year,True,True,True,154644.73737818675,301.891430538598,standard_ISO_cartographic_proxy
+IRN,Iran (Islamic Republic of),2019,Yes,Yes,No observation for year,True,True,True,162899.77700549184,307.0357531005482,standard_ISO_cartographic_proxy
+IRN,Iran (Islamic Republic of),2021,Yes,Yes,Yes,True,True,True,150188.83290177098,276.9114644123167,standard_ISO_cartographic_proxy
+IRQ,Iraq,2017,Yes,Yes,No observation for year,True,True,True,62075.703869531695,355.79294818009436,standard_ISO_cartographic_proxy
+IRQ,Iraq,2019,Yes,Yes,No observation for year,True,True,True,66531.03565448929,357.83334897633733,standard_ISO_cartographic_proxy
+IRQ,Iraq,2021,Yes,Yes,No,True,True,True,67414.47905448648,342.637869434844,standard_ISO_cartographic_proxy
+ISL,Iceland,2017,Yes,Yes,No observation for year,True,True,True,776.1640915887684,344.7593816042945,standard_ISO_cartographic_proxy
+ISL,Iceland,2019,Yes,Yes,No observation for year,True,True,True,818.3588321731887,339.580545841782,standard_ISO_cartographic_proxy
+ISL,Iceland,2021,Yes,Yes,Don't know,True,True,True,849.3860173199845,336.33252051885006,standard_ISO_cartographic_proxy
+ISR,Israel,2017,Yes,Yes,No observation for year,True,True,True,13917.666765211434,270.67310539178425,review_required
+ISR,Israel,2019,Yes,Yes,No observation for year,True,True,True,14744.976324111245,276.60739701414974,review_required
+ISR,Israel,2021,Yes,Yes,Don't know,True,True,True,14956.26456543189,271.5871686112478,review_required
+ITA,Italy,2017,Yes,Yes,No observation for year,True,True,True,136869.02276002255,296.6961939493445,standard_ISO_cartographic_proxy
+ITA,Italy,2019,Yes,Yes,No observation for year,True,True,True,140827.8412508241,305.6069545693876,standard_ISO_cartographic_proxy
+ITA,Italy,2021,Yes,Yes,Yes,True,True,True,138169.25685294435,301.4649312814276,standard_ISO_cartographic_proxy
+JAM,Jamaica,2017,Yes,Yes,No observation for year,True,True,True,6054.380679456597,371.2457446133961,standard_ISO_cartographic_proxy
+JAM,Jamaica,2019,Yes,Yes,No observation for year,True,True,True,6204.195325957209,370.32411029205355,standard_ISO_cartographic_proxy
+JAM,Jamaica,2021,Yes,Yes,Yes,True,True,True,6114.903517634665,355.78742619296895,standard_ISO_cartographic_proxy
+JOR,Jordan,2017,Yes,Yes,No observation for year,True,True,True,10560.549436181933,208.38819970719493,standard_ISO_cartographic_proxy
+JOR,Jordan,2019,Yes,Yes,No observation for year,True,True,True,11767.215615115523,207.17660258020103,standard_ISO_cartographic_proxy
+JOR,Jordan,2021,Yes,Yes,Yes,True,True,True,12258.488278478242,195.17706801399524,standard_ISO_cartographic_proxy
+JPN,Japan,2017,Yes,Yes,No observation for year,True,True,True,217429.91672486725,219.50154507290324,standard_ISO_cartographic_proxy
+JPN,Japan,2019,Yes,Yes,No observation for year,True,True,True,218495.2681373861,220.72146636788736,standard_ISO_cartographic_proxy
+JPN,Japan,2021,Yes,Yes,Yes,True,True,True,213139.04529781992,215.8206142425602,standard_ISO_cartographic_proxy
+KAZ,Kazakhstan,2017,Yes,Yes,No observation for year,True,False,True,57757.22431102031,538.4416819994963,review_required
+KAZ,Kazakhstan,2019,Yes,Yes,No observation for year,True,False,True,55175.945421495424,495.9898421861282,review_required
+KAZ,Kazakhstan,2021,Yes,Don't know,Yes,False,False,True,55941.87279531887,490.3488320941594,review_required
+KEN,Kenya,2017,Yes,Yes,No observation for year,True,True,True,80745.15272527408,434.93343056572814,standard_ISO_cartographic_proxy
+KEN,Kenya,2019,No,No,No observation for year,True,True,True,83966.37768041682,426.1047264789383,standard_ISO_cartographic_proxy
+KEN,Kenya,2021,No,No,No,True,True,True,82984.50517100659,398.2998464172262,standard_ISO_cartographic_proxy
+KGZ,Kyrgyzstan,2017,Yes,Yes,No observation for year,True,True,True,4948.159935887385,151.76940416887544,standard_ISO_cartographic_proxy
+KGZ,Kyrgyzstan,2019,Yes,Yes,No observation for year,True,True,True,4884.548413213112,142.281009812703,standard_ISO_cartographic_proxy
+KGZ,Kyrgyzstan,2021,No,Yes,Yes,True,True,True,4511.084830334676,125.59461860418926,standard_ISO_cartographic_proxy
+KHM,Cambodia,2017,No,No,No observation for year,True,True,True,42531.20803990215,525.681898174767,standard_ISO_cartographic_proxy
+KHM,Cambodia,2019,No,No,No observation for year,True,True,True,44499.64343578578,522.2832234043166,standard_ISO_cartographic_proxy
+KHM,Cambodia,2021,No,No,No,True,True,True,43228.899427972974,484.3806726526001,standard_ISO_cartographic_proxy
+KIR,Kiribati,2017,Don't know,Don't know,No observation for year,False,False,True,389.3875314332098,730.4907077700668,standard_ISO_cartographic_proxy
+KIR,Kiribati,2019,Yes,Yes,No observation for year,True,False,True,398.7464284637308,716.5686487510463,standard_ISO_cartographic_proxy
+KIR,Kiribati,2021,No,No,No,True,False,True,370.8802312851502,637.9311957294362,standard_ISO_cartographic_proxy
+KNA,Saint Kitts and Nevis,2017,No,No,No observation for year,True,True,True,95.32102129442418,306.36454363976617,standard_ISO_cartographic_proxy
+KNA,Saint Kitts and Nevis,2019,Yes,No,No observation for year,True,True,True,96.0407169126075,304.2319734330649,standard_ISO_cartographic_proxy
+KNA,Saint Kitts and Nevis,2021,Yes,No,Yes,True,True,True,96.03117467174312,301.04063189940575,standard_ISO_cartographic_proxy
+KOR,Republic of Korea,2017,Yes,Yes,No observation for year,True,False,True,79536.49100041682,203.26793893871886,standard_ISO_cartographic_proxy
+KOR,Republic of Korea,2019,Yes,Yes,No observation for year,True,False,True,79521.28850054131,199.34274040671008,standard_ISO_cartographic_proxy
+KOR,Republic of Korea,2021,No response,No response,No response,False,False,True,80640.54582855554,199.10086768223258,standard_ISO_cartographic_proxy
+KWT,Kuwait,2017,Yes,Yes,No observation for year,True,True,True,7449.984012972764,287.28742941624233,standard_ISO_cartographic_proxy
+KWT,Kuwait,2019,Yes,Yes,No observation for year,True,True,True,7965.45732796813,288.34324359277707,standard_ISO_cartographic_proxy
+KWT,Kuwait,2021,Yes,Yes,Yes,True,True,True,8363.095886590816,284.300105363154,standard_ISO_cartographic_proxy
+LAO,Lao People's Democratic Republic,2017,Yes,No,No observation for year,True,True,True,18119.70863983278,543.0445765482049,standard_ISO_cartographic_proxy
+LAO,Lao People's Democratic Republic,2019,No,No,No observation for year,True,True,True,19116.618093913272,542.2572678141514,standard_ISO_cartographic_proxy
+LAO,Lao People's Democratic Republic,2021,No,No,No,True,True,True,19834.762604561172,534.9352463596567,standard_ISO_cartographic_proxy
+LBN,Lebanon,2017,Yes,Yes,No observation for year,True,True,True,9046.956140509834,280.0316968346938,standard_ISO_cartographic_proxy
+LBN,Lebanon,2019,Yes,Yes,No observation for year,True,True,True,9686.66308687935,285.5986933853311,standard_ISO_cartographic_proxy
+LBN,Lebanon,2021,Yes,Yes,No,True,True,True,9487.627255675474,273.3796955624254,standard_ISO_cartographic_proxy
+LBR,Liberia,2017,No,No,No observation for year,True,False,True,8287.642264083624,420.58176654010606,standard_ISO_cartographic_proxy
+LBR,Liberia,2019,No,No,No observation for year,True,False,True,8823.670910677294,411.710204321829,standard_ISO_cartographic_proxy
+LBR,Liberia,2021,Yes,Don't know,Yes,False,False,True,7901.986685630017,342.06899732464535,standard_ISO_cartographic_proxy
+LBY,Libya,2017,No,No,No observation for year,True,True,True,12074.252951196147,309.2757535617802,standard_ISO_cartographic_proxy
+LBY,Libya,2019,Yes,Yes,No observation for year,True,True,True,12710.277099048635,311.068784253439,standard_ISO_cartographic_proxy
+LBY,Libya,2021,Yes,Yes,No,True,True,True,12336.961841983573,290.6860531026051,standard_ISO_cartographic_proxy
+LCA,Saint Lucia,2017,Yes,Yes,No observation for year,True,True,True,423.93465432363377,376.49695543430903,standard_ISO_cartographic_proxy
+LCA,Saint Lucia,2019,Yes,Yes,No observation for year,True,True,True,465.18646790945087,398.220801200225,standard_ISO_cartographic_proxy
+LCA,Saint Lucia,2021,Yes,Yes,Yes,True,True,True,448.2663840311483,372.6198146989651,standard_ISO_cartographic_proxy
+LKA,Sri Lanka,2017,Yes,Yes,No observation for year,True,True,True,141047.75608826109,1066.752301370075,standard_ISO_cartographic_proxy
+LKA,Sri Lanka,2019,Yes,Yes,No observation for year,True,True,True,142029.04692962422,1048.2464385681528,standard_ISO_cartographic_proxy
+LKA,Sri Lanka,2021,Yes,Yes,No,True,True,True,118615.28280624843,859.6631245690182,standard_ISO_cartographic_proxy
+LSO,Lesotho,2017,Yes,Don't know,No observation for year,False,False,True,6793.166662572071,818.9009133887681,standard_ISO_cartographic_proxy
+LSO,Lesotho,2019,Yes,Yes,No observation for year,True,False,True,6874.394144198022,805.4569018613605,standard_ISO_cartographic_proxy
+LSO,Lesotho,2021,No response,No response,No response,False,False,True,6116.735046859728,697.458542846398,standard_ISO_cartographic_proxy
+LTU,Lithuania,2017,Yes,Yes,No observation for year,True,True,True,3239.139781017061,153.1555436201738,standard_ISO_cartographic_proxy
+LTU,Lithuania,2019,Yes,Yes,No observation for year,True,True,True,3160.3347532090124,149.3440670984307,standard_ISO_cartographic_proxy
+LTU,Lithuania,2021,Yes,Yes,Yes,True,True,True,3134.115370566729,147.5055179218076,standard_ISO_cartographic_proxy
+LUX,Luxembourg,2017,Yes,Yes,No observation for year,True,True,True,1166.870442742821,275.50113608170636,standard_ISO_cartographic_proxy
+LUX,Luxembourg,2019,Yes,Yes,No observation for year,True,True,True,1215.1320767774926,273.6677585262608,standard_ISO_cartographic_proxy
+LUX,Luxembourg,2021,Yes,Yes,Yes,True,True,True,1236.1593309297016,268.04772222450964,standard_ISO_cartographic_proxy
+LVA,Latvia,2017,Yes,Yes,No observation for year,True,True,True,2821.1301854328767,187.85264006091114,standard_ISO_cartographic_proxy
+LVA,Latvia,2019,Yes,Yes,No observation for year,True,True,True,2684.2100845520054,181.33470757593022,standard_ISO_cartographic_proxy
+LVA,Latvia,2021,Yes,Yes,Yes,True,True,True,2591.0305073633417,178.85366260870978,standard_ISO_cartographic_proxy
+MAR,Morocco,2017,Yes,Yes,No observation for year,True,True,True,72111.14104120174,360.6993960369274,review_required
+MAR,Morocco,2019,Yes,No,No observation for year,True,True,True,72713.63760397439,350.38648311076,review_required
+MAR,Morocco,2021,Yes,Yes,No,True,True,True,70985.44705515068,331.248369864848,review_required
+MCO,Monaco,2017,Yes,Yes,No observation for year,True,True,True,83.18951737228853,284.9145043578713,standard_ISO_cartographic_proxy
+MCO,Monaco,2019,Yes,Yes,No observation for year,True,True,True,84.43218856604975,284.8100340459661,standard_ISO_cartographic_proxy
+MCO,Monaco,2021,Yes,Yes,No response,True,True,True,84.67703206445293,282.6905790937232,standard_ISO_cartographic_proxy
+MDA,Republic of Moldova,2017,Yes,Yes,No observation for year,True,True,True,4307.544772060944,155.53854413443236,standard_ISO_cartographic_proxy
+MDA,Republic of Moldova,2019,Yes,Yes,No observation for year,True,True,True,4265.470413524018,153.66521523573397,standard_ISO_cartographic_proxy
+MDA,Republic of Moldova,2021,Yes,Yes,Yes,True,True,True,4095.8359640814074,148.4397058356532,standard_ISO_cartographic_proxy
+MDG,Madagascar,2017,Yes,No,No observation for year,True,True,True,52807.63308235427,554.2220954811835,standard_ISO_cartographic_proxy
+MDG,Madagascar,2019,Yes,No,No observation for year,True,True,True,55804.56269335944,547.7547726957657,standard_ISO_cartographic_proxy
+MDG,Madagascar,2021,Yes,No,No,True,True,True,53711.52668864169,494.11683585910987,standard_ISO_cartographic_proxy
+MDV,Maldives,2017,Yes,No,No observation for year,True,True,True,716.9456138092295,269.0294333892472,standard_ISO_cartographic_proxy
+MDV,Maldives,2019,Yes,Yes,No observation for year,True,True,True,758.9986403210986,258.6740376560886,standard_ISO_cartographic_proxy
+MDV,Maldives,2021,Yes,Yes,Yes,True,True,True,767.9616595032652,240.4200823986664,standard_ISO_cartographic_proxy
+MEX,Mexico,2017,Yes,Yes,No observation for year,True,True,True,129940.67259150329,185.07005335990107,standard_ISO_cartographic_proxy
+MEX,Mexico,2019,Yes,Yes,No observation for year,True,True,True,135430.77111326836,184.53156737814615,standard_ISO_cartographic_proxy
+MEX,Mexico,2021,Yes,Yes,Don't know,True,True,True,142806.5818129013,187.81587171335863,standard_ISO_cartographic_proxy
+MHL,Marshall Islands,2017,Yes,No,No observation for year,True,False,True,142.44973143550422,661.6906010055214,standard_ISO_cartographic_proxy
+MHL,Marshall Islands,2019,Don't know,Don't know,No observation for year,False,False,True,137.42965837496897,658.9614500811327,standard_ISO_cartographic_proxy
+MHL,Marshall Islands,2021,No,No,No,True,False,True,123.02957078637878,608.1972233501168,standard_ISO_cartographic_proxy
+MKD,North Macedonia,2017,Yes,No,No observation for year,True,False,True,3821.0304396910296,278.50008460765076,standard_ISO_cartographic_proxy
+MKD,North Macedonia,2019,Yes,No,No observation for year,True,False,True,3643.556675949965,267.7008671900418,standard_ISO_cartographic_proxy
+MKD,North Macedonia,2021,Yes,Don't know,Don't know,False,False,True,3543.735499643566,262.1789654873131,standard_ISO_cartographic_proxy
+MLI,Mali,2017,Yes,Don't know,No observation for year,False,False,True,30572.575526854678,460.225665682026,standard_ISO_cartographic_proxy
+MLI,Mali,2019,No,No,No observation for year,True,False,True,30989.274732488735,434.73831715744626,standard_ISO_cartographic_proxy
+MLI,Mali,2021,No,No,No,True,False,True,29134.87229756654,381.4992299245616,standard_ISO_cartographic_proxy
+MLT,Malta,2017,Yes,Yes,No observation for year,True,True,True,1177.5945671185136,326.93413137743096,standard_ISO_cartographic_proxy
+MLT,Malta,2019,Yes,Yes,No observation for year,True,True,True,1238.5120695354292,322.49056298923165,standard_ISO_cartographic_proxy
+MLT,Malta,2021,Yes,Yes,Yes,True,True,True,1301.488164934953,318.4092954007475,standard_ISO_cartographic_proxy
+MMR,Myanmar,2017,Yes,No,No observation for year,True,True,True,286125.1363273909,987.5367215857925,standard_ISO_cartographic_proxy
+MMR,Myanmar,2019,Yes,No,No observation for year,True,True,True,298294.22510114557,1001.0466675037679,standard_ISO_cartographic_proxy
+MMR,Myanmar,2021,Yes,Yes,Yes,True,True,True,287488.5438980312,939.5005796161685,standard_ISO_cartographic_proxy
+MNE,Montenegro,2017,Yes,Yes,No observation for year,True,True,True,1004.9604865831965,231.10827132557512,standard_ISO_cartographic_proxy
+MNE,Montenegro,2019,Yes,Yes,No observation for year,True,True,True,989.8849048838761,228.0827378542166,standard_ISO_cartographic_proxy
+MNE,Montenegro,2021,Yes,Yes,Yes,True,True,True,1052.1618088784371,232.37749242774655,standard_ISO_cartographic_proxy
+MNG,Mongolia,2017,Yes,Yes,No observation for year,True,True,True,2611.6284162114553,155.34648706566912,standard_ISO_cartographic_proxy
+MNG,Mongolia,2019,Yes,Yes,No observation for year,True,True,True,2713.6930820635416,155.5636680292669,standard_ISO_cartographic_proxy
+MNG,Mongolia,2021,Yes,Yes,Yes,True,True,True,2701.066639594707,149.74920574855884,standard_ISO_cartographic_proxy
+MOZ,Mozambique,2017,Yes,No,No observation for year,True,True,True,43863.99358175879,468.06413827652153,standard_ISO_cartographic_proxy
+MOZ,Mozambique,2019,Yes,Yes,No observation for year,True,True,True,45944.226586306126,462.4038270943884,standard_ISO_cartographic_proxy
+MOZ,Mozambique,2021,Yes,Yes,No,True,True,True,48968.20515403642,463.0104707352426,standard_ISO_cartographic_proxy
+MRT,Mauritania,2017,No,No,No observation for year,True,True,True,6432.132095418339,428.1079203177019,standard_ISO_cartographic_proxy
+MRT,Mauritania,2019,No,No,No observation for year,True,True,True,6778.359934187139,426.55303861288155,standard_ISO_cartographic_proxy
+MRT,Mauritania,2021,No,No,No response,True,True,True,6385.555209513006,381.0264428430402,standard_ISO_cartographic_proxy
+MUS,Mauritius,2017,Yes,Yes,No observation for year,True,True,True,3337.9708834515036,390.3580816563471,standard_ISO_cartographic_proxy
+MUS,Mauritius,2019,Yes,Yes,No observation for year,True,True,True,3333.9502974627903,382.7022888061489,standard_ISO_cartographic_proxy
+MUS,Mauritius,2021,Yes,Yes,Yes,True,True,True,3012.2754245387173,340.5828107131644,standard_ISO_cartographic_proxy
+MWI,Malawi,2017,No,No,No observation for year,True,True,True,33019.54441542032,536.4117672261896,standard_ISO_cartographic_proxy
+MWI,Malawi,2019,No,No,No observation for year,True,True,True,35050.59551416417,533.4040814627884,standard_ISO_cartographic_proxy
+MWI,Malawi,2021,No,No,No,True,True,True,31405.050312242045,448.976836570988,standard_ISO_cartographic_proxy
+MYS,Malaysia,2017,Yes,Yes,No observation for year,True,True,True,48870.4830575731,267.42035140033255,standard_ISO_cartographic_proxy
+MYS,Malaysia,2019,Yes,Yes,No observation for year,True,True,True,49597.40475048278,258.78615745423235,standard_ISO_cartographic_proxy
+MYS,Malaysia,2021,Yes,Yes,No,True,True,True,51429.72019467909,256.9961571623676,standard_ISO_cartographic_proxy
+NAM,Namibia,2017,Yes,Yes,No observation for year,True,True,True,7139.1754183368685,638.468428883339,standard_ISO_cartographic_proxy
+NAM,Namibia,2019,Yes,Yes,No observation for year,True,True,True,7591.143662089858,629.2381348262002,standard_ISO_cartographic_proxy
+NAM,Namibia,2021,Yes,Yes,No,True,True,True,6512.430620013986,504.31732499731504,standard_ISO_cartographic_proxy
+NER,Niger,2017,No,No,No observation for year,True,True,True,29358.40590146918,466.7338329941025,standard_ISO_cartographic_proxy
+NER,Niger,2019,No,No,No observation for year,True,True,True,29584.711934104515,437.5132761117692,standard_ISO_cartographic_proxy
+NER,Niger,2021,No,No,No,True,True,True,29783.516833134952,409.2072503197884,standard_ISO_cartographic_proxy
+NGA,Nigeria,2017,No,No,No observation for year,True,True,True,280365.1514366821,384.3045273186395,standard_ISO_cartographic_proxy
+NGA,Nigeria,2019,No,No,No observation for year,True,True,True,292400.6404780319,377.8603050641663,standard_ISO_cartographic_proxy
+NGA,Nigeria,2021,Yes,Yes,Yes,True,True,True,298530.55456691264,363.02314962452255,standard_ISO_cartographic_proxy
+NIC,Nicaragua,2017,Yes,Yes,No observation for year,True,True,True,10080.568092144867,322.4368366270916,standard_ISO_cartographic_proxy
+NIC,Nicaragua,2019,Yes,Yes,No observation for year,True,True,True,10594.743330876106,321.57573511969,standard_ISO_cartographic_proxy
+NIC,Nicaragua,2021,Yes,Yes,Yes,True,True,True,11014.338807130667,319.53472153395404,standard_ISO_cartographic_proxy
+NIU,Niue,2017,Yes,Yes,No observation for year,True,True,True,7.930423615309338,787.521771671606,standard_ISO_cartographic_proxy
+NIU,Niue,2019,Yes,Yes,No observation for year,True,True,True,7.79986083490942,763.7331679497614,standard_ISO_cartographic_proxy
+NIU,Niue,2021,Yes,Yes,No,True,True,True,6.907639626423583,665.6284598881912,standard_ISO_cartographic_proxy
+NLD,Netherlands (Kingdom of the),2017,Yes,Yes,No observation for year,True,True,True,43207.248171526895,354.06441946141166,review_required
+NLD,Netherlands (Kingdom of the),2019,Yes,Yes,No observation for year,True,True,True,44593.14665421852,359.12953928064326,review_required
+NLD,Netherlands (Kingdom of the),2021,Yes,Yes,Yes,True,True,True,45929.829606676256,363.9044474036293,review_required
+NOR,Norway,2017,Yes,Yes,No observation for year,True,True,True,14045.18840578751,384.4348015326763,review_required
+NOR,Norway,2019,Yes,Yes,No observation for year,True,True,True,14063.710764019108,376.428559807874,review_required
+NOR,Norway,2021,Yes,Yes,Yes,True,True,True,14509.547304338828,379.99529300651164,review_required
+NPL,Nepal,2017,Yes,No,No observation for year,True,False,True,104027.99301960297,723.0288101365047,standard_ISO_cartographic_proxy
+NPL,Nepal,2019,Don't know,No,No observation for year,False,False,True,106842.09672304483,706.7259094701283,standard_ISO_cartographic_proxy
+NPL,Nepal,2021,No,No,No,True,False,True,97180.6446994382,613.6977621310053,standard_ISO_cartographic_proxy
+NRU,Naoero,2017,Yes,Yes,No observation for year,True,True,True,35.12720099716455,731.9693751698665,standard_ISO_cartographic_proxy
+NRU,Naoero,2019,Yes,Yes,No observation for year,True,True,True,36.34238521186164,723.379340419661,standard_ISO_cartographic_proxy
+NRU,Naoero,2021,Yes,Yes,Yes,True,True,True,34.26364475580566,653.1314426196755,standard_ISO_cartographic_proxy
+NZL,New Zealand,2017,Yes,Yes,No observation for year,True,True,True,18556.21075426437,574.7532962269668,review_required
+NZL,New Zealand,2019,Yes,Yes,No observation for year,True,True,True,18989.360077950245,566.0559694656852,review_required
+NZL,New Zealand,2021,Yes,Yes,Yes,True,True,True,19623.03656546736,562.763758219145,review_required
+OMN,Oman,2017,Yes,Yes,No observation for year,True,True,True,5253.157992081936,225.68718877854252,standard_ISO_cartographic_proxy
+OMN,Oman,2019,Yes,Yes,No observation for year,True,True,True,5903.282290337226,223.91327272811048,standard_ISO_cartographic_proxy
+OMN,Oman,2021,Yes,Yes,Yes,True,True,True,6187.870112340382,211.1312037100194,standard_ISO_cartographic_proxy
+PAK,Pakistan,2017,No,No,No observation for year,True,True,True,595698.6337158512,672.5043450204012,review_required
+PAK,Pakistan,2019,No,No,No observation for year,True,True,True,611250.2080649803,653.5290675912743,review_required
+PAK,Pakistan,2021,No,No,No,True,True,True,581160.0460296466,592.2426499440529,review_required
+PAN,Panama,2017,Yes,Yes,No observation for year,True,True,True,6713.069609682078,313.4821547556544,standard_ISO_cartographic_proxy
+PAN,Panama,2019,Yes,Yes,No observation for year,True,True,True,6917.99427580836,310.2741668853591,standard_ISO_cartographic_proxy
+PAN,Panama,2021,Yes,Yes,No,True,True,True,7100.100485582275,306.9518840990031,standard_ISO_cartographic_proxy
+PER,Peru,2017,Yes,Yes,No observation for year,True,True,True,27041.7686829763,143.00862249075408,standard_ISO_cartographic_proxy
+PER,Peru,2019,Yes,Yes,No observation for year,True,True,True,28709.942039570644,144.8435221294029,standard_ISO_cartographic_proxy
+PER,Peru,2021,Yes,Yes,No,True,True,True,30657.424261509943,148.68594047326508,standard_ISO_cartographic_proxy
+PHL,Philippines,2017,No,No,No observation for year,True,True,True,345589.8116104605,654.1041418708462,standard_ISO_cartographic_proxy
+PHL,Philippines,2019,No,No,No observation for year,True,True,True,356670.1441546168,646.3112063139781,standard_ISO_cartographic_proxy
+PHL,Philippines,2021,No,No,No,True,True,True,353788.25199806946,615.9979617673512,standard_ISO_cartographic_proxy
+PLW,Palau,2017,Yes,Yes,No observation for year,True,True,True,101.70894436127752,843.919278309563,standard_ISO_cartographic_proxy
+PLW,Palau,2019,Yes,Yes,No observation for year,True,True,True,112.05195914102471,919.2270271337788,standard_ISO_cartographic_proxy
+PLW,Palau,2021,Yes,Yes,No,True,True,True,105.6582435019249,859.9709402681647,standard_ISO_cartographic_proxy
+PNG,Papua New Guinea,2017,Yes,No,No observation for year,True,True,True,23177.36883872593,577.4376068737686,standard_ISO_cartographic_proxy
+PNG,Papua New Guinea,2019,Yes,No,No observation for year,True,True,True,25115.16325513062,584.3493229099876,standard_ISO_cartographic_proxy
+PNG,Papua New Guinea,2021,Yes,Yes,Yes,True,True,True,26479.983783413125,576.5249220664649,standard_ISO_cartographic_proxy
+POL,Poland,2017,Yes,Yes,No observation for year,True,True,True,80932.52183737385,279.317876635733,standard_ISO_cartographic_proxy
+POL,Poland,2019,Yes,Yes,No observation for year,True,True,True,74879.65171470404,257.45638350091053,standard_ISO_cartographic_proxy
+POL,Poland,2021,Yes,Yes,Don't know,True,True,True,73419.56794193658,253.55200759466967,standard_ISO_cartographic_proxy
+PRK,Democratic People's Republic of Korea,2017,No,Don't know,No observation for year,False,False,True,37866.48984260983,224.9124357127341,standard_ISO_cartographic_proxy
+PRK,Democratic People's Republic of Korea,2019,No,Don't know,No observation for year,False,False,True,38098.15049421829,220.6257195072452,standard_ISO_cartographic_proxy
+PRK,Democratic People's Republic of Korea,2021,Yes,Yes,Yes,True,False,True,38559.613922794335,218.47364690579636,standard_ISO_cartographic_proxy
+PRT,Portugal,2017,Yes,Yes,No observation for year,True,True,True,38128.22788602075,469.22936385117316,standard_ISO_cartographic_proxy
+PRT,Portugal,2019,Yes,Yes,No observation for year,True,True,True,32548.547939188542,400.24132516352324,standard_ISO_cartographic_proxy
+PRT,Portugal,2021,Yes,Yes,Yes,True,True,True,30922.898101176794,381.4255061156734,standard_ISO_cartographic_proxy
+PRY,Paraguay,2017,No,No,No observation for year,True,True,True,6208.762047057788,192.04292993137165,standard_ISO_cartographic_proxy
+PRY,Paraguay,2019,No,No,No observation for year,True,True,True,6520.389620267261,194.69597596250696,standard_ISO_cartographic_proxy
+PRY,Paraguay,2021,No,No,No,True,True,True,6497.864802404487,188.6443358340638,standard_ISO_cartographic_proxy
+QAT,Qatar,2017,Yes,Yes,No observation for year,True,True,True,2635.412826781151,135.61439498753046,standard_ISO_cartographic_proxy
+QAT,Qatar,2019,Yes,Yes,No observation for year,True,True,True,3131.5326003337345,150.19431848823126,standard_ISO_cartographic_proxy
+QAT,Qatar,2021,Yes,Yes,Don't know,True,True,True,3394.6796675630767,154.2323442418828,standard_ISO_cartographic_proxy
+ROU,Romania,2017,No,No,No observation for year,True,True,True,34606.789351171436,236.24502748091584,standard_ISO_cartographic_proxy
+ROU,Romania,2019,No,No,No observation for year,True,True,True,34039.612757981406,234.30479998212726,standard_ISO_cartographic_proxy
+ROU,Romania,2021,Yes,Yes,Don't know,True,True,True,33229.360029251926,231.99531245229224,standard_ISO_cartographic_proxy
+RUS,Russian Federation,2017,Yes,Yes,No observation for year,True,True,True,212344.54217163558,195.6770030717797,review_required
+RUS,Russian Federation,2019,Yes,Yes,No observation for year,True,True,True,218262.2956847072,199.95563196446975,review_required
+RUS,Russian Federation,2021,Yes,Yes,Don't know,True,True,True,217991.23416126924,199.65799519644196,review_required
+RWA,Rwanda,2017,Yes,Yes,No observation for year,True,True,True,34037.30953350468,688.7479317813962,standard_ISO_cartographic_proxy
+RWA,Rwanda,2019,Yes,Yes,No observation for year,True,True,True,34024.468284951545,642.41686633257,standard_ISO_cartographic_proxy
+RWA,Rwanda,2021,Yes,Yes,Don't know,True,True,True,33894.312997909736,606.9255169849941,standard_ISO_cartographic_proxy
+SAU,Saudi Arabia,2017,Yes,Yes,No observation for year,True,True,True,55846.15626171445,303.45111214791797,standard_ISO_cartographic_proxy
+SAU,Saudi Arabia,2019,Yes,Yes,No observation for year,True,True,True,55677.82197638826,291.76460336827154,standard_ISO_cartographic_proxy
+SAU,Saudi Arabia,2021,Yes,Yes,Yes,True,True,True,55517.6612237701,282.8534230486122,standard_ISO_cartographic_proxy
+SDN,Sudan,2017,No,No,No observation for year,True,True,True,55269.71376572158,376.9534436528614,standard_ISO_cartographic_proxy
+SDN,Sudan,2019,Yes,No,No observation for year,True,True,True,56687.71806128231,362.6331620502889,standard_ISO_cartographic_proxy
+SDN,Sudan,2021,Yes,No,No,True,True,True,56904.70978668677,345.71118650193654,standard_ISO_cartographic_proxy
+SEN,Senegal,2017,Don't know,Don't know,No observation for year,False,False,True,25684.114174818467,443.3246089281719,standard_ISO_cartographic_proxy
+SEN,Senegal,2019,No,No,No observation for year,True,False,True,26920.0287694466,433.3185370645744,standard_ISO_cartographic_proxy
+SEN,Senegal,2021,No,No,No,True,False,True,23101.255825439704,346.6033154308956,standard_ISO_cartographic_proxy
+SGP,Singapore,2017,Yes,Yes,No observation for year,True,True,True,8781.169833418913,206.80439954419361,standard_ISO_cartographic_proxy
+SGP,Singapore,2019,Yes,Yes,No observation for year,True,True,True,9971.463672929176,227.41179190462472,standard_ISO_cartographic_proxy
+SGP,Singapore,2021,Yes,Yes,Yes,True,True,True,10163.363254982165,231.1845539358863,standard_ISO_cartographic_proxy
+SLB,Solomon Islands,2017,No,No,No observation for year,True,True,True,2144.7083108841607,722.6718235224224,standard_ISO_cartographic_proxy
+SLB,Solomon Islands,2019,No,No,No observation for year,True,True,True,2327.1239914886046,723.0501465047354,standard_ISO_cartographic_proxy
+SLB,Solomon Islands,2021,No,No,No,True,True,True,2401.4027262540067,689.3587203494454,standard_ISO_cartographic_proxy
+SLE,Sierra Leone,2017,Yes,No,No observation for year,True,True,True,12224.569762159761,419.2067287356546,standard_ISO_cartographic_proxy
+SLE,Sierra Leone,2019,Yes,No,No observation for year,True,True,True,12482.999863309724,407.7523401114766,standard_ISO_cartographic_proxy
+SLE,Sierra Leone,2021,Yes,Yes,No,True,True,True,12368.398967045952,384.9558956650979,standard_ISO_cartographic_proxy
+SLV,El Salvador,2017,Yes,No,No observation for year,True,True,True,12236.52348777638,380.49773571336704,standard_ISO_cartographic_proxy
+SLV,El Salvador,2019,Yes,Yes,No observation for year,True,True,True,12534.111412922432,376.26470963390676,standard_ISO_cartographic_proxy
+SLV,El Salvador,2021,Yes,Yes,No,True,True,True,12430.870740946377,361.2355294821565,standard_ISO_cartographic_proxy
+SMR,San Marino,2017,Yes,Yes,No observation for year,True,True,True,83.11578737156997,316.099627856785,standard_ISO_cartographic_proxy
+SMR,San Marino,2019,Yes,Yes,No observation for year,True,True,True,83.61778975171529,314.4249066074167,standard_ISO_cartographic_proxy
+SMR,San Marino,2021,Yes,Yes,Yes,True,True,True,83.95773297129512,311.1634051082144,standard_ISO_cartographic_proxy
+SOM,Somalia,2017,No,No,No observation for year,True,True,True,30020.878418012773,513.0007321866949,review_required
+SOM,Somalia,2019,Yes,Yes,No observation for year,True,True,True,31849.71362827794,506.8346285785131,review_required
+SOM,Somalia,2021,No,No,No,True,True,True,30725.754943728767,454.0102238489584,review_required
+SRB,Serbia,2017,Yes,Yes,No observation for year,True,True,True,13330.372202898696,201.1619814451252,review_required
+SRB,Serbia,2019,Yes,Yes,No observation for year,True,True,True,13305.621499263727,199.46686545134813,review_required
+SRB,Serbia,2021,Yes,Yes,Don't know,True,True,True,12978.22412602248,193.4539358693322,review_required
+SSD,South Sudan,2017,No,No,No observation for year,True,True,True,21054.192489941393,592.124837433859,standard_ISO_cartographic_proxy
+SSD,South Sudan,2019,No,No,No observation for year,True,True,True,20757.41583836391,620.9661094801988,standard_ISO_cartographic_proxy
+SSD,South Sudan,2021,No,No,No,True,True,True,21314.15331958292,612.1037977818442,standard_ISO_cartographic_proxy
+STP,Sao Tome and Principe,2017,Yes,Yes,No observation for year,True,True,True,779.0219460731689,918.7792027361837,standard_ISO_cartographic_proxy
+STP,Sao Tome and Principe,2019,Yes,No,No observation for year,True,True,True,827.7273606862171,918.6675975877296,standard_ISO_cartographic_proxy
+STP,Sao Tome and Principe,2021,Yes,Yes,No,True,True,True,748.7176558504477,785.7809146332881,standard_ISO_cartographic_proxy
+SUR,Suriname,2017,Yes,Yes,No observation for year,True,True,True,1286.593944020476,385.6609150868297,standard_ISO_cartographic_proxy
+SUR,Suriname,2019,Yes,Yes,No observation for year,True,True,True,1337.188588966387,391.8485745208332,standard_ISO_cartographic_proxy
+SUR,Suriname,2021,Yes,Yes,No,True,True,True,1264.0172981759158,363.48198645959377,standard_ISO_cartographic_proxy
+SVK,Slovakia,2017,No,No,No observation for year,True,False,True,6925.991908664075,173.2918431761181,standard_ISO_cartographic_proxy
+SVK,Slovakia,2019,Yes,No,No observation for year,True,False,True,7019.320472767638,174.1839436763729,standard_ISO_cartographic_proxy
+SVK,Slovakia,2021,No response,No response,No response,False,False,True,7066.510478886928,175.24080595603476,standard_ISO_cartographic_proxy
+SVN,Slovenia,2017,Yes,Yes,No observation for year,True,True,True,3614.132818507575,231.17359923412207,standard_ISO_cartographic_proxy
+SVN,Slovenia,2019,Yes,Yes,No observation for year,True,True,True,3656.2056739987365,232.1008010647449,standard_ISO_cartographic_proxy
+SVN,Slovenia,2021,Yes,Yes,Yes,True,True,True,3707.982540800009,233.71279751790533,standard_ISO_cartographic_proxy
+SWE,Sweden,2017,Yes,Yes,No observation for year,True,True,True,26442.49033188617,369.47943905636276,standard_ISO_cartographic_proxy
+SWE,Sweden,2019,Yes,Yes,No observation for year,True,True,True,28572.08478723748,390.29810948440684,standard_ISO_cartographic_proxy
+SWE,Sweden,2021,Yes,Yes,Yes,True,True,True,28986.13802277266,389.4758808012955,standard_ISO_cartographic_proxy
+SWZ,Eswatini,2017,Yes,Yes,No observation for year,True,True,True,3339.0850041014733,678.6605043140277,standard_ISO_cartographic_proxy
+SWZ,Eswatini,2019,Yes,No,No observation for year,True,True,True,3431.177980556942,665.033158421858,standard_ISO_cartographic_proxy
+SWZ,Eswatini,2021,Yes,Yes,No,True,True,True,3115.170594585463,581.1290408095338,standard_ISO_cartographic_proxy
+SYC,Seychelles,2017,Yes,Yes,No observation for year,True,True,True,300.25188070704485,467.7131321089636,standard_ISO_cartographic_proxy
+SYC,Seychelles,2019,Yes,Yes,No observation for year,True,True,True,300.18272623115024,454.33159244361013,standard_ISO_cartographic_proxy
+SYC,Seychelles,2021,Yes,Yes,Yes,True,True,True,281.81431103131774,416.498433549427,standard_ISO_cartographic_proxy
+SYR,Syrian Arab Republic,2017,Yes,Yes,No observation for year,True,True,True,46157.76668347915,517.1941987325158,standard_ISO_cartographic_proxy
+SYR,Syrian Arab Republic,2019,Yes,Yes,No observation for year,True,True,True,45340.79226320875,525.1875279776259,standard_ISO_cartographic_proxy
+SYR,Syrian Arab Republic,2021,Yes,Yes,Don't know,True,True,True,41361.08543701788,473.19904776463767,standard_ISO_cartographic_proxy
+TCD,Chad,2017,No,No,No observation for year,True,False,True,22459.396212599757,491.52023220809065,standard_ISO_cartographic_proxy
+TCD,Chad,2019,Yes,No,No observation for year,True,False,True,23327.591714860748,475.5126090795427,standard_ISO_cartographic_proxy
+TCD,Chad,2021,No response,No response,No response,False,False,True,24178.219779911622,458.9820399695338,standard_ISO_cartographic_proxy
+TGO,Togo,2017,No,No,No observation for year,True,True,True,13347.428336937048,438.1206399407995,standard_ISO_cartographic_proxy
+TGO,Togo,2019,Yes,No,No observation for year,True,True,True,13722.681125449124,424.4149501373236,standard_ISO_cartographic_proxy
+TGO,Togo,2021,No,No,No,True,True,True,13828.726036971058,403.94758749489813,standard_ISO_cartographic_proxy
+THA,Thailand,2017,No,No,No observation for year,True,True,True,154593.75656789241,331.0068038482755,standard_ISO_cartographic_proxy
+THA,Thailand,2019,No,No,No observation for year,True,True,True,158346.608363683,333.2112277186839,standard_ISO_cartographic_proxy
+THA,Thailand,2021,Yes,No,No,True,True,True,162508.40020532775,336.9020616751394,standard_ISO_cartographic_proxy
+TJK,Tajikistan,2017,Yes,No,No observation for year,True,False,True,8104.5687612485835,193.04412834385695,standard_ISO_cartographic_proxy
+TJK,Tajikistan,2019,Don't know,Don't know,No observation for year,False,False,True,8415.141347323315,189.5376713604528,standard_ISO_cartographic_proxy
+TJK,Tajikistan,2021,No,No,No,True,False,True,10037.043528064936,214.22580083657084,standard_ISO_cartographic_proxy
+TKM,Turkmenistan,2017,Yes,No,No observation for year,True,True,True,3675.6588502450268,138.22515974812436,standard_ISO_cartographic_proxy
+TKM,Turkmenistan,2019,Yes,No,No observation for year,True,True,True,3810.88851106369,137.42677932456746,standard_ISO_cartographic_proxy
+TKM,Turkmenistan,2021,Yes,Yes,Yes,True,True,True,3918.7291201902553,136.29433792139525,standard_ISO_cartographic_proxy
+TLS,Timor-Leste,2017,Yes,No,No observation for year,True,True,True,3100.308153139883,599.6620681949174,standard_ISO_cartographic_proxy
+TLS,Timor-Leste,2019,Yes,Yes,No observation for year,True,True,True,3186.6195203577527,580.2206605589972,standard_ISO_cartographic_proxy
+TLS,Timor-Leste,2021,Yes,Yes,No,True,True,True,3253.3773845750143,556.3164056950413,standard_ISO_cartographic_proxy
+TON,Tonga,2017,Yes,No,No observation for year,True,True,True,259.9085887454658,551.5338489877039,standard_ISO_cartographic_proxy
+TON,Tonga,2019,Yes,No,No observation for year,True,True,True,261.27841640484263,550.7280179491886,standard_ISO_cartographic_proxy
+TON,Tonga,2021,Yes,Yes,No,True,True,True,244.79146896783055,512.1296960534062,standard_ISO_cartographic_proxy
+TTO,Trinidad and Tobago,2017,Yes,Yes,No observation for year,True,True,True,3403.6669938589025,367.47959638301745,standard_ISO_cartographic_proxy
+TTO,Trinidad and Tobago,2019,Yes,Yes,No observation for year,True,True,True,3455.7095640939833,367.9261720410915,standard_ISO_cartographic_proxy
+TTO,Trinidad and Tobago,2021,Yes,Yes,Don't know,True,True,True,3347.078840730656,354.0706357549274,standard_ISO_cartographic_proxy
+TUN,Tunisia,2017,Yes,No,No observation for year,True,True,True,28126.020199486484,395.1062168051851,standard_ISO_cartographic_proxy
+TUN,Tunisia,2019,Yes,Yes,No observation for year,True,True,True,28420.580218826854,387.3414653083264,standard_ISO_cartographic_proxy
+TUN,Tunisia,2021,Yes,Yes,No,True,True,True,24223.118888122786,323.3399909611555,standard_ISO_cartographic_proxy
+TUR,Türkiye,2017,Yes,Yes,No observation for year,True,True,True,114423.3617983271,234.44283741628243,standard_ISO_cartographic_proxy
+TUR,Türkiye,2019,Yes,Yes,No observation for year,True,True,True,128970.43277453567,253.4334525825274,standard_ISO_cartographic_proxy
+TUR,Türkiye,2021,Yes,Yes,Yes,True,True,True,132167.91494905486,251.08157491475396,standard_ISO_cartographic_proxy
+TUV,Tuvalu,2017,Yes,Yes,No observation for year,True,True,True,41.76240026333297,754.4410581793102,standard_ISO_cartographic_proxy
+TUV,Tuvalu,2019,Yes,No,No observation for year,True,True,True,41.76425527654642,746.945371524867,standard_ISO_cartographic_proxy
+TUV,Tuvalu,2021,Yes,Yes,Yes,True,True,True,38.077651620981236,674.6672328216121,standard_ISO_cartographic_proxy
+TZA,United Republic of Tanzania,2017,No,No,No observation for year,True,True,True,107417.64567548921,534.299712914844,standard_ISO_cartographic_proxy
+TZA,United Republic of Tanzania,2019,Yes,Yes,No observation for year,True,True,True,111743.06641961909,517.5109311356736,standard_ISO_cartographic_proxy
+TZA,United Republic of Tanzania,2021,Yes,Yes,Yes,True,True,True,108794.35765951296,469.5251308942024,standard_ISO_cartographic_proxy
+UGA,Uganda,2017,Yes,No,No observation for year,True,True,True,68558.34048405064,550.5169424909626,standard_ISO_cartographic_proxy
+UGA,Uganda,2019,Yes,No,No observation for year,True,True,True,71025.30754122979,531.527922765094,standard_ISO_cartographic_proxy
+UGA,Uganda,2021,Yes,No,Don't know,True,True,True,66733.34152598205,465.77979527455636,standard_ISO_cartographic_proxy
+UKR,Ukraine,2017,Yes,Yes,No observation for year,True,True,True,73545.46921185103,222.17135954665073,review_required
+UKR,Ukraine,2019,Yes,Yes,No observation for year,True,True,True,76104.67061689275,230.86721984060975,review_required
+UKR,Ukraine,2021,Yes,Yes,Yes,True,True,True,75489.01861239049,231.91306072045066,review_required
+URY,Uruguay,2017,Yes,Yes,No observation for year,True,True,True,6365.905178111943,288.84831843298645,standard_ISO_cartographic_proxy
+URY,Uruguay,2019,Yes,Yes,No observation for year,True,True,True,6492.75417923482,290.6409054693747,standard_ISO_cartographic_proxy
+URY,Uruguay,2021,Yes,Yes,Yes,True,True,True,6226.668182202991,275.1931574421267,standard_ISO_cartographic_proxy
+USA,United States of America,2017,Yes,Yes,No observation for year,True,True,True,834784.1341332056,377.35601383160576,standard_ISO_cartographic_proxy
+USA,United States of America,2019,Yes,Yes,No observation for year,True,True,True,853443.2477898865,378.42290962198626,standard_ISO_cartographic_proxy
+USA,United States of America,2021,Yes,Yes,Don't know,True,True,True,887650.920717196,388.53493233701727,standard_ISO_cartographic_proxy
+UZB,Uzbekistan,2017,Yes,Yes,No observation for year,True,True,True,43269.98252007569,249.43528984729073,standard_ISO_cartographic_proxy
+UZB,Uzbekistan,2019,Yes,Yes,No observation for year,True,True,True,42515.50540078382,235.0961398748002,standard_ISO_cartographic_proxy
+UZB,Uzbekistan,2021,Yes,No,Yes,True,True,True,47284.3773669447,250.79283942192063,standard_ISO_cartographic_proxy
+VCT,Saint Vincent and the Grenadines,2017,No,Yes,No observation for year,True,True,True,245.31587995850222,351.60561586549824,standard_ISO_cartographic_proxy
+VCT,Saint Vincent and the Grenadines,2019,Yes,Yes,No observation for year,True,True,True,266.345788489936,372.45808837813985,standard_ISO_cartographic_proxy
+VCT,Saint Vincent and the Grenadines,2021,Yes,Yes,Yes,True,True,True,270.36944678641566,370.14523248783064,standard_ISO_cartographic_proxy
+VEN,Venezuela (Bolivarian Republic of),2017,Yes,Yes,No observation for year,True,True,True,50744.23186833322,289.40659317388685,standard_ISO_cartographic_proxy
+VEN,Venezuela (Bolivarian Republic of),2019,Yes,Yes,No observation for year,True,True,True,49586.815787586354,282.523736103078,standard_ISO_cartographic_proxy
+VEN,Venezuela (Bolivarian Republic of),2021,Yes,Yes,Don't know,True,True,True,48023.32352402889,286.6136369615173,standard_ISO_cartographic_proxy
+VNM,Viet Nam,2017,No,No,No observation for year,True,False,True,267304.9717642376,452.17814890662754,standard_ISO_cartographic_proxy
+VNM,Viet Nam,2019,Don't know,No,No observation for year,False,False,True,283575.58472209366,462.6443869264562,standard_ISO_cartographic_proxy
+VNM,Viet Nam,2021,Yes,No,No,True,False,True,269992.42513294885,428.29934998073384,standard_ISO_cartographic_proxy
+VUT,Vanuatu,2017,Yes,Yes,No observation for year,True,True,True,778.3603190496528,629.23823946152,standard_ISO_cartographic_proxy
+VUT,Vanuatu,2019,Yes,Yes,No observation for year,True,True,True,807.7285885035212,615.5857831581051,standard_ISO_cartographic_proxy
+VUT,Vanuatu,2021,Yes,Yes,No,True,True,True,820.8246019112391,588.6633177935463,standard_ISO_cartographic_proxy
+WSM,Samoa,2017,Yes,No,No observation for year,True,True,True,585.7720132694506,640.1451173901185,standard_ISO_cartographic_proxy
+WSM,Samoa,2019,Yes,Yes,No observation for year,True,True,True,601.7673317833475,641.211582813073,standard_ISO_cartographic_proxy
+WSM,Samoa,2021,Yes,Yes,Don't know,True,True,True,544.1298846953823,566.6345930000217,standard_ISO_cartographic_proxy
+YEM,Yemen,2017,No,No,No observation for year,True,True,True,42460.35619682456,361.78346064622696,standard_ISO_cartographic_proxy
+YEM,Yemen,2019,No,No,No observation for year,True,True,True,45231.42355445111,360.0802668543375,standard_ISO_cartographic_proxy
+YEM,Yemen,2021,No,No,No,True,True,True,46489.12020401309,347.5711449152165,standard_ISO_cartographic_proxy
+ZAF,South Africa,2017,Yes,Yes,No observation for year,True,True,True,171334.48151712003,545.0409681050347,standard_ISO_cartographic_proxy
+ZAF,South Africa,2019,Yes,Yes,No observation for year,True,True,True,181215.47843158452,542.0920126320773,standard_ISO_cartographic_proxy
+ZAF,South Africa,2021,Yes,Yes,No,True,True,True,165940.38699868333,469.6553587301904,standard_ISO_cartographic_proxy
+ZMB,Zambia,2017,Yes,No,No observation for year,True,False,True,38369.159576829516,676.4649899289044,standard_ISO_cartographic_proxy
+ZMB,Zambia,2019,Yes,No,No observation for year,True,False,True,40375.30244279461,652.8668617413242,standard_ISO_cartographic_proxy
+ZMB,Zambia,2021,Yes,Don't know,No,False,False,True,38259.68439297995,569.3975558608946,standard_ISO_cartographic_proxy
+ZWE,Zimbabwe,2017,Yes,No,No observation for year,True,True,True,40284.003300502474,695.199727400438,standard_ISO_cartographic_proxy
+ZWE,Zimbabwe,2019,Yes,No,No observation for year,True,True,True,41314.23593872358,681.8602094404087,standard_ISO_cartographic_proxy
+ZWE,Zimbabwe,2021,Yes,No,No,True,True,True,36281.45746046111,576.1151658222208,standard_ISO_cartographic_proxy

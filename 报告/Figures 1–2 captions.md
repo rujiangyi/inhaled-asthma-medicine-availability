@@ -1,0 +1,5 @@
+# Figures 1–2 captions
+
+**Figure 1. Data linkage, sample geography and survey completeness.** (a) The three sources and their distinct country frames. (b) The 168-country repeated panel. (c) Overlapping analysis samples; these are not a nested flow. (d) Every WHO country record across five waves, grouped by region; columns retain the same country order. Completeness refers to explicit Yes/No answers for ICS and bronchodilators, irrespective of the answer itself. The World Bank extraction frame does not cover all WHO records. Country-level map values are displayed without spatial re-aggregation.
+
+**Figure 2. Country trajectories in reported ICS availability.** (a) Observed three-wave pathways, with ribbon widths proportional to country counts. (b) Counts for all eight sequences and matching ribbon colours. (c) Six regional small multiples using the same countries at each wave and a shared percentage scale. The bottom comparison gives the two directions of change between 2017 and 2021. N and Y denote reported No and Yes, not uninterrupted supply between surveys. All analyses use the fixed 168-country panel; pp denotes percentage points.

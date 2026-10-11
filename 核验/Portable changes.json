@@ -1,0 +1,74 @@
+[
+  {
+    "script": "统计分析.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\V3\\代码\\统计分析.py",
+    "source SHA256": "21436697b4101d8a18eefa95f1ca59834592957fd36f315e2b33f8e3f3aaa1f8",
+    "portable SHA256": "50a8d669400360aa6e90e299eb6dcec9834d9dce1c691c4c9288e99702c71cad",
+    "latest formal analysis version": false,
+    "change": "Corrected the GBD citation-date explanatory string only; numerical logic retained. Local dependency-path injection removed where present."
+  },
+  {
+    "script": "统计复核.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\V3\\代码\\统计复核.py",
+    "source SHA256": "cadbc62be5f2f88b7b3b8aa7b0faafc69e9c86a90cf7d521834d727f7602a9bf",
+    "portable SHA256": "80cb2875c50608a386a819fd340b648125129dd784ee58fccd56a8704fd76244",
+    "latest formal analysis version": false,
+    "change": "Removed local dependency-path injection only; analysis and plotting statements retained."
+  },
+  {
+    "script": "英文统计表.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\V3\\代码\\英文统计表.py",
+    "source SHA256": "32982bcf7c6ead0fd2b78d6437c1fbb4ec2d0b6834f73fef17e195964eed3cd4",
+    "portable SHA256": "2276af78a3e4b648eecdea98ced9184e7cfff9e094c09fa4c39a1a4572d7df60",
+    "latest formal analysis version": false,
+    "change": "Corrected the GBD citation-date explanatory string only; numerical logic retained. Local dependency-path injection removed where present."
+  },
+  {
+    "script": "绘图公共.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\V3\\代码\\绘图公共.py",
+    "source SHA256": "618482b66dd4fee3817e9200c3a368d131e98888d507a0bfdaf4eed316c49985",
+    "portable SHA256": "5736710a945c64221af2972d448297f69d934f80eac7d11efa7e2998bdd495c0",
+    "latest formal analysis version": false,
+    "change": "Removed local dependency-path injection only; analysis and plotting statements retained."
+  },
+  {
+    "script": "补充图.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\V3\\代码\\补充图.py",
+    "source SHA256": "33b4c0a7f8db2dc0ea4d793e602cca1e1e187f74835789d902663b806afb19b3",
+    "portable SHA256": "33b4c0a7f8db2dc0ea4d793e602cca1e1e187f74835789d902663b806afb19b3",
+    "latest formal analysis version": false,
+    "change": "No code change; UTF-8 text export."
+  },
+  {
+    "script": "图形一至二.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\正式分析\\代码\\图形一至二.py",
+    "source SHA256": "307634127d0aa20f89641b05690cd6bf594dff31c93eb38a1893bf50e5972f71",
+    "portable SHA256": "b62f092c46bc225fecc853e763c8fe6ef3859a6d04cea743c2b2b477ce11e690",
+    "latest formal analysis version": true,
+    "change": "No code change; UTF-8 text export."
+  },
+  {
+    "script": "图形三至四.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\正式分析\\代码\\图形三至四.py",
+    "source SHA256": "accd3b5d4ed4accf7b3a42795f4064e914fafef2c690f92aabfc71c268bfaa25",
+    "portable SHA256": "32e4fca163bcd98551ab79cd5fb5512a4b6434fac1b239e8493b490d178e9c7f",
+    "latest formal analysis version": true,
+    "change": "No code change; UTF-8 text export."
+  },
+  {
+    "script": "图形五至六.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\正式分析\\代码\\图形五至六.py",
+    "source SHA256": "fa761ab028374c0ca0f7410e192223cfbf535f241122513d4008a72ec2a2292e",
+    "portable SHA256": "a331bb3d0eaec3bf7e09125def9426a5f384217c9c7d4f931a2153c9c283c7be",
+    "latest formal analysis version": true,
+    "change": "Removed local dependency-path injection only; analysis and plotting statements retained."
+  },
+  {
+    "script": "图形七至八.py",
+    "source": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\正式分析\\代码\\图形七至八.py",
+    "source SHA256": "5a6d8838b047c6bdc355291f54ed93078b3246f6cd8372f466ba565833ad4316",
+    "portable SHA256": "30ed3b904a1f9523f9d04638393bee2b56d809caf08aa1d3373c44f398bf1b4f",
+    "latest formal analysis version": true,
+    "change": "Removed local dependency-path injection only; analysis and plotting statements retained."
+  }
+]
