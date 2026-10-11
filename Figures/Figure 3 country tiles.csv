@@ -1,0 +1,583 @@
+﻿region,region_name,column,iso3,country,medicine,raw_answer,display_state
+AFR,Africa,1,BDI,Burundi,bronch2021,No,No
+AFR,Africa,1,BDI,Burundi,ics2021,No,No
+AFR,Africa,1,BDI,Burundi,combo2021,No,No
+AFR,Africa,2,BEN,Benin,bronch2021,No,No
+AFR,Africa,2,BEN,Benin,ics2021,No,No
+AFR,Africa,2,BEN,Benin,combo2021,No,No
+AFR,Africa,3,BFA,Burkina Faso,bronch2021,No,No
+AFR,Africa,3,BFA,Burkina Faso,ics2021,No,No
+AFR,Africa,3,BFA,Burkina Faso,combo2021,No,No
+AFR,Africa,4,CAF,Central African Republic,bronch2021,No,No
+AFR,Africa,4,CAF,Central African Republic,ics2021,No,No
+AFR,Africa,4,CAF,Central African Republic,combo2021,No,No
+AFR,Africa,5,CIV,Cote d'Ivoire,bronch2021,No,No
+AFR,Africa,5,CIV,Cote d'Ivoire,ics2021,No,No
+AFR,Africa,5,CIV,Cote d'Ivoire,combo2021,No,No
+AFR,Africa,6,COG,Congo,bronch2021,No,No
+AFR,Africa,6,COG,Congo,ics2021,No,No
+AFR,Africa,6,COG,Congo,combo2021,No,No
+AFR,Africa,7,GAB,Gabon,bronch2021,No,No
+AFR,Africa,7,GAB,Gabon,ics2021,No,No
+AFR,Africa,7,GAB,Gabon,combo2021,No,No
+AFR,Africa,8,GIN,Guinea,bronch2021,No,No
+AFR,Africa,8,GIN,Guinea,ics2021,No,No
+AFR,Africa,8,GIN,Guinea,combo2021,No,No
+AFR,Africa,9,KEN,Kenya,bronch2021,No,No
+AFR,Africa,9,KEN,Kenya,ics2021,No,No
+AFR,Africa,9,KEN,Kenya,combo2021,No,No
+AFR,Africa,10,MLI,Mali,bronch2021,No,No
+AFR,Africa,10,MLI,Mali,ics2021,No,No
+AFR,Africa,10,MLI,Mali,combo2021,No,No
+AFR,Africa,11,MWI,Malawi,bronch2021,No,No
+AFR,Africa,11,MWI,Malawi,ics2021,No,No
+AFR,Africa,11,MWI,Malawi,combo2021,No,No
+AFR,Africa,12,NER,Niger,bronch2021,No,No
+AFR,Africa,12,NER,Niger,ics2021,No,No
+AFR,Africa,12,NER,Niger,combo2021,No,No
+AFR,Africa,13,SEN,Senegal,bronch2021,No,No
+AFR,Africa,13,SEN,Senegal,ics2021,No,No
+AFR,Africa,13,SEN,Senegal,combo2021,No,No
+AFR,Africa,14,SSD,South Sudan,bronch2021,No,No
+AFR,Africa,14,SSD,South Sudan,ics2021,No,No
+AFR,Africa,14,SSD,South Sudan,combo2021,No,No
+AFR,Africa,15,TGO,Togo,bronch2021,No,No
+AFR,Africa,15,TGO,Togo,ics2021,No,No
+AFR,Africa,15,TGO,Togo,combo2021,No,No
+AFR,Africa,16,MRT,Mauritania,bronch2021,No,No
+AFR,Africa,16,MRT,Mauritania,ics2021,No,No
+AFR,Africa,16,MRT,Mauritania,combo2021,No response,Unknown
+AFR,Africa,17,CMR,Cameroon,bronch2021,Yes,Yes
+AFR,Africa,17,CMR,Cameroon,ics2021,No,No
+AFR,Africa,17,CMR,Cameroon,combo2021,No,No
+AFR,Africa,18,COM,Comoros,bronch2021,Yes,Yes
+AFR,Africa,18,COM,Comoros,ics2021,No,No
+AFR,Africa,18,COM,Comoros,combo2021,No,No
+AFR,Africa,19,CPV,Cabo Verde,bronch2021,Yes,Yes
+AFR,Africa,19,CPV,Cabo Verde,ics2021,No,No
+AFR,Africa,19,CPV,Cabo Verde,combo2021,No,No
+AFR,Africa,20,ERI,Eritrea,bronch2021,Yes,Yes
+AFR,Africa,20,ERI,Eritrea,ics2021,No,No
+AFR,Africa,20,ERI,Eritrea,combo2021,No,No
+AFR,Africa,21,GHA,Ghana,bronch2021,Yes,Yes
+AFR,Africa,21,GHA,Ghana,ics2021,No,No
+AFR,Africa,21,GHA,Ghana,combo2021,No,No
+AFR,Africa,22,GMB,Gambia,bronch2021,Yes,Yes
+AFR,Africa,22,GMB,Gambia,ics2021,No,No
+AFR,Africa,22,GMB,Gambia,combo2021,No,No
+AFR,Africa,23,MDG,Madagascar,bronch2021,Yes,Yes
+AFR,Africa,23,MDG,Madagascar,ics2021,No,No
+AFR,Africa,23,MDG,Madagascar,combo2021,No,No
+AFR,Africa,24,ZWE,Zimbabwe,bronch2021,Yes,Yes
+AFR,Africa,24,ZWE,Zimbabwe,ics2021,No,No
+AFR,Africa,24,ZWE,Zimbabwe,combo2021,No,No
+AFR,Africa,25,DZA,Algeria,bronch2021,Yes,Yes
+AFR,Africa,25,DZA,Algeria,ics2021,No,No
+AFR,Africa,25,DZA,Algeria,combo2021,Yes,Yes
+AFR,Africa,26,UGA,Uganda,bronch2021,Yes,Yes
+AFR,Africa,26,UGA,Uganda,ics2021,No,No
+AFR,Africa,26,UGA,Uganda,combo2021,Don't know,Unknown
+AFR,Africa,27,MOZ,Mozambique,bronch2021,Yes,Yes
+AFR,Africa,27,MOZ,Mozambique,ics2021,Yes,Yes
+AFR,Africa,27,MOZ,Mozambique,combo2021,No,No
+AFR,Africa,28,NAM,Namibia,bronch2021,Yes,Yes
+AFR,Africa,28,NAM,Namibia,ics2021,Yes,Yes
+AFR,Africa,28,NAM,Namibia,combo2021,No,No
+AFR,Africa,29,SLE,Sierra Leone,bronch2021,Yes,Yes
+AFR,Africa,29,SLE,Sierra Leone,ics2021,Yes,Yes
+AFR,Africa,29,SLE,Sierra Leone,combo2021,No,No
+AFR,Africa,30,STP,Sao Tome and Principe,bronch2021,Yes,Yes
+AFR,Africa,30,STP,Sao Tome and Principe,ics2021,Yes,Yes
+AFR,Africa,30,STP,Sao Tome and Principe,combo2021,No,No
+AFR,Africa,31,SWZ,Eswatini,bronch2021,Yes,Yes
+AFR,Africa,31,SWZ,Eswatini,ics2021,Yes,Yes
+AFR,Africa,31,SWZ,Eswatini,combo2021,No,No
+AFR,Africa,32,ZAF,South Africa,bronch2021,Yes,Yes
+AFR,Africa,32,ZAF,South Africa,ics2021,Yes,Yes
+AFR,Africa,32,ZAF,South Africa,combo2021,No,No
+AFR,Africa,33,BWA,Botswana,bronch2021,Yes,Yes
+AFR,Africa,33,BWA,Botswana,ics2021,Yes,Yes
+AFR,Africa,33,BWA,Botswana,combo2021,Yes,Yes
+AFR,Africa,34,GNQ,Equatorial Guinea,bronch2021,Yes,Yes
+AFR,Africa,34,GNQ,Equatorial Guinea,ics2021,Yes,Yes
+AFR,Africa,34,GNQ,Equatorial Guinea,combo2021,Yes,Yes
+AFR,Africa,35,MUS,Mauritius,bronch2021,Yes,Yes
+AFR,Africa,35,MUS,Mauritius,ics2021,Yes,Yes
+AFR,Africa,35,MUS,Mauritius,combo2021,Yes,Yes
+AFR,Africa,36,NGA,Nigeria,bronch2021,Yes,Yes
+AFR,Africa,36,NGA,Nigeria,ics2021,Yes,Yes
+AFR,Africa,36,NGA,Nigeria,combo2021,Yes,Yes
+AFR,Africa,37,SYC,Seychelles,bronch2021,Yes,Yes
+AFR,Africa,37,SYC,Seychelles,ics2021,Yes,Yes
+AFR,Africa,37,SYC,Seychelles,combo2021,Yes,Yes
+AFR,Africa,38,TZA,United Republic of Tanzania,bronch2021,Yes,Yes
+AFR,Africa,38,TZA,United Republic of Tanzania,ics2021,Yes,Yes
+AFR,Africa,38,TZA,United Republic of Tanzania,combo2021,Yes,Yes
+AFR,Africa,39,ETH,Ethiopia,bronch2021,Yes,Yes
+AFR,Africa,39,ETH,Ethiopia,ics2021,Yes,Yes
+AFR,Africa,39,ETH,Ethiopia,combo2021,Don't know,Unknown
+AFR,Africa,40,RWA,Rwanda,bronch2021,Yes,Yes
+AFR,Africa,40,RWA,Rwanda,ics2021,Yes,Yes
+AFR,Africa,40,RWA,Rwanda,combo2021,Don't know,Unknown
+AFR,Africa,41,ZMB,Zambia,bronch2021,Yes,Yes
+AFR,Africa,41,ZMB,Zambia,ics2021,Don't know,Unknown
+AFR,Africa,41,ZMB,Zambia,combo2021,No,No
+AFR,Africa,42,AGO,Angola,bronch2021,Yes,Yes
+AFR,Africa,42,AGO,Angola,ics2021,Don't know,Unknown
+AFR,Africa,42,AGO,Angola,combo2021,Yes,Yes
+AFR,Africa,43,LBR,Liberia,bronch2021,Yes,Yes
+AFR,Africa,43,LBR,Liberia,ics2021,Don't know,Unknown
+AFR,Africa,43,LBR,Liberia,combo2021,Yes,Yes
+AFR,Africa,44,COD,Democratic Republic of the Congo,bronch2021,Yes,Yes
+AFR,Africa,44,COD,Democratic Republic of the Congo,ics2021,Don't know,Unknown
+AFR,Africa,44,COD,Democratic Republic of the Congo,combo2021,Don't know,Unknown
+AFR,Africa,45,GNB,Guinea-Bissau,bronch2021,No response,Unknown
+AFR,Africa,45,GNB,Guinea-Bissau,ics2021,No response,Unknown
+AFR,Africa,45,GNB,Guinea-Bissau,combo2021,No response,Unknown
+AFR,Africa,46,LSO,Lesotho,bronch2021,No response,Unknown
+AFR,Africa,46,LSO,Lesotho,ics2021,No response,Unknown
+AFR,Africa,46,LSO,Lesotho,combo2021,No response,Unknown
+AFR,Africa,47,TCD,Chad,bronch2021,No response,Unknown
+AFR,Africa,47,TCD,Chad,ics2021,No response,Unknown
+AFR,Africa,47,TCD,Chad,combo2021,No response,Unknown
+AMR,Americas,1,GTM,Guatemala,bronch2021,No,No
+AMR,Americas,1,GTM,Guatemala,ics2021,No,No
+AMR,Americas,1,GTM,Guatemala,combo2021,No,No
+AMR,Americas,2,HTI,Haiti,bronch2021,No,No
+AMR,Americas,2,HTI,Haiti,ics2021,No,No
+AMR,Americas,2,HTI,Haiti,combo2021,No,No
+AMR,Americas,3,PRY,Paraguay,bronch2021,No,No
+AMR,Americas,3,PRY,Paraguay,ics2021,No,No
+AMR,Americas,3,PRY,Paraguay,combo2021,No,No
+AMR,Americas,4,HND,Honduras,bronch2021,No,No
+AMR,Americas,4,HND,Honduras,ics2021,No,No
+AMR,Americas,4,HND,Honduras,combo2021,Don't know,Unknown
+AMR,Americas,5,DMA,Dominica,bronch2021,Yes,Yes
+AMR,Americas,5,DMA,Dominica,ics2021,No,No
+AMR,Americas,5,DMA,Dominica,combo2021,No,No
+AMR,Americas,6,DOM,Dominican Republic,bronch2021,Yes,Yes
+AMR,Americas,6,DOM,Dominican Republic,ics2021,No,No
+AMR,Americas,6,DOM,Dominican Republic,combo2021,No,No
+AMR,Americas,7,KNA,Saint Kitts and Nevis,bronch2021,Yes,Yes
+AMR,Americas,7,KNA,Saint Kitts and Nevis,ics2021,No,No
+AMR,Americas,7,KNA,Saint Kitts and Nevis,combo2021,Yes,Yes
+AMR,Americas,8,BLZ,Belize,bronch2021,Yes,Yes
+AMR,Americas,8,BLZ,Belize,ics2021,No,No
+AMR,Americas,8,BLZ,Belize,combo2021,Don't know,Unknown
+AMR,Americas,9,ARG,Argentina,bronch2021,Yes,Yes
+AMR,Americas,9,ARG,Argentina,ics2021,Yes,Yes
+AMR,Americas,9,ARG,Argentina,combo2021,No,No
+AMR,Americas,10,CRI,Costa Rica,bronch2021,Yes,Yes
+AMR,Americas,10,CRI,Costa Rica,ics2021,Yes,Yes
+AMR,Americas,10,CRI,Costa Rica,combo2021,No,No
+AMR,Americas,11,ECU,Ecuador,bronch2021,Yes,Yes
+AMR,Americas,11,ECU,Ecuador,ics2021,Yes,Yes
+AMR,Americas,11,ECU,Ecuador,combo2021,No,No
+AMR,Americas,12,GRD,Grenada,bronch2021,Yes,Yes
+AMR,Americas,12,GRD,Grenada,ics2021,Yes,Yes
+AMR,Americas,12,GRD,Grenada,combo2021,No,No
+AMR,Americas,13,GUY,Guyana,bronch2021,Yes,Yes
+AMR,Americas,13,GUY,Guyana,ics2021,Yes,Yes
+AMR,Americas,13,GUY,Guyana,combo2021,No,No
+AMR,Americas,14,PAN,Panama,bronch2021,Yes,Yes
+AMR,Americas,14,PAN,Panama,ics2021,Yes,Yes
+AMR,Americas,14,PAN,Panama,combo2021,No,No
+AMR,Americas,15,PER,Peru,bronch2021,Yes,Yes
+AMR,Americas,15,PER,Peru,ics2021,Yes,Yes
+AMR,Americas,15,PER,Peru,combo2021,No,No
+AMR,Americas,16,SLV,El Salvador,bronch2021,Yes,Yes
+AMR,Americas,16,SLV,El Salvador,ics2021,Yes,Yes
+AMR,Americas,16,SLV,El Salvador,combo2021,No,No
+AMR,Americas,17,SUR,Suriname,bronch2021,Yes,Yes
+AMR,Americas,17,SUR,Suriname,ics2021,Yes,Yes
+AMR,Americas,17,SUR,Suriname,combo2021,No,No
+AMR,Americas,18,ATG,Antigua and Barbuda,bronch2021,Yes,Yes
+AMR,Americas,18,ATG,Antigua and Barbuda,ics2021,Yes,Yes
+AMR,Americas,18,ATG,Antigua and Barbuda,combo2021,Yes,Yes
+AMR,Americas,19,BHS,Bahamas,bronch2021,Yes,Yes
+AMR,Americas,19,BHS,Bahamas,ics2021,Yes,Yes
+AMR,Americas,19,BHS,Bahamas,combo2021,Yes,Yes
+AMR,Americas,20,BOL,Bolivia (Plurinational State of),bronch2021,Yes,Yes
+AMR,Americas,20,BOL,Bolivia (Plurinational State of),ics2021,Yes,Yes
+AMR,Americas,20,BOL,Bolivia (Plurinational State of),combo2021,Yes,Yes
+AMR,Americas,21,BRA,Brazil,bronch2021,Yes,Yes
+AMR,Americas,21,BRA,Brazil,ics2021,Yes,Yes
+AMR,Americas,21,BRA,Brazil,combo2021,Yes,Yes
+AMR,Americas,22,BRB,Barbados,bronch2021,Yes,Yes
+AMR,Americas,22,BRB,Barbados,ics2021,Yes,Yes
+AMR,Americas,22,BRB,Barbados,combo2021,Yes,Yes
+AMR,Americas,23,CAN,Canada,bronch2021,Yes,Yes
+AMR,Americas,23,CAN,Canada,ics2021,Yes,Yes
+AMR,Americas,23,CAN,Canada,combo2021,Yes,Yes
+AMR,Americas,24,CHL,Chile,bronch2021,Yes,Yes
+AMR,Americas,24,CHL,Chile,ics2021,Yes,Yes
+AMR,Americas,24,CHL,Chile,combo2021,Yes,Yes
+AMR,Americas,25,CUB,Cuba,bronch2021,Yes,Yes
+AMR,Americas,25,CUB,Cuba,ics2021,Yes,Yes
+AMR,Americas,25,CUB,Cuba,combo2021,Yes,Yes
+AMR,Americas,26,JAM,Jamaica,bronch2021,Yes,Yes
+AMR,Americas,26,JAM,Jamaica,ics2021,Yes,Yes
+AMR,Americas,26,JAM,Jamaica,combo2021,Yes,Yes
+AMR,Americas,27,LCA,Saint Lucia,bronch2021,Yes,Yes
+AMR,Americas,27,LCA,Saint Lucia,ics2021,Yes,Yes
+AMR,Americas,27,LCA,Saint Lucia,combo2021,Yes,Yes
+AMR,Americas,28,NIC,Nicaragua,bronch2021,Yes,Yes
+AMR,Americas,28,NIC,Nicaragua,ics2021,Yes,Yes
+AMR,Americas,28,NIC,Nicaragua,combo2021,Yes,Yes
+AMR,Americas,29,URY,Uruguay,bronch2021,Yes,Yes
+AMR,Americas,29,URY,Uruguay,ics2021,Yes,Yes
+AMR,Americas,29,URY,Uruguay,combo2021,Yes,Yes
+AMR,Americas,30,VCT,Saint Vincent and the Grenadines,bronch2021,Yes,Yes
+AMR,Americas,30,VCT,Saint Vincent and the Grenadines,ics2021,Yes,Yes
+AMR,Americas,30,VCT,Saint Vincent and the Grenadines,combo2021,Yes,Yes
+AMR,Americas,31,COL,Colombia,bronch2021,Yes,Yes
+AMR,Americas,31,COL,Colombia,ics2021,Yes,Yes
+AMR,Americas,31,COL,Colombia,combo2021,Don't know,Unknown
+AMR,Americas,32,MEX,Mexico,bronch2021,Yes,Yes
+AMR,Americas,32,MEX,Mexico,ics2021,Yes,Yes
+AMR,Americas,32,MEX,Mexico,combo2021,Don't know,Unknown
+AMR,Americas,33,TTO,Trinidad and Tobago,bronch2021,Yes,Yes
+AMR,Americas,33,TTO,Trinidad and Tobago,ics2021,Yes,Yes
+AMR,Americas,33,TTO,Trinidad and Tobago,combo2021,Don't know,Unknown
+AMR,Americas,34,USA,United States of America,bronch2021,Yes,Yes
+AMR,Americas,34,USA,United States of America,ics2021,Yes,Yes
+AMR,Americas,34,USA,United States of America,combo2021,Don't know,Unknown
+AMR,Americas,35,VEN,Venezuela (Bolivarian Republic of),bronch2021,Yes,Yes
+AMR,Americas,35,VEN,Venezuela (Bolivarian Republic of),ics2021,Yes,Yes
+AMR,Americas,35,VEN,Venezuela (Bolivarian Republic of),combo2021,Don't know,Unknown
+EMR,Eastern Mediterranean,1,PAK,Pakistan,bronch2021,No,No
+EMR,Eastern Mediterranean,1,PAK,Pakistan,ics2021,No,No
+EMR,Eastern Mediterranean,1,PAK,Pakistan,combo2021,No,No
+EMR,Eastern Mediterranean,2,SOM,Somalia,bronch2021,No,No
+EMR,Eastern Mediterranean,2,SOM,Somalia,ics2021,No,No
+EMR,Eastern Mediterranean,2,SOM,Somalia,combo2021,No,No
+EMR,Eastern Mediterranean,3,YEM,Yemen,bronch2021,No,No
+EMR,Eastern Mediterranean,3,YEM,Yemen,ics2021,No,No
+EMR,Eastern Mediterranean,3,YEM,Yemen,combo2021,No,No
+EMR,Eastern Mediterranean,4,SDN,Sudan,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,4,SDN,Sudan,ics2021,No,No
+EMR,Eastern Mediterranean,4,SDN,Sudan,combo2021,No,No
+EMR,Eastern Mediterranean,5,AFG,Afghanistan,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,5,AFG,Afghanistan,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,5,AFG,Afghanistan,combo2021,No,No
+EMR,Eastern Mediterranean,6,DJI,Djibouti,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,6,DJI,Djibouti,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,6,DJI,Djibouti,combo2021,No,No
+EMR,Eastern Mediterranean,7,IRQ,Iraq,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,7,IRQ,Iraq,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,7,IRQ,Iraq,combo2021,No,No
+EMR,Eastern Mediterranean,8,LBN,Lebanon,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,8,LBN,Lebanon,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,8,LBN,Lebanon,combo2021,No,No
+EMR,Eastern Mediterranean,9,LBY,Libya,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,9,LBY,Libya,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,9,LBY,Libya,combo2021,No,No
+EMR,Eastern Mediterranean,10,MAR,Morocco,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,10,MAR,Morocco,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,10,MAR,Morocco,combo2021,No,No
+EMR,Eastern Mediterranean,11,TUN,Tunisia,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,11,TUN,Tunisia,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,11,TUN,Tunisia,combo2021,No,No
+EMR,Eastern Mediterranean,12,ARE,United Arab Emirates,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,12,ARE,United Arab Emirates,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,12,ARE,United Arab Emirates,combo2021,Yes,Yes
+EMR,Eastern Mediterranean,13,BHR,Bahrain,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,13,BHR,Bahrain,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,13,BHR,Bahrain,combo2021,Yes,Yes
+EMR,Eastern Mediterranean,14,IRN,Iran (Islamic Republic of),bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,14,IRN,Iran (Islamic Republic of),ics2021,Yes,Yes
+EMR,Eastern Mediterranean,14,IRN,Iran (Islamic Republic of),combo2021,Yes,Yes
+EMR,Eastern Mediterranean,15,JOR,Jordan,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,15,JOR,Jordan,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,15,JOR,Jordan,combo2021,Yes,Yes
+EMR,Eastern Mediterranean,16,KWT,Kuwait,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,16,KWT,Kuwait,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,16,KWT,Kuwait,combo2021,Yes,Yes
+EMR,Eastern Mediterranean,17,OMN,Oman,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,17,OMN,Oman,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,17,OMN,Oman,combo2021,Yes,Yes
+EMR,Eastern Mediterranean,18,SAU,Saudi Arabia,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,18,SAU,Saudi Arabia,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,18,SAU,Saudi Arabia,combo2021,Yes,Yes
+EMR,Eastern Mediterranean,19,QAT,Qatar,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,19,QAT,Qatar,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,19,QAT,Qatar,combo2021,Don't know,Unknown
+EMR,Eastern Mediterranean,20,SYR,Syrian Arab Republic,bronch2021,Yes,Yes
+EMR,Eastern Mediterranean,20,SYR,Syrian Arab Republic,ics2021,Yes,Yes
+EMR,Eastern Mediterranean,20,SYR,Syrian Arab Republic,combo2021,Don't know,Unknown
+EMR,Eastern Mediterranean,21,EGY,Egypt,bronch2021,No response,Unknown
+EMR,Eastern Mediterranean,21,EGY,Egypt,ics2021,No response,Unknown
+EMR,Eastern Mediterranean,21,EGY,Egypt,combo2021,No response,Unknown
+EUR,Europe,1,CYP,Cyprus,bronch2021,No,No
+EUR,Europe,1,CYP,Cyprus,ics2021,No,No
+EUR,Europe,1,CYP,Cyprus,combo2021,No,No
+EUR,Europe,2,TJK,Tajikistan,bronch2021,No,No
+EUR,Europe,2,TJK,Tajikistan,ics2021,No,No
+EUR,Europe,2,TJK,Tajikistan,combo2021,No,No
+EUR,Europe,3,UZB,Uzbekistan,bronch2021,Yes,Yes
+EUR,Europe,3,UZB,Uzbekistan,ics2021,No,No
+EUR,Europe,3,UZB,Uzbekistan,combo2021,Yes,Yes
+EUR,Europe,4,KGZ,Kyrgyzstan,bronch2021,No,No
+EUR,Europe,4,KGZ,Kyrgyzstan,ics2021,Yes,Yes
+EUR,Europe,4,KGZ,Kyrgyzstan,combo2021,Yes,Yes
+EUR,Europe,5,ALB,Albania,bronch2021,Yes,Yes
+EUR,Europe,5,ALB,Albania,ics2021,Yes,Yes
+EUR,Europe,5,ALB,Albania,combo2021,Yes,Yes
+EUR,Europe,6,AND,Andorra,bronch2021,Yes,Yes
+EUR,Europe,6,AND,Andorra,ics2021,Yes,Yes
+EUR,Europe,6,AND,Andorra,combo2021,Yes,Yes
+EUR,Europe,7,ARM,Armenia,bronch2021,Yes,Yes
+EUR,Europe,7,ARM,Armenia,ics2021,Yes,Yes
+EUR,Europe,7,ARM,Armenia,combo2021,Yes,Yes
+EUR,Europe,8,AUT,Austria,bronch2021,Yes,Yes
+EUR,Europe,8,AUT,Austria,ics2021,Yes,Yes
+EUR,Europe,8,AUT,Austria,combo2021,Yes,Yes
+EUR,Europe,9,AZE,Azerbaijan,bronch2021,Yes,Yes
+EUR,Europe,9,AZE,Azerbaijan,ics2021,Yes,Yes
+EUR,Europe,9,AZE,Azerbaijan,combo2021,Yes,Yes
+EUR,Europe,10,BIH,Bosnia and Herzegovina,bronch2021,Yes,Yes
+EUR,Europe,10,BIH,Bosnia and Herzegovina,ics2021,Yes,Yes
+EUR,Europe,10,BIH,Bosnia and Herzegovina,combo2021,Yes,Yes
+EUR,Europe,11,BLR,Belarus,bronch2021,Yes,Yes
+EUR,Europe,11,BLR,Belarus,ics2021,Yes,Yes
+EUR,Europe,11,BLR,Belarus,combo2021,Yes,Yes
+EUR,Europe,12,CHE,Switzerland,bronch2021,Yes,Yes
+EUR,Europe,12,CHE,Switzerland,ics2021,Yes,Yes
+EUR,Europe,12,CHE,Switzerland,combo2021,Yes,Yes
+EUR,Europe,13,CZE,Czechia,bronch2021,Yes,Yes
+EUR,Europe,13,CZE,Czechia,ics2021,Yes,Yes
+EUR,Europe,13,CZE,Czechia,combo2021,Yes,Yes
+EUR,Europe,14,DEU,Germany,bronch2021,Yes,Yes
+EUR,Europe,14,DEU,Germany,ics2021,Yes,Yes
+EUR,Europe,14,DEU,Germany,combo2021,Yes,Yes
+EUR,Europe,15,DNK,Denmark,bronch2021,Yes,Yes
+EUR,Europe,15,DNK,Denmark,ics2021,Yes,Yes
+EUR,Europe,15,DNK,Denmark,combo2021,Yes,Yes
+EUR,Europe,16,ESP,Spain,bronch2021,Yes,Yes
+EUR,Europe,16,ESP,Spain,ics2021,Yes,Yes
+EUR,Europe,16,ESP,Spain,combo2021,Yes,Yes
+EUR,Europe,17,EST,Estonia,bronch2021,Yes,Yes
+EUR,Europe,17,EST,Estonia,ics2021,Yes,Yes
+EUR,Europe,17,EST,Estonia,combo2021,Yes,Yes
+EUR,Europe,18,FIN,Finland,bronch2021,Yes,Yes
+EUR,Europe,18,FIN,Finland,ics2021,Yes,Yes
+EUR,Europe,18,FIN,Finland,combo2021,Yes,Yes
+EUR,Europe,19,FRA,France,bronch2021,Yes,Yes
+EUR,Europe,19,FRA,France,ics2021,Yes,Yes
+EUR,Europe,19,FRA,France,combo2021,Yes,Yes
+EUR,Europe,20,GBR,United Kingdom of Great Britain and Northern Ireland,bronch2021,Yes,Yes
+EUR,Europe,20,GBR,United Kingdom of Great Britain and Northern Ireland,ics2021,Yes,Yes
+EUR,Europe,20,GBR,United Kingdom of Great Britain and Northern Ireland,combo2021,Yes,Yes
+EUR,Europe,21,GEO,Georgia,bronch2021,Yes,Yes
+EUR,Europe,21,GEO,Georgia,ics2021,Yes,Yes
+EUR,Europe,21,GEO,Georgia,combo2021,Yes,Yes
+EUR,Europe,22,GRC,Greece,bronch2021,Yes,Yes
+EUR,Europe,22,GRC,Greece,ics2021,Yes,Yes
+EUR,Europe,22,GRC,Greece,combo2021,Yes,Yes
+EUR,Europe,23,HRV,Croatia,bronch2021,Yes,Yes
+EUR,Europe,23,HRV,Croatia,ics2021,Yes,Yes
+EUR,Europe,23,HRV,Croatia,combo2021,Yes,Yes
+EUR,Europe,24,HUN,Hungary,bronch2021,Yes,Yes
+EUR,Europe,24,HUN,Hungary,ics2021,Yes,Yes
+EUR,Europe,24,HUN,Hungary,combo2021,Yes,Yes
+EUR,Europe,25,IRL,Ireland,bronch2021,Yes,Yes
+EUR,Europe,25,IRL,Ireland,ics2021,Yes,Yes
+EUR,Europe,25,IRL,Ireland,combo2021,Yes,Yes
+EUR,Europe,26,ITA,Italy,bronch2021,Yes,Yes
+EUR,Europe,26,ITA,Italy,ics2021,Yes,Yes
+EUR,Europe,26,ITA,Italy,combo2021,Yes,Yes
+EUR,Europe,27,LTU,Lithuania,bronch2021,Yes,Yes
+EUR,Europe,27,LTU,Lithuania,ics2021,Yes,Yes
+EUR,Europe,27,LTU,Lithuania,combo2021,Yes,Yes
+EUR,Europe,28,LUX,Luxembourg,bronch2021,Yes,Yes
+EUR,Europe,28,LUX,Luxembourg,ics2021,Yes,Yes
+EUR,Europe,28,LUX,Luxembourg,combo2021,Yes,Yes
+EUR,Europe,29,LVA,Latvia,bronch2021,Yes,Yes
+EUR,Europe,29,LVA,Latvia,ics2021,Yes,Yes
+EUR,Europe,29,LVA,Latvia,combo2021,Yes,Yes
+EUR,Europe,30,MDA,Republic of Moldova,bronch2021,Yes,Yes
+EUR,Europe,30,MDA,Republic of Moldova,ics2021,Yes,Yes
+EUR,Europe,30,MDA,Republic of Moldova,combo2021,Yes,Yes
+EUR,Europe,31,MLT,Malta,bronch2021,Yes,Yes
+EUR,Europe,31,MLT,Malta,ics2021,Yes,Yes
+EUR,Europe,31,MLT,Malta,combo2021,Yes,Yes
+EUR,Europe,32,MNE,Montenegro,bronch2021,Yes,Yes
+EUR,Europe,32,MNE,Montenegro,ics2021,Yes,Yes
+EUR,Europe,32,MNE,Montenegro,combo2021,Yes,Yes
+EUR,Europe,33,NLD,Netherlands (Kingdom of the),bronch2021,Yes,Yes
+EUR,Europe,33,NLD,Netherlands (Kingdom of the),ics2021,Yes,Yes
+EUR,Europe,33,NLD,Netherlands (Kingdom of the),combo2021,Yes,Yes
+EUR,Europe,34,NOR,Norway,bronch2021,Yes,Yes
+EUR,Europe,34,NOR,Norway,ics2021,Yes,Yes
+EUR,Europe,34,NOR,Norway,combo2021,Yes,Yes
+EUR,Europe,35,PRT,Portugal,bronch2021,Yes,Yes
+EUR,Europe,35,PRT,Portugal,ics2021,Yes,Yes
+EUR,Europe,35,PRT,Portugal,combo2021,Yes,Yes
+EUR,Europe,36,SMR,San Marino,bronch2021,Yes,Yes
+EUR,Europe,36,SMR,San Marino,ics2021,Yes,Yes
+EUR,Europe,36,SMR,San Marino,combo2021,Yes,Yes
+EUR,Europe,37,SVN,Slovenia,bronch2021,Yes,Yes
+EUR,Europe,37,SVN,Slovenia,ics2021,Yes,Yes
+EUR,Europe,37,SVN,Slovenia,combo2021,Yes,Yes
+EUR,Europe,38,SWE,Sweden,bronch2021,Yes,Yes
+EUR,Europe,38,SWE,Sweden,ics2021,Yes,Yes
+EUR,Europe,38,SWE,Sweden,combo2021,Yes,Yes
+EUR,Europe,39,TKM,Turkmenistan,bronch2021,Yes,Yes
+EUR,Europe,39,TKM,Turkmenistan,ics2021,Yes,Yes
+EUR,Europe,39,TKM,Turkmenistan,combo2021,Yes,Yes
+EUR,Europe,40,TUR,Türkiye,bronch2021,Yes,Yes
+EUR,Europe,40,TUR,Türkiye,ics2021,Yes,Yes
+EUR,Europe,40,TUR,Türkiye,combo2021,Yes,Yes
+EUR,Europe,41,UKR,Ukraine,bronch2021,Yes,Yes
+EUR,Europe,41,UKR,Ukraine,ics2021,Yes,Yes
+EUR,Europe,41,UKR,Ukraine,combo2021,Yes,Yes
+EUR,Europe,42,BEL,Belgium,bronch2021,Yes,Yes
+EUR,Europe,42,BEL,Belgium,ics2021,Yes,Yes
+EUR,Europe,42,BEL,Belgium,combo2021,Don't know,Unknown
+EUR,Europe,43,BGR,Bulgaria,bronch2021,Yes,Yes
+EUR,Europe,43,BGR,Bulgaria,ics2021,Yes,Yes
+EUR,Europe,43,BGR,Bulgaria,combo2021,Don't know,Unknown
+EUR,Europe,44,ISL,Iceland,bronch2021,Yes,Yes
+EUR,Europe,44,ISL,Iceland,ics2021,Yes,Yes
+EUR,Europe,44,ISL,Iceland,combo2021,Don't know,Unknown
+EUR,Europe,45,ISR,Israel,bronch2021,Yes,Yes
+EUR,Europe,45,ISR,Israel,ics2021,Yes,Yes
+EUR,Europe,45,ISR,Israel,combo2021,Don't know,Unknown
+EUR,Europe,46,MCO,Monaco,bronch2021,Yes,Yes
+EUR,Europe,46,MCO,Monaco,ics2021,Yes,Yes
+EUR,Europe,46,MCO,Monaco,combo2021,No response,Unknown
+EUR,Europe,47,POL,Poland,bronch2021,Yes,Yes
+EUR,Europe,47,POL,Poland,ics2021,Yes,Yes
+EUR,Europe,47,POL,Poland,combo2021,Don't know,Unknown
+EUR,Europe,48,ROU,Romania,bronch2021,Yes,Yes
+EUR,Europe,48,ROU,Romania,ics2021,Yes,Yes
+EUR,Europe,48,ROU,Romania,combo2021,Don't know,Unknown
+EUR,Europe,49,RUS,Russian Federation,bronch2021,Yes,Yes
+EUR,Europe,49,RUS,Russian Federation,ics2021,Yes,Yes
+EUR,Europe,49,RUS,Russian Federation,combo2021,Don't know,Unknown
+EUR,Europe,50,SRB,Serbia,bronch2021,Yes,Yes
+EUR,Europe,50,SRB,Serbia,ics2021,Yes,Yes
+EUR,Europe,50,SRB,Serbia,combo2021,Don't know,Unknown
+EUR,Europe,51,KAZ,Kazakhstan,bronch2021,Yes,Yes
+EUR,Europe,51,KAZ,Kazakhstan,ics2021,Don't know,Unknown
+EUR,Europe,51,KAZ,Kazakhstan,combo2021,Yes,Yes
+EUR,Europe,52,MKD,North Macedonia,bronch2021,Yes,Yes
+EUR,Europe,52,MKD,North Macedonia,ics2021,Don't know,Unknown
+EUR,Europe,52,MKD,North Macedonia,combo2021,Don't know,Unknown
+EUR,Europe,53,SVK,Slovakia,bronch2021,No response,Unknown
+EUR,Europe,53,SVK,Slovakia,ics2021,No response,Unknown
+EUR,Europe,53,SVK,Slovakia,combo2021,No response,Unknown
+SEAR,South-East Asia,1,BGD,Bangladesh,bronch2021,No,No
+SEAR,South-East Asia,1,BGD,Bangladesh,ics2021,No,No
+SEAR,South-East Asia,1,BGD,Bangladesh,combo2021,No,No
+SEAR,South-East Asia,2,NPL,Nepal,bronch2021,No,No
+SEAR,South-East Asia,2,NPL,Nepal,ics2021,No,No
+SEAR,South-East Asia,2,NPL,Nepal,combo2021,No,No
+SEAR,South-East Asia,3,THA,Thailand,bronch2021,Yes,Yes
+SEAR,South-East Asia,3,THA,Thailand,ics2021,No,No
+SEAR,South-East Asia,3,THA,Thailand,combo2021,No,No
+SEAR,South-East Asia,4,IND,India,bronch2021,Yes,Yes
+SEAR,South-East Asia,4,IND,India,ics2021,No,No
+SEAR,South-East Asia,4,IND,India,combo2021,Don't know,Unknown
+SEAR,South-East Asia,5,LKA,Sri Lanka,bronch2021,Yes,Yes
+SEAR,South-East Asia,5,LKA,Sri Lanka,ics2021,Yes,Yes
+SEAR,South-East Asia,5,LKA,Sri Lanka,combo2021,No,No
+SEAR,South-East Asia,6,TLS,Timor-Leste,bronch2021,Yes,Yes
+SEAR,South-East Asia,6,TLS,Timor-Leste,ics2021,Yes,Yes
+SEAR,South-East Asia,6,TLS,Timor-Leste,combo2021,No,No
+SEAR,South-East Asia,7,BTN,Bhutan,bronch2021,Yes,Yes
+SEAR,South-East Asia,7,BTN,Bhutan,ics2021,Yes,Yes
+SEAR,South-East Asia,7,BTN,Bhutan,combo2021,Yes,Yes
+SEAR,South-East Asia,8,MDV,Maldives,bronch2021,Yes,Yes
+SEAR,South-East Asia,8,MDV,Maldives,ics2021,Yes,Yes
+SEAR,South-East Asia,8,MDV,Maldives,combo2021,Yes,Yes
+SEAR,South-East Asia,9,MMR,Myanmar,bronch2021,Yes,Yes
+SEAR,South-East Asia,9,MMR,Myanmar,ics2021,Yes,Yes
+SEAR,South-East Asia,9,MMR,Myanmar,combo2021,Yes,Yes
+SEAR,South-East Asia,10,PRK,Democratic People's Republic of Korea,bronch2021,Yes,Yes
+SEAR,South-East Asia,10,PRK,Democratic People's Republic of Korea,ics2021,Yes,Yes
+SEAR,South-East Asia,10,PRK,Democratic People's Republic of Korea,combo2021,Yes,Yes
+WPR,Western Pacific,1,KHM,Cambodia,bronch2021,No,No
+WPR,Western Pacific,1,KHM,Cambodia,ics2021,No,No
+WPR,Western Pacific,1,KHM,Cambodia,combo2021,No,No
+WPR,Western Pacific,2,KIR,Kiribati,bronch2021,No,No
+WPR,Western Pacific,2,KIR,Kiribati,ics2021,No,No
+WPR,Western Pacific,2,KIR,Kiribati,combo2021,No,No
+WPR,Western Pacific,3,LAO,Lao People's Democratic Republic,bronch2021,No,No
+WPR,Western Pacific,3,LAO,Lao People's Democratic Republic,ics2021,No,No
+WPR,Western Pacific,3,LAO,Lao People's Democratic Republic,combo2021,No,No
+WPR,Western Pacific,4,MHL,Marshall Islands,bronch2021,No,No
+WPR,Western Pacific,4,MHL,Marshall Islands,ics2021,No,No
+WPR,Western Pacific,4,MHL,Marshall Islands,combo2021,No,No
+WPR,Western Pacific,5,PHL,Philippines,bronch2021,No,No
+WPR,Western Pacific,5,PHL,Philippines,ics2021,No,No
+WPR,Western Pacific,5,PHL,Philippines,combo2021,No,No
+WPR,Western Pacific,6,SLB,Solomon Islands,bronch2021,No,No
+WPR,Western Pacific,6,SLB,Solomon Islands,ics2021,No,No
+WPR,Western Pacific,6,SLB,Solomon Islands,combo2021,No,No
+WPR,Western Pacific,7,VNM,Viet Nam,bronch2021,Yes,Yes
+WPR,Western Pacific,7,VNM,Viet Nam,ics2021,No,No
+WPR,Western Pacific,7,VNM,Viet Nam,combo2021,No,No
+WPR,Western Pacific,8,FJI,Fiji,bronch2021,Yes,Yes
+WPR,Western Pacific,8,FJI,Fiji,ics2021,Yes,Yes
+WPR,Western Pacific,8,FJI,Fiji,combo2021,No,No
+WPR,Western Pacific,9,FSM,Micronesia (Federated States of),bronch2021,Yes,Yes
+WPR,Western Pacific,9,FSM,Micronesia (Federated States of),ics2021,Yes,Yes
+WPR,Western Pacific,9,FSM,Micronesia (Federated States of),combo2021,No,No
+WPR,Western Pacific,10,IDN,Indonesia,bronch2021,Yes,Yes
+WPR,Western Pacific,10,IDN,Indonesia,ics2021,Yes,Yes
+WPR,Western Pacific,10,IDN,Indonesia,combo2021,No,No
+WPR,Western Pacific,11,MYS,Malaysia,bronch2021,Yes,Yes
+WPR,Western Pacific,11,MYS,Malaysia,ics2021,Yes,Yes
+WPR,Western Pacific,11,MYS,Malaysia,combo2021,No,No
+WPR,Western Pacific,12,NIU,Niue,bronch2021,Yes,Yes
+WPR,Western Pacific,12,NIU,Niue,ics2021,Yes,Yes
+WPR,Western Pacific,12,NIU,Niue,combo2021,No,No
+WPR,Western Pacific,13,PLW,Palau,bronch2021,Yes,Yes
+WPR,Western Pacific,13,PLW,Palau,ics2021,Yes,Yes
+WPR,Western Pacific,13,PLW,Palau,combo2021,No,No
+WPR,Western Pacific,14,TON,Tonga,bronch2021,Yes,Yes
+WPR,Western Pacific,14,TON,Tonga,ics2021,Yes,Yes
+WPR,Western Pacific,14,TON,Tonga,combo2021,No,No
+WPR,Western Pacific,15,VUT,Vanuatu,bronch2021,Yes,Yes
+WPR,Western Pacific,15,VUT,Vanuatu,ics2021,Yes,Yes
+WPR,Western Pacific,15,VUT,Vanuatu,combo2021,No,No
+WPR,Western Pacific,16,AUS,Australia,bronch2021,Yes,Yes
+WPR,Western Pacific,16,AUS,Australia,ics2021,Yes,Yes
+WPR,Western Pacific,16,AUS,Australia,combo2021,Yes,Yes
+WPR,Western Pacific,17,BRN,Brunei Darussalam,bronch2021,Yes,Yes
+WPR,Western Pacific,17,BRN,Brunei Darussalam,ics2021,Yes,Yes
+WPR,Western Pacific,17,BRN,Brunei Darussalam,combo2021,Yes,Yes
+WPR,Western Pacific,18,COK,Cook Islands,bronch2021,Yes,Yes
+WPR,Western Pacific,18,COK,Cook Islands,ics2021,Yes,Yes
+WPR,Western Pacific,18,COK,Cook Islands,combo2021,Yes,Yes
+WPR,Western Pacific,19,JPN,Japan,bronch2021,Yes,Yes
+WPR,Western Pacific,19,JPN,Japan,ics2021,Yes,Yes
+WPR,Western Pacific,19,JPN,Japan,combo2021,Yes,Yes
+WPR,Western Pacific,20,MNG,Mongolia,bronch2021,Yes,Yes
+WPR,Western Pacific,20,MNG,Mongolia,ics2021,Yes,Yes
+WPR,Western Pacific,20,MNG,Mongolia,combo2021,Yes,Yes
+WPR,Western Pacific,21,NRU,Naoero,bronch2021,Yes,Yes
+WPR,Western Pacific,21,NRU,Naoero,ics2021,Yes,Yes
+WPR,Western Pacific,21,NRU,Naoero,combo2021,Yes,Yes
+WPR,Western Pacific,22,NZL,New Zealand,bronch2021,Yes,Yes
+WPR,Western Pacific,22,NZL,New Zealand,ics2021,Yes,Yes
+WPR,Western Pacific,22,NZL,New Zealand,combo2021,Yes,Yes
+WPR,Western Pacific,23,PNG,Papua New Guinea,bronch2021,Yes,Yes
+WPR,Western Pacific,23,PNG,Papua New Guinea,ics2021,Yes,Yes
+WPR,Western Pacific,23,PNG,Papua New Guinea,combo2021,Yes,Yes
+WPR,Western Pacific,24,SGP,Singapore,bronch2021,Yes,Yes
+WPR,Western Pacific,24,SGP,Singapore,ics2021,Yes,Yes
+WPR,Western Pacific,24,SGP,Singapore,combo2021,Yes,Yes
+WPR,Western Pacific,25,TUV,Tuvalu,bronch2021,Yes,Yes
+WPR,Western Pacific,25,TUV,Tuvalu,ics2021,Yes,Yes
+WPR,Western Pacific,25,TUV,Tuvalu,combo2021,Yes,Yes
+WPR,Western Pacific,26,WSM,Samoa,bronch2021,Yes,Yes
+WPR,Western Pacific,26,WSM,Samoa,ics2021,Yes,Yes
+WPR,Western Pacific,26,WSM,Samoa,combo2021,Don't know,Unknown
+WPR,Western Pacific,27,CHN,China,bronch2021,Yes,Yes
+WPR,Western Pacific,27,CHN,China,ics2021,Don't know,Unknown
+WPR,Western Pacific,27,CHN,China,combo2021,No,No
+WPR,Western Pacific,28,KOR,Republic of Korea,bronch2021,No response,Unknown
+WPR,Western Pacific,28,KOR,Republic of Korea,ics2021,No response,Unknown
+WPR,Western Pacific,28,KOR,Republic of Korea,combo2021,No response,Unknown

@@ -1,0 +1,5 @@
+﻿model_id,eligible_n,complete_n,excluded_missing_n,excluded_missing_iso3
+ics2021_gdp,181,172,9,COK;CUB;ERI;MCO;NIU;PRK;SSD;VEN;YEM
+ics2021_health,181,178,3,COK;NIU;PRK
+combo2021_gdp,157,150,7,COK;CUB;ERI;NIU;PRK;SSD;YEM
+combo2021_health,157,154,3,COK;NIU;PRK

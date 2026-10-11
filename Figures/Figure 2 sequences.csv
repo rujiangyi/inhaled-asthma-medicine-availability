@@ -1,0 +1,169 @@
+﻿iso3,country,region,trajectory,ics2017,ics2019,ics2021
+ALB,Albania,EUR,YYY,Yes,Yes,Yes
+AND,Andorra,EUR,YYY,Yes,Yes,Yes
+ARE,United Arab Emirates,EMR,YYY,Yes,Yes,Yes
+ARG,Argentina,AMR,NYY,No,Yes,Yes
+ARM,Armenia,EUR,YYY,Yes,Yes,Yes
+ATG,Antigua and Barbuda,AMR,YYY,Yes,Yes,Yes
+AUS,Australia,WPR,YYY,Yes,Yes,Yes
+AUT,Austria,EUR,YYY,Yes,Yes,Yes
+AZE,Azerbaijan,EUR,NNY,No,No,Yes
+BDI,Burundi,AFR,NNN,No,No,No
+BEL,Belgium,EUR,YYY,Yes,Yes,Yes
+BEN,Benin,AFR,NNN,No,No,No
+BFA,Burkina Faso,AFR,NNN,No,No,No
+BGD,Bangladesh,SEAR,NYN,No,Yes,No
+BGR,Bulgaria,EUR,YYY,Yes,Yes,Yes
+BHR,Bahrain,EMR,YYY,Yes,Yes,Yes
+BHS,Bahamas,AMR,YYY,Yes,Yes,Yes
+BIH,Bosnia and Herzegovina,EUR,YYY,Yes,Yes,Yes
+BLR,Belarus,EUR,YYY,Yes,Yes,Yes
+BLZ,Belize,AMR,NNN,No,No,No
+BRA,Brazil,AMR,YYY,Yes,Yes,Yes
+BRB,Barbados,AMR,YYY,Yes,Yes,Yes
+BRN,Brunei Darussalam,WPR,YYY,Yes,Yes,Yes
+BTN,Bhutan,SEAR,NNY,No,No,Yes
+BWA,Botswana,AFR,YYY,Yes,Yes,Yes
+CAF,Central African Republic,AFR,NNN,No,No,No
+CAN,Canada,AMR,YYY,Yes,Yes,Yes
+CHE,Switzerland,EUR,YYY,Yes,Yes,Yes
+CHL,Chile,AMR,YYY,Yes,Yes,Yes
+CIV,Cote d'Ivoire,AFR,NNN,No,No,No
+CMR,Cameroon,AFR,NNN,No,No,No
+COG,Congo,AFR,NNN,No,No,No
+COK,Cook Islands,WPR,YYY,Yes,Yes,Yes
+COL,Colombia,AMR,YYY,Yes,Yes,Yes
+COM,Comoros,AFR,NNN,No,No,No
+CPV,Cabo Verde,AFR,YYN,Yes,Yes,No
+CRI,Costa Rica,AMR,YYY,Yes,Yes,Yes
+CUB,Cuba,AMR,YYY,Yes,Yes,Yes
+CYP,Cyprus,EUR,YYN,Yes,Yes,No
+CZE,Czechia,EUR,YYY,Yes,Yes,Yes
+DEU,Germany,EUR,YYY,Yes,Yes,Yes
+DJI,Djibouti,EMR,NNY,No,No,Yes
+DMA,Dominica,AMR,YYN,Yes,Yes,No
+DNK,Denmark,EUR,YYY,Yes,Yes,Yes
+DOM,Dominican Republic,AMR,NNN,No,No,No
+DZA,Algeria,AFR,NNN,No,No,No
+ECU,Ecuador,AMR,YYY,Yes,Yes,Yes
+ERI,Eritrea,AFR,NNN,No,No,No
+ESP,Spain,EUR,YYY,Yes,Yes,Yes
+EST,Estonia,EUR,YYY,Yes,Yes,Yes
+ETH,Ethiopia,AFR,NNY,No,No,Yes
+FIN,Finland,EUR,YYY,Yes,Yes,Yes
+FJI,Fiji,WPR,YYY,Yes,Yes,Yes
+FRA,France,EUR,YYY,Yes,Yes,Yes
+FSM,Micronesia (Federated States of),WPR,NYY,No,Yes,Yes
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,YYY,Yes,Yes,Yes
+GEO,Georgia,EUR,YYY,Yes,Yes,Yes
+GHA,Ghana,AFR,NNN,No,No,No
+GIN,Guinea,AFR,NNN,No,No,No
+GMB,Gambia,AFR,YNN,Yes,No,No
+GRC,Greece,EUR,YYY,Yes,Yes,Yes
+GRD,Grenada,AMR,YYY,Yes,Yes,Yes
+GTM,Guatemala,AMR,NNN,No,No,No
+GUY,Guyana,AMR,YYY,Yes,Yes,Yes
+HND,Honduras,AMR,NNN,No,No,No
+HRV,Croatia,EUR,YYY,Yes,Yes,Yes
+HUN,Hungary,EUR,YYY,Yes,Yes,Yes
+IDN,Indonesia,WPR,YNY,Yes,No,Yes
+IND,India,SEAR,NNN,No,No,No
+IRL,Ireland,EUR,YYY,Yes,Yes,Yes
+IRN,Iran (Islamic Republic of),EMR,YYY,Yes,Yes,Yes
+IRQ,Iraq,EMR,YYY,Yes,Yes,Yes
+ISL,Iceland,EUR,YYY,Yes,Yes,Yes
+ISR,Israel,EUR,YYY,Yes,Yes,Yes
+ITA,Italy,EUR,YYY,Yes,Yes,Yes
+JAM,Jamaica,AMR,YYY,Yes,Yes,Yes
+JOR,Jordan,EMR,YYY,Yes,Yes,Yes
+JPN,Japan,WPR,YYY,Yes,Yes,Yes
+KEN,Kenya,AFR,YNN,Yes,No,No
+KGZ,Kyrgyzstan,EUR,YYY,Yes,Yes,Yes
+KHM,Cambodia,WPR,NNN,No,No,No
+KNA,Saint Kitts and Nevis,AMR,NNN,No,No,No
+KWT,Kuwait,EMR,YYY,Yes,Yes,Yes
+LAO,Lao People's Democratic Republic,WPR,NNN,No,No,No
+LBN,Lebanon,EMR,YYY,Yes,Yes,Yes
+LBY,Libya,EMR,NYY,No,Yes,Yes
+LCA,Saint Lucia,AMR,YYY,Yes,Yes,Yes
+LKA,Sri Lanka,SEAR,YYY,Yes,Yes,Yes
+LTU,Lithuania,EUR,YYY,Yes,Yes,Yes
+LUX,Luxembourg,EUR,YYY,Yes,Yes,Yes
+LVA,Latvia,EUR,YYY,Yes,Yes,Yes
+MAR,Morocco,EMR,YNY,Yes,No,Yes
+MCO,Monaco,EUR,YYY,Yes,Yes,Yes
+MDA,Republic of Moldova,EUR,YYY,Yes,Yes,Yes
+MDG,Madagascar,AFR,NNN,No,No,No
+MDV,Maldives,SEAR,NYY,No,Yes,Yes
+MEX,Mexico,AMR,YYY,Yes,Yes,Yes
+MLT,Malta,EUR,YYY,Yes,Yes,Yes
+MMR,Myanmar,SEAR,NNY,No,No,Yes
+MNE,Montenegro,EUR,YYY,Yes,Yes,Yes
+MNG,Mongolia,WPR,YYY,Yes,Yes,Yes
+MOZ,Mozambique,AFR,NYY,No,Yes,Yes
+MRT,Mauritania,AFR,NNN,No,No,No
+MUS,Mauritius,AFR,YYY,Yes,Yes,Yes
+MWI,Malawi,AFR,NNN,No,No,No
+MYS,Malaysia,WPR,YYY,Yes,Yes,Yes
+NAM,Namibia,AFR,YYY,Yes,Yes,Yes
+NER,Niger,AFR,NNN,No,No,No
+NGA,Nigeria,AFR,NNY,No,No,Yes
+NIC,Nicaragua,AMR,YYY,Yes,Yes,Yes
+NIU,Niue,WPR,YYY,Yes,Yes,Yes
+NLD,Netherlands (Kingdom of the),EUR,YYY,Yes,Yes,Yes
+NOR,Norway,EUR,YYY,Yes,Yes,Yes
+NRU,Naoero,WPR,YYY,Yes,Yes,Yes
+NZL,New Zealand,WPR,YYY,Yes,Yes,Yes
+OMN,Oman,EMR,YYY,Yes,Yes,Yes
+PAK,Pakistan,EMR,NNN,No,No,No
+PAN,Panama,AMR,YYY,Yes,Yes,Yes
+PER,Peru,AMR,YYY,Yes,Yes,Yes
+PHL,Philippines,WPR,NNN,No,No,No
+PLW,Palau,WPR,YYY,Yes,Yes,Yes
+PNG,Papua New Guinea,WPR,NNY,No,No,Yes
+POL,Poland,EUR,YYY,Yes,Yes,Yes
+PRT,Portugal,EUR,YYY,Yes,Yes,Yes
+PRY,Paraguay,AMR,NNN,No,No,No
+QAT,Qatar,EMR,YYY,Yes,Yes,Yes
+ROU,Romania,EUR,NNY,No,No,Yes
+RUS,Russian Federation,EUR,YYY,Yes,Yes,Yes
+RWA,Rwanda,AFR,YYY,Yes,Yes,Yes
+SAU,Saudi Arabia,EMR,YYY,Yes,Yes,Yes
+SDN,Sudan,EMR,NNN,No,No,No
+SGP,Singapore,WPR,YYY,Yes,Yes,Yes
+SLB,Solomon Islands,WPR,NNN,No,No,No
+SLE,Sierra Leone,AFR,NNY,No,No,Yes
+SLV,El Salvador,AMR,NYY,No,Yes,Yes
+SMR,San Marino,EUR,YYY,Yes,Yes,Yes
+SOM,Somalia,EMR,NYN,No,Yes,No
+SRB,Serbia,EUR,YYY,Yes,Yes,Yes
+SSD,South Sudan,AFR,NNN,No,No,No
+STP,Sao Tome and Principe,AFR,YNY,Yes,No,Yes
+SUR,Suriname,AMR,YYY,Yes,Yes,Yes
+SVN,Slovenia,EUR,YYY,Yes,Yes,Yes
+SWE,Sweden,EUR,YYY,Yes,Yes,Yes
+SWZ,Eswatini,AFR,YNY,Yes,No,Yes
+SYC,Seychelles,AFR,YYY,Yes,Yes,Yes
+SYR,Syrian Arab Republic,EMR,YYY,Yes,Yes,Yes
+TGO,Togo,AFR,NNN,No,No,No
+THA,Thailand,SEAR,NNN,No,No,No
+TKM,Turkmenistan,EUR,NNY,No,No,Yes
+TLS,Timor-Leste,SEAR,NYY,No,Yes,Yes
+TON,Tonga,WPR,NNY,No,No,Yes
+TTO,Trinidad and Tobago,AMR,YYY,Yes,Yes,Yes
+TUN,Tunisia,EMR,NYY,No,Yes,Yes
+TUR,Türkiye,EUR,YYY,Yes,Yes,Yes
+TUV,Tuvalu,WPR,YNY,Yes,No,Yes
+TZA,United Republic of Tanzania,AFR,NYY,No,Yes,Yes
+UGA,Uganda,AFR,NNN,No,No,No
+UKR,Ukraine,EUR,YYY,Yes,Yes,Yes
+URY,Uruguay,AMR,YYY,Yes,Yes,Yes
+USA,United States of America,AMR,YYY,Yes,Yes,Yes
+UZB,Uzbekistan,EUR,YYN,Yes,Yes,No
+VCT,Saint Vincent and the Grenadines,AMR,YYY,Yes,Yes,Yes
+VEN,Venezuela (Bolivarian Republic of),AMR,YYY,Yes,Yes,Yes
+VUT,Vanuatu,WPR,YYY,Yes,Yes,Yes
+WSM,Samoa,WPR,NYY,No,Yes,Yes
+YEM,Yemen,EMR,NNN,No,No,No
+ZAF,South Africa,AFR,YYY,Yes,Yes,Yes
+ZWE,Zimbabwe,AFR,NNN,No,No,No

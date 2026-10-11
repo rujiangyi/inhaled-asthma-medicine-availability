@@ -1,0 +1,4 @@
+﻿medicine_or_trajectory,bound_type,year,denominator,observed_yes_n,observed_no_n,unknown_n,lower_country_n,upper_country_n,lower_percent,upper_percent,lower_daly2021,upper_daly2021,lower_pop25_2021,upper_pop25_2021
+ics,wave_general_availability,2021,194,129.0,52.0,13.0,129,142,66.49484536082474,73.19587628865979,,,,
+bronch,wave_general_availability,2021,194,154.0,34.0,6.0,154,160,79.38144329896907,82.47422680412372,,,,
+combo,wave_general_availability,2021,194,84.0,78.0,32.0,84,116,43.29896907216495,59.79381443298969,,,,

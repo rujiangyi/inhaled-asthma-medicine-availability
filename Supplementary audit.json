@@ -1,0 +1,66 @@
+{
+  "created_date": "2026-10-05",
+  "frozen_source_directory": "I:\\数据恢复\\小川的数据\\团队杂活\\胡\\论文、\\03 成人哮喘与吸入药物\\V3",
+  "no_model_refitting": true,
+  "table_row_counts": {
+    "S1": 12,
+    "S2": 14,
+    "S3": 9,
+    "S4": 24,
+    "S5": 10,
+    "S6": 28,
+    "S7": 28,
+    "S8": 11
+  },
+  "machine_readable_rows": {
+    "Country data.csv": 194,
+    "WHO responses.csv": 970,
+    "Model estimates.csv": 81,
+    "Model diagnostics.csv": 28,
+    "Country omission sensitivities.csv": 168,
+    "Missing scenario bounds.csv": 28
+  },
+  "checklist_entries": 32,
+  "source_sha256": {
+    "表格/样本全球覆盖.csv": "e28792fdc94145c0fc2af38eb98fbd5b816500a197b03669581254bb8a8764b1",
+    "表格/药物逐轮计数.csv": "16a430262c0fe66abb99cbc4e9b0d4f29ef13d0aef23e7919672876dabdc4096",
+    "核验/问卷可比性.csv": "b9cb546d480c11ea95d0fe2006a6da5884b3b3f614fecc3ab601e2b628860596",
+    "表格/四项预设模型.csv": "ade5556274b2aea676658182a43793ae7eb4f60278607c7f24b0b323aed200e3",
+    "表格/模型敏感性结果.csv": "05f5fdbe29351a4005640c82cd9aa7d86a19ef3da497c87d08abb553d2b2e75b",
+    "表格/模型诊断与分母.csv": "fdf6d342aa9f70d9d0ecce3a922e45f744f70e308977beb340f03e73cbb83340",
+    "表格/敏感性轨迹负担.csv": "c4f4090cd1e8d4111f5c520c2a499d9f3d6c695d1993c0a62f4b62f2a5ce6365",
+    "表格/敏感性配对变化.csv": "4c3c944cc3d556b58baf62df9df7587a98d22e73fe7c3b9710690af2c2f6e262",
+    "表格/缺失极端边界.csv": "55dfc702abf57ef8739c2bcd3bb0109ba65710c8874dfea52e67b4b0ee5528b8",
+    "图形/源数据/Figure 8 cumulative large-country omissions.csv": "0a49bf09c98ca0c847acfd2a8b5bac20ee98194295c49a9c73339c2f738e46e5",
+    "表格/国家分析表.csv": "62e2bdc98854c349779a268babf4496decc5bf01a84a8123861851cab19c97a7",
+    "图形/源数据/Figure 8 individual-country omissions.csv": "3067394d935453a15d3d4df3c225bc6010d5b6750d04d399c07af446b1ea3cea",
+    "输入数据/呼吸国家轮次.csv": "3a73278c8b369829eb74c2eb784602f5c63a4f04b3c3d26c9c9daa3008490bf3",
+    "报告/Supplementary methods.md": "7ddf879a53b686e5d85a0bcbf5d11dc1b6747dcd2475d25b7c78235c2e2f9690",
+    "报告/Figure methods.md": "59db4e399da0540750981a68cb687452d484e84aec4c84bf6f99aac9f5303584",
+    "报告/Models and sensitivity figure methods.md": "bbdc3cff2b0e8b9ebe985a380e33863897ebd49f6f826104a2c091202934f805",
+    "核验/探索性分析方案.md": "d16e54bd889f0fdf5b62dff6467d89f4aa38f747595b470d1a43da691c6b6466",
+    "核验/GBD溯源与地理核验.md": "1d373d2ce0fd23ff786c723cf3f9f33fa23804806eb30962da3c5ce995129936",
+    "文献/WHO问卷可比性.md": "43474a3e39e1ea12e897a001b4010237910ca3babb2f978110f5854802c689bc",
+    "输入数据/呼吸字段元数据.json": "454f5ce19c820d3bc69d547c174963f081233e3cf489801f3b8fcc5e6d4025d7",
+    "输入数据/呼吸环境社会核验.json": "e32fa7d30b428eaedc82e9f04d1b93fe57545d7bc7fe5d62da6ee33abd256d69",
+    "核验/统计执行核验.json": "05fddfc30719aa6095d04b09a4f0148d9f326a93b5278316dbe614f72b2cfcda",
+    "代码/统计分析.py": "21436697b4101d8a18eefa95f1ca59834592957fd36f315e2b33f8e3f3aaa1f8",
+    "报告/Supplementary captions.md": "a17175fc1df7896cfea051b9a7644cb188073eaba933357719c606d0f1060cf1"
+  },
+  "pending_author_tasks": [
+    "Final main-manuscript page/line locators",
+    "Funding and funder role",
+    "Author review of declarations and supplement",
+    "Final dataset bibliographic publication field verification"
+  ],
+  "checks": [
+    "Eight uniform JSON tables",
+    "194 unique country rows",
+    "970 raw WHO country-wave rows",
+    "24 common/all-available model coefficient rows in Table S4",
+    "81 coefficients from 27 successful fits retained",
+    "28 diagnostics including one stopped model",
+    "168 individual-country omission values retained",
+    "No new filename contains an underscore"
+  ]
+}

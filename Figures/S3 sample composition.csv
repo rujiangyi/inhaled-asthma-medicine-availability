@@ -1,0 +1,25 @@
+﻿group,trajectory,countries,ISO3
+Full panel (n=168),NNN,35,"BDI, BEN, BFA, BLZ, CAF, CIV, CMR, COG, COM, DOM, DZA, ERI, GHA, GIN, GTM, HND, IND, KHM, KNA, LAO, MDG, MRT, MWI, NER, PAK, PHL, PRY, SDN, SLB, SSD, TGO, THA, UGA, YEM, ZWE"
+Full panel (n=168),NNY,11,"AZE, BTN, DJI, ETH, MMR, NGA, PNG, ROU, SLE, TKM, TON"
+Full panel (n=168),NYN,2,"BGD, SOM"
+Full panel (n=168),NYY,10,"ARG, FSM, LBY, MDV, MOZ, SLV, TLS, TUN, TZA, WSM"
+Full panel (n=168),YNN,2,"GMB, KEN"
+Full panel (n=168),YNY,5,"IDN, MAR, STP, SWZ, TUV"
+Full panel (n=168),YYN,4,"CPV, CYP, DMA, UZB"
+Full panel (n=168),YYY,99,"ALB, AND, ARE, ARM, ATG, AUS, AUT, BEL, BGR, BHR, BHS, BIH, BLR, BRA, BRB, BRN, BWA, CAN, CHE, CHL, COK, COL, CRI, CUB, CZE, DEU, DNK, ECU, ESP, EST, FIN, FJI, FRA, GBR, GEO, GRC, GRD, GUY, HRV, HUN, IRL, IRN, IRQ, ISL, ISR, ITA, JAM, JOR, JPN, KGZ, KWT, LBN, LCA, LKA, LTU, LUX, LVA, MCO, MDA, MEX, MLT, MNE, MNG, MUS, MYS, NAM, NIC, NIU, NLD, NOR, NRU, NZL, OMN, PAN, PER, PLW, POL, PRT, QAT, RUS, RWA, SAU, SGP, SMR, SRB, SUR, SVN, SWE, SYC, SYR, TTO, TUR, UKR, URY, USA, VCT, VEN, VUT, ZAF"
+Map-scope flags (n=19),NNN,2,"IND, PAK"
+Map-scope flags (n=19),NNY,1,AZE
+Map-scope flags (n=19),NYN,1,SOM
+Map-scope flags (n=19),NYY,0,
+Map-scope flags (n=19),YNN,0,
+Map-scope flags (n=19),YNY,1,MAR
+Map-scope flags (n=19),YYN,1,CYP
+Map-scope flags (n=19),YYY,13,"AUS, DNK, FIN, FRA, GBR, GEO, ISR, NLD, NOR, NZL, RUS, SRB, UKR"
+Not five-wave (n=27),NNN,3,"CIV, COM, SSD"
+Not five-wave (n=27),NNY,4,"DJI, ETH, MMR, SLE"
+Not five-wave (n=27),NYN,0,
+Not five-wave (n=27),NYY,3,"TLS, TZA, WSM"
+Not five-wave (n=27),YNN,0,
+Not five-wave (n=27),YNY,1,SWZ
+Not five-wave (n=27),YYN,1,CPV
+Not five-wave (n=27),YYY,15,"BIH, BLR, BWA, COK, EST, GUY, LUX, MEX, MUS, NAM, PER, POL, VCT, VEN, ZAF"

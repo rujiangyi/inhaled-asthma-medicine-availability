@@ -1,0 +1,195 @@
+﻿iso3,country,region,balanced168
+AFG,Afghanistan,EMR,False
+AGO,Angola,AFR,False
+ALB,Albania,EUR,True
+AND,Andorra,EUR,True
+ARE,United Arab Emirates,EMR,True
+ARG,Argentina,AMR,True
+ARM,Armenia,EUR,True
+ATG,Antigua and Barbuda,AMR,True
+AUS,Australia,WPR,True
+AUT,Austria,EUR,True
+AZE,Azerbaijan,EUR,True
+BDI,Burundi,AFR,True
+BEL,Belgium,EUR,True
+BEN,Benin,AFR,True
+BFA,Burkina Faso,AFR,True
+BGD,Bangladesh,SEAR,True
+BGR,Bulgaria,EUR,True
+BHR,Bahrain,EMR,True
+BHS,Bahamas,AMR,True
+BIH,Bosnia and Herzegovina,EUR,True
+BLR,Belarus,EUR,True
+BLZ,Belize,AMR,True
+BOL,Bolivia (Plurinational State of),AMR,False
+BRA,Brazil,AMR,True
+BRB,Barbados,AMR,True
+BRN,Brunei Darussalam,WPR,True
+BTN,Bhutan,SEAR,True
+BWA,Botswana,AFR,True
+CAF,Central African Republic,AFR,True
+CAN,Canada,AMR,True
+CHE,Switzerland,EUR,True
+CHL,Chile,AMR,True
+CHN,China,WPR,False
+CIV,Cote d'Ivoire,AFR,True
+CMR,Cameroon,AFR,True
+COD,Democratic Republic of the Congo,AFR,False
+COG,Congo,AFR,True
+COK,Cook Islands,WPR,True
+COL,Colombia,AMR,True
+COM,Comoros,AFR,True
+CPV,Cabo Verde,AFR,True
+CRI,Costa Rica,AMR,True
+CUB,Cuba,AMR,True
+CYP,Cyprus,EUR,True
+CZE,Czechia,EUR,True
+DEU,Germany,EUR,True
+DJI,Djibouti,EMR,True
+DMA,Dominica,AMR,True
+DNK,Denmark,EUR,True
+DOM,Dominican Republic,AMR,True
+DZA,Algeria,AFR,True
+ECU,Ecuador,AMR,True
+EGY,Egypt,EMR,False
+ERI,Eritrea,AFR,True
+ESP,Spain,EUR,True
+EST,Estonia,EUR,True
+ETH,Ethiopia,AFR,True
+FIN,Finland,EUR,True
+FJI,Fiji,WPR,True
+FRA,France,EUR,True
+FSM,Micronesia (Federated States of),WPR,True
+GAB,Gabon,AFR,False
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,True
+GEO,Georgia,EUR,True
+GHA,Ghana,AFR,True
+GIN,Guinea,AFR,True
+GMB,Gambia,AFR,True
+GNB,Guinea-Bissau,AFR,False
+GNQ,Equatorial Guinea,AFR,False
+GRC,Greece,EUR,True
+GRD,Grenada,AMR,True
+GTM,Guatemala,AMR,True
+GUY,Guyana,AMR,True
+HND,Honduras,AMR,True
+HRV,Croatia,EUR,True
+HTI,Haiti,AMR,False
+HUN,Hungary,EUR,True
+IDN,Indonesia,WPR,True
+IND,India,SEAR,True
+IRL,Ireland,EUR,True
+IRN,Iran (Islamic Republic of),EMR,True
+IRQ,Iraq,EMR,True
+ISL,Iceland,EUR,True
+ISR,Israel,EUR,True
+ITA,Italy,EUR,True
+JAM,Jamaica,AMR,True
+JOR,Jordan,EMR,True
+JPN,Japan,WPR,True
+KAZ,Kazakhstan,EUR,False
+KEN,Kenya,AFR,True
+KGZ,Kyrgyzstan,EUR,True
+KHM,Cambodia,WPR,True
+KIR,Kiribati,WPR,False
+KNA,Saint Kitts and Nevis,AMR,True
+KOR,Republic of Korea,WPR,False
+KWT,Kuwait,EMR,True
+LAO,Lao People's Democratic Republic,WPR,True
+LBN,Lebanon,EMR,True
+LBR,Liberia,AFR,False
+LBY,Libya,EMR,True
+LCA,Saint Lucia,AMR,True
+LKA,Sri Lanka,SEAR,True
+LSO,Lesotho,AFR,False
+LTU,Lithuania,EUR,True
+LUX,Luxembourg,EUR,True
+LVA,Latvia,EUR,True
+MAR,Morocco,EMR,True
+MCO,Monaco,EUR,True
+MDA,Republic of Moldova,EUR,True
+MDG,Madagascar,AFR,True
+MDV,Maldives,SEAR,True
+MEX,Mexico,AMR,True
+MHL,Marshall Islands,WPR,False
+MKD,North Macedonia,EUR,False
+MLI,Mali,AFR,False
+MLT,Malta,EUR,True
+MMR,Myanmar,SEAR,True
+MNE,Montenegro,EUR,True
+MNG,Mongolia,WPR,True
+MOZ,Mozambique,AFR,True
+MRT,Mauritania,AFR,True
+MUS,Mauritius,AFR,True
+MWI,Malawi,AFR,True
+MYS,Malaysia,WPR,True
+NAM,Namibia,AFR,True
+NER,Niger,AFR,True
+NGA,Nigeria,AFR,True
+NIC,Nicaragua,AMR,True
+NIU,Niue,WPR,True
+NLD,Netherlands (Kingdom of the),EUR,True
+NOR,Norway,EUR,True
+NPL,Nepal,SEAR,False
+NRU,Naoero,WPR,True
+NZL,New Zealand,WPR,True
+OMN,Oman,EMR,True
+PAK,Pakistan,EMR,True
+PAN,Panama,AMR,True
+PER,Peru,AMR,True
+PHL,Philippines,WPR,True
+PLW,Palau,WPR,True
+PNG,Papua New Guinea,WPR,True
+POL,Poland,EUR,True
+PRK,Democratic People's Republic of Korea,SEAR,False
+PRT,Portugal,EUR,True
+PRY,Paraguay,AMR,True
+QAT,Qatar,EMR,True
+ROU,Romania,EUR,True
+RUS,Russian Federation,EUR,True
+RWA,Rwanda,AFR,True
+SAU,Saudi Arabia,EMR,True
+SDN,Sudan,EMR,True
+SEN,Senegal,AFR,False
+SGP,Singapore,WPR,True
+SLB,Solomon Islands,WPR,True
+SLE,Sierra Leone,AFR,True
+SLV,El Salvador,AMR,True
+SMR,San Marino,EUR,True
+SOM,Somalia,EMR,True
+SRB,Serbia,EUR,True
+SSD,South Sudan,AFR,True
+STP,Sao Tome and Principe,AFR,True
+SUR,Suriname,AMR,True
+SVK,Slovakia,EUR,False
+SVN,Slovenia,EUR,True
+SWE,Sweden,EUR,True
+SWZ,Eswatini,AFR,True
+SYC,Seychelles,AFR,True
+SYR,Syrian Arab Republic,EMR,True
+TCD,Chad,AFR,False
+TGO,Togo,AFR,True
+THA,Thailand,SEAR,True
+TJK,Tajikistan,EUR,False
+TKM,Turkmenistan,EUR,True
+TLS,Timor-Leste,SEAR,True
+TON,Tonga,WPR,True
+TTO,Trinidad and Tobago,AMR,True
+TUN,Tunisia,EMR,True
+TUR,Türkiye,EUR,True
+TUV,Tuvalu,WPR,True
+TZA,United Republic of Tanzania,AFR,True
+UGA,Uganda,AFR,True
+UKR,Ukraine,EUR,True
+URY,Uruguay,AMR,True
+USA,United States of America,AMR,True
+UZB,Uzbekistan,EUR,True
+VCT,Saint Vincent and the Grenadines,AMR,True
+VEN,Venezuela (Bolivarian Republic of),AMR,True
+VNM,Viet Nam,WPR,False
+VUT,Vanuatu,WPR,True
+WSM,Samoa,WPR,True
+YEM,Yemen,EMR,True
+ZAF,South Africa,AFR,True
+ZMB,Zambia,AFR,False
+ZWE,Zimbabwe,AFR,True

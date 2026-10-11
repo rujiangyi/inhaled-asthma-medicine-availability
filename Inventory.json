@@ -1,422 +1,1380 @@
 {
   "created date": "2026-10-05",
-  "offline inputs and code": [
+  "analytical CSV files": 68,
+  "files": [
+    {
+      "file": "Statistics/2021三药状态.csv",
+      "origin": "V3/表格/2021三药状态.csv",
+      "SHA256": "d79b4c294ed19b29ba77da8e99339bab8835d3f3d93028f54ae5c92cfc9b388d",
+      "rows": 8,
+      "columns": [
+        "bronch2021",
+        "ics2021",
+        "combo2021",
+        "country_n",
+        "denominator",
+        "percent",
+        "iso3",
+        "daly2021",
+        "pop25_2021"
+      ],
+      "description": "Eight exact Yes/No combinations within 157 triple-valid countries; this is supply reporting, not patient treatment."
+    },
+    {
+      "file": "Statistics/2021环境社会分布.csv",
+      "origin": "V3/表格/2021环境社会分布.csv",
+      "SHA256": "ad8aed91678dcc3e0aca22da746b65d96ac19be3a7b1db26680aa4dde425f9b7",
+      "rows": 252,
+      "columns": [
+        "sample",
+        "grouping",
+        "group",
+        "variable",
+        "eligible_n",
+        "missing_n",
+        "n",
+        "mean",
+        "median",
+        "q25",
+        "q75",
+        "min",
+        "max"
+      ],
+      "description": "Country-unweighted mean, median, IQR and range; exact 2021 values; no p-value screening."
+    },
+    {
+      "file": "Statistics/ICS轨迹与复方交叉.csv",
+      "origin": "V3/表格/ICS轨迹与复方交叉.csv",
+      "SHA256": "5aa201b7b885c5b0ea02e06417eb504a39fe17e321b178339a2a031bd3ba5d28",
+      "rows": 24,
+      "columns": [
+        "trajectory",
+        "combo2021",
+        "country_n",
+        "trajectory_n",
+        "percent_within_trajectory",
+        "daly2021",
+        "pop25_2021",
+        "raw_unknown_answers"
+      ],
+      "description": "Fixed168 denominator; 144 with valid 2021 combo responses; Unknown retained as a third category."
+    },
+    {
+      "file": "Statistics/ICS轨迹地区分布.csv",
+      "origin": "V3/表格/ICS轨迹地区分布.csv",
+      "SHA256": "afca7570c71e36775c3faf19cdca8229f255b557524cdf06582c0767685d435e",
+      "rows": 48,
+      "columns": [
+        "region",
+        "trajectory",
+        "country_n",
+        "region_n",
+        "percent_within_region",
+        "daly2021",
+        "pop25_2021"
+      ],
+      "description": "All eight trajectories crossed with six WHO regions; denominator is fixed168 within region."
+    },
+    {
+      "file": "Statistics/ICS轨迹负担与人口.csv",
+      "origin": "V3/表格/ICS轨迹负担与人口.csv",
+      "SHA256": "1cd237b64429fe8bf1e17ebfc91ef9ec65640fda9900f12764835ec734b3c60e",
+      "rows": 8,
+      "columns": [
+        "sample",
+        "trajectory",
+        "country_n",
+        "country_percent",
+        "daly2021",
+        "daly_percent_sample",
+        "daly_percent_global204",
+        "pop25_2021",
+        "resident_population_percent_sample",
+        "resident_population_percent_global204",
+        "country_crude_rate_median",
+        "country_crude_rate_q25",
+        "country_crude_rate_q75",
+        "pooled_crude_rate_per100000",
+        "global204_daly_denominator",
+        "sample_daly_denominator",
+        "global204_pop25_denominator",
+        "sample_pop25_denominator"
+      ],
+      "description": "Eight ICS trajectories; point-estimate DALY totals and resident population shares within fixed168 and global204; no summed GBD uncertainty intervals."
+    },
+    {
+      "file": "Statistics/三轮国家联合表.csv",
+      "origin": "V3/表格/三轮国家联合表.csv",
+      "SHA256": "a6ee8a93a1510aa2be22ea86db37151a225bc96ae40fd5c16e2f5f13f87810ce",
+      "rows": 582,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "year",
+        "ics",
+        "bronch",
+        "combo",
+        "balanced168",
+        "daly",
+        "rate",
+        "geo_review",
+        "pop25",
+        "pm25",
+        "gdp",
+        "oop",
+        "health"
+      ],
+      "description": "194 WHO countries/territories at each of 2017/2019/2021; exact-year linked 25+ DALYs, crude rate, population and environmental/social indicators."
+    },
+    {
+      "file": "Statistics/四项预设模型.csv",
+      "origin": "V3/表格/四项预设模型.csv",
+      "SHA256": "ade5556274b2aea676658182a43793ae7eb4f60278607c7f24b0b323aed200e3",
+      "rows": 12,
+      "columns": [
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "variable",
+        "unit",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "log_odds_coefficient",
+        "robust_se",
+        "odds_ratio",
+        "ci95_lower",
+        "ci95_upper",
+        "p_wald_exploratory",
+        "covariance"
+      ],
+      "description": "Two outcomes x GDP or health expenditure replacement; HC1 robust OR and Wald CI; no p-value selection, no causal interpretation."
+    },
+    {
+      "file": "Statistics/国家分析表.csv",
+      "origin": "V3/表格/国家分析表.csv",
+      "SHA256": "62e2bdc98854c349779a268babf4496decc5bf01a84a8123861851cab19c97a7",
+      "rows": 194,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "balanced168",
+        "ics2017",
+        "ics2019",
+        "ics2021",
+        "bronch2021",
+        "combo2021",
+        "trajectory",
+        "daly2021",
+        "rate2021",
+        "pm25",
+        "gdp",
+        "oop",
+        "health",
+        "geo_review",
+        "pop2021"
+      ],
+      "description": "One row per WHO country/territory in 2021; 25+ DALY rate is crude per 100000; original unknown medicine answers retained; population is residents, not treated patients."
+    },
+    {
+      "file": "Statistics/敏感性药物计数.csv",
+      "origin": "V3/表格/敏感性药物计数.csv",
+      "SHA256": "86843446315470e357c75912735598502ddd21d67cb07adba70cfba635a5a5f4",
+      "rows": 70,
+      "columns": [
+        "sample",
+        "year",
+        "medicine",
+        "eligible_n",
+        "yes_n",
+        "no_n",
+        "unknown_n",
+        "yes_percent_valid"
+      ],
+      "description": "Fixed five-wave141, ICS-only170, spatial-review-excluded149 and leave-one-region-out descriptions."
+    },
+    {
+      "file": "Statistics/敏感性轨迹负担.csv",
+      "origin": "V3/表格/敏感性轨迹负担.csv",
+      "SHA256": "c4f4090cd1e8d4111f5c520c2a499d9f3d6c695d1993c0a62f4b62f2a5ce6365",
+      "rows": 80,
+      "columns": [
+        "sample",
+        "trajectory",
+        "country_n",
+        "country_percent",
+        "daly2021",
+        "daly_percent_sample",
+        "daly_percent_global204",
+        "pop25_2021",
+        "resident_population_percent_sample",
+        "resident_population_percent_global204",
+        "country_crude_rate_median",
+        "country_crude_rate_q25",
+        "country_crude_rate_q75",
+        "pooled_crude_rate_per100000",
+        "global204_daly_denominator",
+        "sample_daly_denominator",
+        "global204_pop25_denominator",
+        "sample_pop25_denominator"
+      ],
+      "description": "Trajectory DALY/resident-population shares and country rate summaries re-estimated within each sensitivity cohort."
+    },
+    {
+      "file": "Statistics/敏感性配对变化.csv",
+      "origin": "V3/表格/敏感性配对变化.csv",
+      "SHA256": "4c3c944cc3d556b58baf62df9df7587a98d22e73fe7c3b9710690af2c2f6e262",
+      "rows": 57,
+      "columns": [
+        "sample",
+        "medicine",
+        "before",
+        "after",
+        "paired_n",
+        "yes_yes",
+        "yes_no",
+        "no_yes",
+        "no_no",
+        "before_yes_n",
+        "after_yes_n",
+        "change_percentage_points",
+        "discordant_n",
+        "p_exact_mcnemar",
+        "p_holm_within_medicine_three_comparisons"
+      ],
+      "description": "Paired exact McNemar and per-medicine Holm in sensitivity cohorts; descriptive robustness, not p-value screening."
+    },
+    {
+      "file": "Statistics/样本全球覆盖.csv",
+      "origin": "V3/表格/样本全球覆盖.csv",
+      "SHA256": "e28792fdc94145c0fc2af38eb98fbd5b816500a197b03669581254bb8a8764b1",
+      "rows": 27,
+      "columns": [
+        "sample",
+        "year",
+        "country_n",
+        "daly_total",
+        "global204_daly",
+        "daly_percent_global204",
+        "pop25_total",
+        "global204_pop25",
+        "resident_population_percent_global204"
+      ],
+      "description": "Disease-burden and resident population coverage against all 204 input GBD countries/territories at each year; no national flags interpreted as patient access."
+    },
+    {
+      "file": "Statistics/模型敏感性结果.csv",
+      "origin": "V3/表格/模型敏感性结果.csv",
+      "SHA256": "05f5fdbe29351a4005640c82cd9aa7d86a19ef3da497c87d08abb553d2b2e75b",
+      "rows": 69,
+      "columns": [
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "variable",
+        "unit",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "log_odds_coefficient",
+        "robust_se",
+        "odds_ratio",
+        "ci95_lower",
+        "ci95_upper",
+        "p_wald_exploratory",
+        "covariance"
+      ],
+      "description": "Prespecified sensitivity refits, not independent discovery tests; small-event or separated models may be stopped."
+    },
+    {
+      "file": "Statistics/模型缺失国家.csv",
+      "origin": "V3/表格/模型缺失国家.csv",
+      "SHA256": "4bc686f846aa7eb048a6ffecaf28c6ad5f0583956f284647e29bd5b47fa65218",
+      "rows": 155,
+      "columns": [
+        "model_id",
+        "iso3",
+        "missing_or_invalid"
+      ],
+      "description": "Country-specific incomplete-case reasons, one row per model-country exclusion."
+    },
+    {
+      "file": "Statistics/模型诊断与分母.csv",
+      "origin": "V3/表格/模型诊断与分母.csv",
+      "SHA256": "fdf6d342aa9f70d9d0ecce3a922e45f744f70e308977beb340f03e73cbb83340",
+      "rows": 28,
+      "columns": [
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "event_definition",
+        "economic_predictor",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "excluded_missing_n",
+        "excluded_missing_iso3",
+        "included_iso3",
+        "covariance",
+        "status",
+        "stop_reason",
+        "separation_check",
+        "converged",
+        "warnings",
+        "iterations",
+        "log_likelihood",
+        "design_condition_number",
+        "information_condition_number",
+        "fitted_probability_min",
+        "fitted_probability_max",
+        "robust_covariance_min_eigenvalue"
+      ],
+      "description": "All four prespecified fits plus explicitly labelled sensitivity refits; stopping rules and exact included/excluded country lists retained."
+    },
+    {
+      "file": "Statistics/缺失极端边界.csv",
+      "origin": "V3/表格/缺失极端边界.csv",
+      "SHA256": "55dfc702abf57ef8739c2bcd3bb0109ba65710c8874dfea52e67b4b0ee5528b8",
+      "rows": 28,
+      "columns": [
+        "bound_type",
+        "year",
+        "medicine_or_trajectory",
+        "denominator",
+        "observed_yes_n",
+        "observed_no_n",
+        "unknown_n",
+        "lower_country_n",
+        "upper_country_n",
+        "lower_percent",
+        "upper_percent",
+        "lower_daly2021",
+        "upper_daly2021",
+        "lower_pop25_2021",
+        "upper_pop25_2021"
+      ],
+      "description": "Worst/best assignments are mathematical bounds, not imputations or confidence intervals; trajectory upper bounds are marginal and cannot be simultaneously summed."
+    },
+    {
+      "file": "Statistics/药物逐轮计数.csv",
+      "origin": "V3/表格/药物逐轮计数.csv",
+      "SHA256": "16a430262c0fe66abb99cbc4e9b0d4f29ef13d0aef23e7919672876dabdc4096",
+      "rows": 44,
+      "columns": [
+        "sample",
+        "year",
+        "medicine",
+        "eligible_n",
+        "valid_n",
+        "yes_n",
+        "no_n",
+        "unknown_n",
+        "yes_percent_valid",
+        "yes_percent_eligible"
+      ],
+      "description": "All-available single-item and paired-item denominators versus fixed168 and five-wave141; unknowns excluded from valid denominator only."
+    },
+    {
+      "file": "Statistics/逐轮原始答复.csv",
+      "origin": "V3/表格/逐轮原始答复.csv",
+      "SHA256": "6bcdeff6b22c8b7578d0265c039e06c57091a4ec8653d1a14421bc34aefb8f85",
+      "rows": 139,
+      "columns": [
+        "year",
+        "WHO region",
+        "吸入激素",
+        "支气管扩张剂",
+        "n"
+      ],
+      "description": "Raw response categories by wave and WHO region; preserves missing-response labels."
+    },
+    {
+      "file": "Statistics/配对药物变化.csv",
+      "origin": "V3/表格/配对药物变化.csv",
+      "SHA256": "668d0a697e2aaabc227a95fa7105ce7b63ce78e6729d8ebaea9f4d78b33633f1",
+      "rows": 6,
+      "columns": [
+        "sample",
+        "medicine",
+        "before",
+        "after",
+        "paired_n",
+        "yes_yes",
+        "yes_no",
+        "no_yes",
+        "no_no",
+        "before_yes_n",
+        "after_yes_n",
+        "change_percentage_points",
+        "discordant_n",
+        "p_exact_mcnemar",
+        "p_holm_within_medicine_three_comparisons"
+      ],
+      "description": "Fixed168 paired 2017/2019/2021 exact McNemar, three comparisons per medicine Holm adjusted; percentage-point differences primary."
+    },
+    {
+      "file": "Figures/Figure 1 analysis samples.csv",
+      "origin": "V3/图形/源数据/Figure 1 analysis samples.csv",
+      "SHA256": "d0e81506c9d2dd21f2b895ca6dd977cbbe998ad8a01aa504824bdfd43759a632",
+      "rows": 4,
+      "columns": [
+        "sample",
+        "countries"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 1 country completeness.csv",
+      "origin": "V3/图形/源数据/Figure 1 country completeness.csv",
+      "SHA256": "0c59354c74cf69a2a83bb2fdda3beaa5cf766e6ac4c0feefeb6af40d744f4e7f",
+      "rows": 970,
+      "columns": [
+        "iso3",
+        "region",
+        "year",
+        "valid_basic_items"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 1 geography.csv",
+      "origin": "V3/图形/源数据/Figure 1 geography.csv",
+      "SHA256": "4182c655f568c3570844696058b387f7cb400d286a69ad045bcfc198ec5e8e81",
+      "rows": 194,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "balanced168"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 2 region microplots.csv",
+      "origin": "V3/图形/源数据/Figure 2 region microplots.csv",
+      "SHA256": "84cdb0bf5ac69c9eb6a7629bd1be9142a45adee6ebd3425395e9996744964189",
+      "rows": 18,
+      "columns": [
+        "region",
+        "n",
+        "year",
+        "yes_percent"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 2 sequences.csv",
+      "origin": "V3/图形/源数据/Figure 2 sequences.csv",
+      "SHA256": "291c7479c7ec46cfcd5cd9bb2b1af8bf2dd61244c1db096a785329fc3bbe70d3",
+      "rows": 168,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "trajectory",
+        "ics2017",
+        "ics2019",
+        "ics2021"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 3 country tiles.csv",
+      "origin": "V3/图形/源数据/Figure 3 country tiles.csv",
+      "SHA256": "1b0ff19f2e40847c275c107ed8db1d3d585f92b0e4e0e74be7d206817d800398",
+      "rows": 582,
+      "columns": [
+        "region",
+        "region_name",
+        "column",
+        "iso3",
+        "country",
+        "medicine",
+        "raw_answer",
+        "display_state"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 3 medicine geography.csv",
+      "origin": "V3/图形/源数据/Figure 3 medicine geography.csv",
+      "SHA256": "efa204f6b088dc55c60dcbbe1d7c6c4b8b8e268dc0414fbfbd979de424caccdd",
+      "rows": 194,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "bronch2021",
+        "ics2021",
+        "combo2021",
+        "bronch2021state",
+        "ics2021state",
+        "combo2021state"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 3 national answers.csv",
+      "origin": "V3/图形/源数据/Figure 3 national answers.csv",
+      "SHA256": "499e1eae22ed20de50390d1713c94c94e942d8d7c1b3ec9dc426436ec6393f7f",
+      "rows": 9,
+      "columns": [
+        "medicine",
+        "state",
+        "countries",
+        "denominator",
+        "percent"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 3 regional distributions.csv",
+      "origin": "V3/图形/源数据/Figure 3 regional distributions.csv",
+      "SHA256": "01fbb72ae25bf653c203da797edafa4f7a2705dff9b7f736ac370d07afda4c63",
+      "rows": 54,
+      "columns": [
+        "medicine",
+        "region",
+        "state",
+        "n",
+        "denominator",
+        "percentage"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 4 answer combinations.csv",
+      "origin": "V3/图形/源数据/Figure 4 answer combinations.csv",
+      "SHA256": "b5b8a912cdf352bf8f13fcf990f18ac614b9dc718ed38585a6e1014f2bc8b565",
+      "rows": 8,
+      "columns": [
+        "pattern",
+        "bronchodilator",
+        "ICS",
+        "combination",
+        "countries",
+        "denominator",
+        "percent"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 4 complete medicine patterns.csv",
+      "origin": "V3/图形/源数据/Figure 4 complete medicine patterns.csv",
+      "SHA256": "c22f30b00d6bd34d693abdd763a537044cede5f9982335551be2f8f24a5d8264",
+      "rows": 157,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "bronch2021",
+        "ics2021",
+        "combo2021",
+        "pattern"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 4 history by combination.csv",
+      "origin": "V3/图形/源数据/Figure 4 history by combination.csv",
+      "SHA256": "38b933be83c5d06551ca45876dc16a30660b718236360cc288ad885754c42660",
+      "rows": 8,
+      "columns": [
+        "trajectory",
+        "Yes",
+        "No",
+        "Unknown"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 4 observed country profiles.csv",
+      "origin": "V3/图形/源数据/Figure 4 observed country profiles.csv",
+      "SHA256": "3014688d7f53ea8dacb341123855c34e18e0f7d23fc9ed0d524e68790326829b",
+      "rows": 3,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "bronch2021",
+        "ics2021",
+        "combo2021",
+        "trajectory"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 4 taxonomy branches.csv",
+      "origin": "V3/图形/源数据/Figure 4 taxonomy branches.csv",
+      "SHA256": "03c0ebdf3b14d8f0497caa4612980d15de9c8076e457ffe475c0076d4ed1c4b6",
+      "rows": 14,
+      "columns": [
+        "depth",
+        "medicine",
+        "branch",
+        "state",
+        "countries",
+        "denominator",
+        "percent",
+        "angle_start",
+        "angle_end"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 5 country cumulative contributions.csv",
+      "origin": "V3/图形/源数据/Figure 5 country cumulative contributions.csv",
+      "SHA256": "0f0ccad0562dbbaf525e2590e6f5ff252dd3d5cf73ae3916005bfffacd194cc8",
+      "rows": 168,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "balanced168",
+        "ics2017",
+        "ics2019",
+        "ics2021",
+        "bronch2021",
+        "combo2021",
+        "trajectory",
+        "daly2021",
+        "rate2021",
+        "pm25",
+        "gdp",
+        "oop",
+        "health",
+        "geo_review",
+        "pop2021",
+        "country rank",
+        "NNN cumulative panel DALY percent",
+        "NNY cumulative panel DALY percent",
+        "NYN cumulative panel DALY percent",
+        "NYY cumulative panel DALY percent",
+        "YNN cumulative panel DALY percent",
+        "YNY cumulative panel DALY percent",
+        "YYN cumulative panel DALY percent",
+        "YYY cumulative panel DALY percent",
+        "cumulative panel DALY percent"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 5 NNN country contributions.csv",
+      "origin": "V3/图形/源数据/Figure 5 NNN country contributions.csv",
+      "SHA256": "490f223002bccf159f731a81a0e956462d94585aeef07c3d2eff5f238d4431fc",
+      "rows": 35,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "balanced168",
+        "ics2017",
+        "ics2019",
+        "ics2021",
+        "bronch2021",
+        "combo2021",
+        "trajectory",
+        "daly2021",
+        "rate2021",
+        "pm25",
+        "gdp",
+        "oop",
+        "health",
+        "geo_review",
+        "pop2021",
+        "NNN rank",
+        "NNN DALY share percent"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 5 trajectory shares.csv",
+      "origin": "V3/图形/源数据/Figure 5 trajectory shares.csv",
+      "SHA256": "56e3a1b4757cab6ccf2757adcfda19741feae37b4929a68ed3846f16788490d0",
+      "rows": 8,
+      "columns": [
+        "trajectory",
+        "sample",
+        "country_n",
+        "country_percent",
+        "daly2021",
+        "daly_percent_sample",
+        "daly_percent_global204",
+        "pop25_2021",
+        "resident_population_percent_sample",
+        "resident_population_percent_global204",
+        "country_crude_rate_median",
+        "country_crude_rate_q25",
+        "country_crude_rate_q75",
+        "pooled_crude_rate_per100000",
+        "global204_daly_denominator",
+        "sample_daly_denominator",
+        "global204_pop25_denominator",
+        "sample_pop25_denominator"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 6 aligned country percentiles.csv",
+      "origin": "V3/图形/源数据/Figure 6 aligned country percentiles.csv",
+      "SHA256": "2db905a7d64206d4ea90366754644d9b3c3bae964a975f609533b1b0e64602ce",
+      "rows": 160,
+      "columns": [
+        "iso3",
+        "country",
+        "trajectory",
+        "ics2021",
+        "GDP ascending country rank",
+        "pm25",
+        "gdp",
+        "oop",
+        "health",
+        "pm25 percentile",
+        "gdp percentile",
+        "oop percentile",
+        "health percentile"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 6 countries and context.csv",
+      "origin": "V3/图形/源数据/Figure 6 countries and context.csv",
+      "SHA256": "d3b1be7ac935a06dbc37ebd3b7e984e1e60b1a5bd0a111dd6e4a0650f563a709",
+      "rows": 168,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "trajectory",
+        "trajectory group",
+        "ics2021",
+        "pop2021",
+        "pm25",
+        "gdp",
+        "oop",
+        "health",
+        "included in scatter",
+        "included in percentile matrix",
+        "missing contextual variables"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 6 distribution summaries.csv",
+      "origin": "V3/图形/源数据/Figure 6 distribution summaries.csv",
+      "SHA256": "2c6920850b7ebd3dbe34adbb4364be1ad2d8efc6c0a4b2f5dc6287ba8098bd8e",
+      "rows": 9,
+      "columns": [
+        "variable",
+        "group",
+        "n",
+        "median",
+        "q25",
+        "q75"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 6 scatter source.csv",
+      "origin": "V3/图形/源数据/Figure 6 scatter source.csv",
+      "SHA256": "411dc7a4f2954e1d557c7c17df778d63f6e87688141e165ee8787f3e998d9372",
+      "rows": 160,
+      "columns": [
+        "iso3",
+        "country",
+        "ics2021",
+        "pop2021",
+        "pm25",
+        "gdp",
+        "bubble area points2"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 7 common-country model estimates.csv",
+      "origin": "V3/图形/源数据/Figure 7 common-country model estimates.csv",
+      "SHA256": "0dbbfc78671692123d92f4fcc7e83fbfd9a7d0c89984520a94909a6cdd1c35bd",
+      "rows": 12,
+      "columns": [
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "variable",
+        "unit",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "log_odds_coefficient",
+        "robust_se",
+        "odds_ratio",
+        "ci95_lower",
+        "ci95_upper",
+        "p_wald_exploratory",
+        "covariance"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 7 health-model sample check.csv",
+      "origin": "V3/图形/源数据/Figure 7 health-model sample check.csv",
+      "SHA256": "01cf545bc3a6852465d517d560d4c82b9257b220f5980dee04c2c9b0d26f89ff",
+      "rows": 12,
+      "columns": [
+        "display outcome",
+        "sample display",
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "variable",
+        "unit",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "log_odds_coefficient",
+        "robust_se",
+        "odds_ratio",
+        "ci95_lower",
+        "ci95_upper",
+        "p_wald_exploratory",
+        "covariance"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 7 model denominators.csv",
+      "origin": "V3/图形/源数据/Figure 7 model denominators.csv",
+      "SHA256": "3133548faf853c33562882f609fddd0de2744c6ddbe79254902841f4246ecf47",
+      "rows": 6,
+      "columns": [
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "event_definition",
+        "economic_predictor",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "excluded_missing_n",
+        "excluded_missing_iso3",
+        "included_iso3",
+        "covariance",
+        "status",
+        "stop_reason",
+        "separation_check",
+        "converged",
+        "warnings",
+        "iterations",
+        "log_likelihood",
+        "design_condition_number",
+        "information_condition_number",
+        "fitted_probability_min",
+        "fitted_probability_max",
+        "robust_covariance_min_eigenvalue"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 8 cumulative large-country omissions.csv",
+      "origin": "V3/图形/源数据/Figure 8 cumulative large-country omissions.csv",
+      "SHA256": "0a49bf09c98ca0c847acfd2a8b5bac20ee98194295c49a9c73339c2f738e46e5",
+      "rows": 11,
+      "columns": [
+        "omitted count",
+        "omitted ISO3",
+        "last omitted",
+        "retained countries",
+        "NNN countries",
+        "NNN DALYs",
+        "denominator DALYs",
+        "DALY share",
+        "NNN population",
+        "denominator population",
+        "population share"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 8 individual-country omissions.csv",
+      "origin": "V3/图形/源数据/Figure 8 individual-country omissions.csv",
+      "SHA256": "3067394d935453a15d3d4df3c225bc6010d5b6750d04d399c07af446b1ea3cea",
+      "rows": 168,
+      "columns": [
+        "omitted ISO3",
+        "omitted country",
+        "omitted trajectory",
+        "omitted DALYs",
+        "retained countries",
+        "NNN countries",
+        "NNN DALYs",
+        "denominator DALYs",
+        "DALY share",
+        "NNN population",
+        "denominator population",
+        "population share",
+        "empirical cumulative percent"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 8 original panel.csv",
+      "origin": "V3/图形/源数据/Figure 8 original panel.csv",
+      "SHA256": "d7086a41f5ed2a4611f934cc57223c24ed963e6965bec238e9e1c99249e70260",
+      "rows": 1,
+      "columns": [
+        "retained countries",
+        "NNN countries",
+        "NNN DALYs",
+        "denominator DALYs",
+        "DALY share",
+        "NNN population",
+        "denominator population",
+        "population share"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/Figure 8 regional omissions.csv",
+      "origin": "V3/图形/源数据/Figure 8 regional omissions.csv",
+      "SHA256": "795e362559ac3bec0414b50aba563b7a78362c43505b86ff25ed0b11182f6c3a",
+      "rows": 6,
+      "columns": [
+        "omitted region",
+        "region label",
+        "retained countries",
+        "NNN countries",
+        "NNN DALYs",
+        "denominator DALYs",
+        "DALY share",
+        "NNN population",
+        "denominator population",
+        "population share"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S1 2021 missing scenario bounds.csv",
+      "origin": "V3/图形/源数据/S1 2021 missing scenario bounds.csv",
+      "SHA256": "dbcdc3fad8ea7756e530b61f3df2d344452ac673e5470e9cb1d4ee0ed0b78c13",
+      "rows": 3,
+      "columns": [
+        "medicine_or_trajectory",
+        "bound_type",
+        "year",
+        "denominator",
+        "observed_yes_n",
+        "observed_no_n",
+        "unknown_n",
+        "lower_country_n",
+        "upper_country_n",
+        "lower_percent",
+        "upper_percent",
+        "lower_daly2021",
+        "upper_daly2021",
+        "lower_pop25_2021",
+        "upper_pop25_2021"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S1 model sample retention.csv",
+      "origin": "V3/图形/源数据/S1 model sample retention.csv",
+      "SHA256": "f1d7f86b06366df7d545145f151ad62d04db5cfdd7b7dbd4ada1ead264a08f5f",
+      "rows": 4,
+      "columns": [
+        "model_id",
+        "eligible_n",
+        "complete_n",
+        "excluded_missing_n",
+        "excluded_missing_iso3"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S1 unknown answers.csv",
+      "origin": "V3/图形/源数据/S1 unknown answers.csv",
+      "SHA256": "79c4eb468208df47f66d492b87012c6dc28ac936f5518d2762533a2b54c5df80",
+      "rows": 30,
+      "columns": [
+        "year",
+        "medicine",
+        "missing category",
+        "unknown n",
+        "not in API n",
+        "frame n"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S1 WDI extraction status.csv",
+      "origin": "V3/图形/源数据/S1 WDI extraction status.csv",
+      "SHA256": "87eed58ff5358d1be69904fc9e92cb28f973f6b3a4e043454a208acf63367d2a",
+      "rows": 194,
+      "columns": [
+        "iso3",
+        "country",
+        "extraction status"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S1 WDI missing patterns.csv",
+      "origin": "V3/图形/源数据/S1 WDI missing patterns.csv",
+      "SHA256": "6cbcc30a2583c10d95eaa53d2a7d88aa4e47ec52e76eeeb860bc31f0ec47254b",
+      "rows": 4,
+      "columns": [
+        "pm25",
+        "gdp",
+        "oop",
+        "health",
+        "countries",
+        "World Bank matched",
+        "ISO3",
+        "extraction frame n"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S2 countries with repeated changes.csv",
+      "origin": "V3/图形/源数据/S2 countries with repeated changes.csv",
+      "SHA256": "a68a8173bdebb22c89d762c2f499c2786be62eb60fce30b21f3383fdfb983ff3",
+      "rows": 30,
+      "columns": [
+        "iso3",
+        "sequence",
+        "answer changes"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S2 five-wave availability.csv",
+      "origin": "V3/图形/源数据/S2 five-wave availability.csv",
+      "SHA256": "fed6be954b0ed4a899acb8c41fd288a0f81a4f5d2346e100c5d5299a85ae0330",
+      "rows": 10,
+      "columns": [
+        "medicine",
+        "year",
+        "yes n",
+        "denominator",
+        "yes percent"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S2 five-wave country sequences.csv",
+      "origin": "V3/图形/源数据/S2 five-wave country sequences.csv",
+      "SHA256": "c9a9ee0db8f9b0bbdd9e4e942e510a6da9660329df3e0d2741ba1062c6c171ff",
+      "rows": 141,
+      "columns": [
+        "iso3",
+        "sequence",
+        "answer changes"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S2 five-wave sequence frequencies.csv",
+      "origin": "V3/图形/源数据/S2 five-wave sequence frequencies.csv",
+      "SHA256": "f46df422b7441ea040e48e021760488693d53ce98fdca539b191b43637a68016",
+      "rows": 22,
+      "columns": [
+        "sequence",
+        "countries"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S2 paired cohort comparison.csv",
+      "origin": "V3/图形/源数据/S2 paired cohort comparison.csv",
+      "SHA256": "54905f7793400e0685a31d99d2b31dfb540a41732f843560303418652af7349b",
+      "rows": 6,
+      "columns": [
+        "cohort",
+        "n",
+        "before",
+        "after",
+        "change percentage points"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S3 alternative sample shares.csv",
+      "origin": "V3/图形/源数据/S3 alternative sample shares.csv",
+      "SHA256": "98c29ce30db2f01140fbdef902ce7082578a0c83251b6f2e6296482e9d9c4eaf",
+      "rows": 4,
+      "columns": [
+        "sample label",
+        "sample n",
+        "NNN n",
+        "NNN DALYs",
+        "sample DALYs",
+        "DALY share",
+        "NNN population",
+        "sample population",
+        "population share"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S3 cumulative high-burden omissions.csv",
+      "origin": "V3/图形/源数据/S3 cumulative high-burden omissions.csv",
+      "SHA256": "aef92677ab1c2680fe8cb8e455b4f42ffe41532c400878b77a112d6a1d463cb7",
+      "rows": 11,
+      "columns": [
+        "excluded top k",
+        "excluded ISO3",
+        "selection rule",
+        "sample n",
+        "NNN n",
+        "NNN DALYs",
+        "sample DALYs",
+        "DALY share",
+        "NNN population",
+        "sample population",
+        "population share"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S3 leave one country out.csv",
+      "origin": "V3/图形/源数据/S3 leave one country out.csv",
+      "SHA256": "c76a0db9d106dc5abec1074ac20b5205ff964b718a21e2980d7817a58cd60aee",
+      "rows": 168,
+      "columns": [
+        "excluded ISO3",
+        "excluded country",
+        "excluded trajectory",
+        "excluded DALYs",
+        "sample n",
+        "NNN n",
+        "NNN DALYs",
+        "sample DALYs",
+        "DALY share",
+        "NNN population",
+        "sample population",
+        "population share"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S3 leave one region out.csv",
+      "origin": "V3/图形/源数据/S3 leave one region out.csv",
+      "SHA256": "f23ed46ed9297b8b88f4b80966eac8cfac6d9def98630eef053748c53f35b394",
+      "rows": 6,
+      "columns": [
+        "excluded region",
+        "region label",
+        "sample n",
+        "NNN n",
+        "NNN DALYs",
+        "sample DALYs",
+        "DALY share",
+        "NNN population",
+        "sample population",
+        "population share"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Figures/S3 sample composition.csv",
+      "origin": "V3/图形/源数据/S3 sample composition.csv",
+      "SHA256": "bd3d4153690959065fd9e93735b341453224aa37b145ba5631c8332a1690037c",
+      "rows": 24,
+      "columns": [
+        "group",
+        "trajectory",
+        "countries",
+        "ISO3"
+      ],
+      "description": "Frozen observed/calculated source data for the figure and panel identified by the filename; see caption and figure methods."
+    },
+    {
+      "file": "Additional/Country data.csv",
+      "origin": "投稿制作/Country data.csv",
+      "SHA256": "62e2bdc98854c349779a268babf4496decc5bf01a84a8123861851cab19c97a7",
+      "rows": 194,
+      "columns": [
+        "iso3",
+        "country",
+        "region",
+        "balanced168",
+        "ics2017",
+        "ics2019",
+        "ics2021",
+        "bronch2021",
+        "combo2021",
+        "trajectory",
+        "daly2021",
+        "rate2021",
+        "pm25",
+        "gdp",
+        "oop",
+        "health",
+        "geo_review",
+        "pop2021"
+      ],
+      "description": "One row per 194 WHO countries/territories; all raw unknown response categories are retained."
+    },
+    {
+      "file": "Additional/WHO responses.csv",
+      "origin": "投稿制作/WHO responses.csv",
+      "SHA256": "3a73278c8b369829eb74c2eb784602f5c63a4f04b3c3d26c9c9daa3008490bf3",
+      "rows": 970,
+      "columns": [
+        "Year",
+        "Country code",
+        "Country",
+        "WHO region code",
+        "WHO region",
+        "支气管扩张剂",
+        "吸入激素",
+        "复方吸入剂",
+        "肺量计",
+        "峰流速",
+        "呼吸病计划",
+        "呼吸病指南",
+        "Both medicines valid",
+        "Medicine state"
+      ],
+      "description": "194 WHO countries/territories × five survey waves; original categories and structural absence retained."
+    },
+    {
+      "file": "Additional/Model estimates.csv",
+      "origin": "投稿制作/Model estimates.csv",
+      "SHA256": "1c4b1efc0924e32e8ce84334c804404bee3d599abedf10c315938b02006b9b41",
+      "rows": 81,
+      "columns": [
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "variable",
+        "unit",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "log_odds_coefficient",
+        "robust_se",
+        "odds_ratio",
+        "ci95_lower",
+        "ci95_upper",
+        "p_wald_exploratory",
+        "covariance"
+      ],
+      "description": "All 81 non-intercept coefficients from 27 successful models; no coefficients for the stopped specification."
+    },
+    {
+      "file": "Additional/Model diagnostics.csv",
+      "origin": "投稿制作/Model diagnostics.csv",
+      "SHA256": "fdf6d342aa9f70d9d0ecce3a922e45f744f70e308977beb340f03e73cbb83340",
+      "rows": 28,
+      "columns": [
+        "model_id",
+        "family",
+        "model_role",
+        "outcome",
+        "event_definition",
+        "economic_predictor",
+        "eligible_n",
+        "complete_n",
+        "events_no",
+        "nonevents_yes",
+        "excluded_missing_n",
+        "excluded_missing_iso3",
+        "included_iso3",
+        "covariance",
+        "status",
+        "stop_reason",
+        "separation_check",
+        "converged",
+        "warnings",
+        "iterations",
+        "log_likelihood",
+        "design_condition_number",
+        "information_condition_number",
+        "fitted_probability_min",
+        "fitted_probability_max",
+        "robust_covariance_min_eigenvalue"
+      ],
+      "description": "All 28 model specifications, exact included country IDs and stopped-model record."
+    },
+    {
+      "file": "Additional/Country omission sensitivities.csv",
+      "origin": "投稿制作/Country omission sensitivities.csv",
+      "SHA256": "3067394d935453a15d3d4df3c225bc6010d5b6750d04d399c07af446b1ea3cea",
+      "rows": 168,
+      "columns": [
+        "omitted ISO3",
+        "omitted country",
+        "omitted trajectory",
+        "omitted DALYs",
+        "retained countries",
+        "NNN countries",
+        "NNN DALYs",
+        "denominator DALYs",
+        "DALY share",
+        "NNN population",
+        "denominator population",
+        "population share",
+        "empirical cumulative percent"
+      ],
+      "description": "Every one of the 168 primary-panel countries omitted separately; deterministic point sensitivities, not a confidence distribution."
+    },
+    {
+      "file": "Additional/Missing scenario bounds.csv",
+      "origin": "投稿制作/Missing scenario bounds.csv",
+      "SHA256": "55dfc702abf57ef8739c2bcd3bb0109ba65710c8874dfea52e67b4b0ee5528b8",
+      "rows": 28,
+      "columns": [
+        "bound_type",
+        "year",
+        "medicine_or_trajectory",
+        "denominator",
+        "observed_yes_n",
+        "observed_no_n",
+        "unknown_n",
+        "lower_country_n",
+        "upper_country_n",
+        "lower_percent",
+        "upper_percent",
+        "lower_daly2021",
+        "upper_daly2021",
+        "lower_pop25_2021",
+        "upper_pop25_2021"
+      ],
+      "description": "Extreme assignments of unknown responses or compatible trajectories; mathematical bounds, not imputations or confidence intervals."
+    }
+  ],
+  "supporting files": [
     {
       "file": "README.md",
-      "bytes": 3340,
-      "SHA256": "e7c7cfceb7dce7cf15b1e5f7a8a9807f1645e26a34b3dbc745b88762f740dae8"
+      "SHA256": "c8ef4174f3b10dd63a178ca056cfb55b00d2a99042bea1d2f10ca2a15ff0e658"
     },
     {
       "file": "Sources.md",
-      "bytes": 6283,
       "SHA256": "f27d3673b9e285a29733a093e249d6f274cbf68a127e38081ab16ac3f0767850"
     },
     {
-      "file": "代码/requirements.txt",
-      "bytes": 116,
-      "SHA256": "a9d32890ad9369e759a2ed33436df552f7678dad07bbab69ed9acf7a29d01a17"
+      "file": "Data dictionary.md",
+      "SHA256": "c17e538d98d950c5fd5d43df74728417b9f105dba4cea3041d55e198c1e3fd96"
     },
     {
-      "file": "代码/图形一至二.py",
-      "bytes": 7632,
-      "SHA256": "b62f092c46bc225fecc853e763c8fe6ef3859a6d04cea743c2b2b477ce11e690"
-    },
-    {
-      "file": "代码/图形七至八.py",
-      "bytes": 21382,
-      "SHA256": "30ed3b904a1f9523f9d04638393bee2b56d809caf08aa1d3373c44f398bf1b4f"
-    },
-    {
-      "file": "代码/图形三至四.py",
-      "bytes": 14033,
-      "SHA256": "32e4fca163bcd98551ab79cd5fb5512a4b6434fac1b239e8493b490d178e9c7f"
-    },
-    {
-      "file": "代码/图形五至六.py",
-      "bytes": 14676,
-      "SHA256": "a331bb3d0eaec3bf7e09125def9426a5f384217c9c7d4f931a2153c9c283c7be"
-    },
-    {
-      "file": "代码/复现分析.py",
-      "bytes": 871,
-      "SHA256": "bd19313e142e9fa3932d5a007ea2729acfcc42196ab5f0d1a371c3316d7fda85"
-    },
-    {
-      "file": "代码/绘图公共.py",
-      "bytes": 7434,
-      "SHA256": "5736710a945c64221af2972d448297f69d934f80eac7d11efa7e2998bdd495c0"
-    },
-    {
-      "file": "代码/统计分析.py",
-      "bytes": 37576,
-      "SHA256": "50a8d669400360aa6e90e299eb6dcec9834d9dce1c691c4c9288e99702c71cad"
-    },
-    {
-      "file": "代码/统计复核.py",
-      "bytes": 5481,
-      "SHA256": "80cb2875c50608a386a819fd340b648125129dd784ee58fccd56a8704fd76244"
-    },
-    {
-      "file": "代码/英文统计表.py",
-      "bytes": 10308,
-      "SHA256": "2276af78a3e4b648eecdea98ced9184e7cfff9e094c09fa4c39a1a4572d7df60"
-    },
-    {
-      "file": "代码/补充图.py",
-      "bytes": 37092,
-      "SHA256": "33b4c0a7f8db2dc0ea4d793e602cca1e1e187f74835789d902663b806afb19b3"
-    },
-    {
-      "file": "报告/Figure methods.md",
-      "bytes": 5163,
-      "SHA256": "59db4e399da0540750981a68cb687452d484e84aec4c84bf6f99aac9f5303584"
-    },
-    {
-      "file": "报告/Figures 1–2 captions.md",
-      "bytes": 1160,
-      "SHA256": "f86e7144559145f08ea1471c5d6c0973ee337901ebc4eefdbd9cc3a3a5a0d463"
-    },
-    {
-      "file": "报告/Figures 3–4 captions.md",
-      "bytes": 1561,
-      "SHA256": "d65adfa9c071429f66ec4de97c8f163f2957c67888c9e0fa8bb93335dec573e7"
-    },
-    {
-      "file": "报告/Figures 5–6 captions.md",
-      "bytes": 1537,
-      "SHA256": "046954adec09f4651b2b373f05d55b072e787b654c8716c2f1569656d0af6cbe"
-    },
-    {
-      "file": "报告/Figures 7–8 captions.md",
-      "bytes": 1847,
-      "SHA256": "acde280b4a3d32d0348ebd208924f10f658722fd23e034fbeeb986079154be49"
-    },
-    {
-      "file": "报告/Models and sensitivity figure methods.md",
-      "bytes": 5340,
-      "SHA256": "bbdc3cff2b0e8b9ebe985a380e33863897ebd49f6f826104a2c091202934f805"
-    },
-    {
-      "file": "报告/Supplementary captions.md",
-      "bytes": 2669,
-      "SHA256": "a17175fc1df7896cfea051b9a7644cb188073eaba933357719c606d0f1060cf1"
-    },
-    {
-      "file": "报告/Supplementary methods.md",
-      "bytes": 6801,
-      "SHA256": "7ddf879a53b686e5d85a0bcbf5d11dc1b6747dcd2475d25b7c78235c2e2f9690"
-    },
-    {
-      "file": "核验/GBD人口原始引用.txt",
-      "bytes": 327,
-      "SHA256": "339dc2be55e1576d87c0a9640ee20865e222e4f7d19e6d30a7731a0f8e476874"
-    },
-    {
-      "file": "核验/GBD哮喘原始引用.txt",
-      "bytes": 327,
-      "SHA256": "339dc2be55e1576d87c0a9640ee20865e222e4f7d19e6d30a7731a0f8e476874"
-    },
-    {
-      "file": "核验/GBD源文件校验.json",
-      "bytes": 4260,
-      "SHA256": "a9d1aa8e67759816af303be1d51f501455dd091db173d49b9080577f94b66067"
-    },
-    {
-      "file": "核验/GBD溯源与地理核验.csv",
-      "bytes": 176301,
-      "SHA256": "1dba3cdb2e1a3039d6b4b8b9146feff0d0ac52654a625862b0f16665065f3fb3"
-    },
-    {
-      "file": "核验/GBD溯源与地理核验.md",
-      "bytes": 10773,
-      "SHA256": "03ca0dc5da7d32cd815e5d82fb9348614029955d7d405a81fbdaed81cb2755dc"
-    },
-    {
-      "file": "核验/Portable changes.json",
-      "bytes": 4697,
-      "SHA256": "cf8ad7a1b8e46a83ab67b3fffc0fba3911bdaef878a65815af28aa0243573ba9"
-    },
-    {
-      "file": "核验/探索性分析方案.md",
-      "bytes": 5790,
-      "SHA256": "d16e54bd889f0fdf5b62dff6467d89f4aa38f747595b470d1a43da691c6b6466"
-    },
-    {
-      "file": "核验/问卷可比性.csv",
-      "bytes": 7498,
-      "SHA256": "b9cb546d480c11ea95d0fe2006a6da5884b3b3f614fecc3ab601e2b628860596"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/吸入激素.json",
-      "bytes": 534651,
-      "SHA256": "8f5478d8fd8bf15cd4c617ac69c61ee2bafcb589627370d7a85d6ef996d746e1"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/呼吸病指南.json",
-      "bytes": 107104,
-      "SHA256": "f731d9216426a22e72ef2fd994c811fcdaa73796c995f6cdf35e0bddacdf78b9"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/呼吸病计划.json",
-      "bytes": 534547,
-      "SHA256": "47f32d4f21118721fb3d4cbe88287fca3a9937eb2267a83eca2d186791aff286"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/国家代码.json",
-      "bytes": 31019,
-      "SHA256": "4e4d44b5f86eaaf3d244b2c0338c78fee3c932437c43575f56a20f54ac13b072"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/复方吸入剂.json",
-      "bytes": 107875,
-      "SHA256": "7ad14acb002ebab71e281e0a2ee0edb38f8f65e4c610538555c1a19d9555455c"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/峰流速.json",
-      "bytes": 107101,
-      "SHA256": "bb5efb386564993ceda21dba1e52af4588dd0cc9f923ce6ac5647dfd1bd9655f"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/指标名称.json",
-      "bytes": 1294,
-      "SHA256": "3e30af0fefb060a04ff59378dee5e994a4d39acc8465b08b7bac67122bd3942c"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/支气管扩张剂.json",
-      "bytes": 542173,
-      "SHA256": "b0e68e8caff65f4424e0670873a47eb7006e02d22fd94850dc77225808d5661d"
-    },
-    {
-      "file": "输入数据/呼吸原始数据/肺量计.json",
-      "bytes": 106777,
-      "SHA256": "44e037a765f56da37d39a92caf8d54c613187921f115863936d35681bf6a3009"
-    },
-    {
-      "file": "输入数据/呼吸国家轮次.csv",
-      "bytes": 158502,
-      "SHA256": "3a73278c8b369829eb74c2eb784602f5c63a4f04b3c3d26c9c9daa3008490bf3"
-    },
-    {
-      "file": "输入数据/呼吸字段元数据.json",
-      "bytes": 5656,
-      "SHA256": "454f5ce19c820d3bc69d547c174963f081233e3cf489801f3b8fcc5e6d4025d7"
-    },
-    {
-      "file": "输入数据/呼吸环境社会原始数据/PM2.5.json",
-      "bytes": 354667,
-      "SHA256": "609e3af0f16d48ce48f540f23b7730540b0bf0e8590843b9c7faf9f694a8d9e5"
-    },
-    {
-      "file": "输入数据/呼吸环境社会原始数据/人均GDP.json",
-      "bytes": 329374,
-      "SHA256": "43a12a82b50409b195ad6c3c2809cad3a4148a73f483f2b84c1635f175be4ba8"
-    },
-    {
-      "file": "输入数据/呼吸环境社会原始数据/人均卫生支出.json",
-      "bytes": 351554,
-      "SHA256": "c2e853d4e2d173d1525ffe8c2784115f64a6351eb4f992d3080be3b728152471"
-    },
-    {
-      "file": "输入数据/呼吸环境社会原始数据/国家地区元数据.json",
-      "bytes": 113591,
-      "SHA256": "4b2b4111572ec0e4c78ce3f7edd8aad47a6790c462279e66bd514cfd8824077d"
-    },
-    {
-      "file": "输入数据/呼吸环境社会原始数据/自付卫生支出.json",
-      "bytes": 334708,
-      "SHA256": "b65f38843f991dea2e50c736b17f1692126bbf96037e01ef7dc08b133e1abf17"
-    },
-    {
-      "file": "输入数据/呼吸环境社会数据.csv",
-      "bytes": 87868,
-      "SHA256": "88e22a05ee8a9e3bb8c3932e7d5ca15493d476d39c4d4958efe0edc9a167a642"
-    },
-    {
-      "file": "输入数据/呼吸环境社会核验.json",
-      "bytes": 93648,
-      "SHA256": "e32fa7d30b428eaedc82e9f04d1b93fe57545d7bc7fe5d62da6ee33abd256d69"
-    },
-    {
-      "file": "输入数据/呼吸补充核验.json",
-      "bytes": 28983,
-      "SHA256": "d4492fdbe00e83ee4d5793534e3cea1226a4eeded88b359a8e5db77b89bed73b"
-    },
-    {
-      "file": "输入数据/呼吸覆盖核验.json",
-      "bytes": 61665,
-      "SHA256": "b45a284ddca85147faf2452092f3cf95b2ec922afb3d1070292c8206d6fa9317"
-    },
-    {
-      "file": "输入数据/地图/世界国家边界.cpg",
-      "bytes": 5,
-      "SHA256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
-    },
-    {
-      "file": "输入数据/地图/世界国家边界.dbf",
-      "bytes": 878482,
-      "SHA256": "c5dbd3dd5fd7e2ef49051fc88562c03819e8ea63a382642df6eadd1243bf4b49"
-    },
-    {
-      "file": "输入数据/地图/世界国家边界.prj",
-      "bytes": 145,
-      "SHA256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4"
-    },
-    {
-      "file": "输入数据/地图/世界国家边界.shp",
-      "bytes": 8806224,
-      "SHA256": "7ce119ef6342e43cff7c0c3004e0911ab7ec1988a14734372031d2012180e7bc"
-    },
-    {
-      "file": "输入数据/地图/世界国家边界.shx",
-      "bytes": 2164,
-      "SHA256": "ca19ec112d054c77bc8f7ac00e3b110d5dff32cc9bcf4cd1b8b66bdd0f611d32"
-    },
-    {
-      "file": "输入数据/地图/世界简化边界.geojson",
-      "bytes": 2744588,
-      "SHA256": "c3ac7c584defbb82acbd4e6fa692a41556f7b039e03b7f98a67ba43ab2306f39"
-    },
-    {
-      "file": "输入数据/地图/地图来源.json",
-      "bytes": 642,
-      "SHA256": "dc00da2b7b279ea54095570b7157a6d4bc90bd2ff18b3de52b6b3a0e63499e4f"
-    },
-    {
-      "file": "输入数据/成人哮喘人口.csv",
-      "bytes": 989927,
-      "SHA256": "23f4445bc814d22fce72940718d493e57a01b0b3315787cafde9ea53b1f4e9ee"
-    },
-    {
-      "file": "输入数据/成人哮喘数据.csv",
-      "bytes": 725405,
-      "SHA256": "b28ea9689a33b24b598ae6f771806ab6789851bee1d7ff05d7e3ca4f8eb21cb1"
-    },
-    {
-      "file": "输入数据/成人哮喘核验.json",
-      "bytes": 2221,
-      "SHA256": "4b854a0035f615b0861c6699243b16e6c506cd6903f59fc2824f48ac7cc210ed"
-    },
-    {
-      "file": "输入数据/成人哮喘联合数据.csv",
-      "bytes": 75123,
-      "SHA256": "0abb86d14cfcc207086b3e6f7d9452c3c8160fb3f51a968fa59e955ce41e5761"
+      "file": "Supplementary audit.json",
+      "SHA256": "3357d41af7f86f90da31616a628d428bb632a81061072b7af334bda9708fff9e"
     }
-  ],
-  "expected statistics CSV": [
-    {
-      "file": "2021三药状态.csv",
-      "SHA256": "d79b4c294ed19b29ba77da8e99339bab8835d3f3d93028f54ae5c92cfc9b388d",
-      "bytes": 1216
-    },
-    {
-      "file": "2021环境社会分布.csv",
-      "SHA256": "ad8aed91678dcc3e0aca22da746b65d96ac19be3a7b1db26680aa4dde425f9b7",
-      "bytes": 34547
-    },
-    {
-      "file": "ICS轨迹与复方交叉.csv",
-      "SHA256": "5aa201b7b885c5b0ea02e06417eb504a39fe17e321b178339a2a031bd3ba5d28",
-      "bytes": 1485
-    },
-    {
-      "file": "ICS轨迹地区分布.csv",
-      "SHA256": "afca7570c71e36775c3faf19cdca8229f255b557524cdf06582c0767685d435e",
-      "bytes": 2566
-    },
-    {
-      "file": "ICS轨迹负担与人口.csv",
-      "SHA256": "1cd237b64429fe8bf1e17ebfc91ef9ec65640fda9900f12764835ec734b3c60e",
-      "bytes": 2762
-    },
-    {
-      "file": "三轮国家联合表.csv",
-      "SHA256": "a6ee8a93a1510aa2be22ea86db37151a225bc96ae40fd5c16e2f5f13f87810ce",
-      "bytes": 115295
-    },
-    {
-      "file": "四项预设模型.csv",
-      "SHA256": "ade5556274b2aea676658182a43793ae7eb4f60278607c7f24b0b323aed200e3",
-      "bytes": 3516
-    },
-    {
-      "file": "国家分析表.csv",
-      "SHA256": "62e2bdc98854c349779a268babf4496decc5bf01a84a8123861851cab19c97a7",
-      "bytes": 37535
-    },
-    {
-      "file": "敏感性药物计数.csv",
-      "SHA256": "86843446315470e357c75912735598502ddd21d67cb07adba70cfba635a5a5f4",
-      "bytes": 3756
-    },
-    {
-      "file": "敏感性轨迹负担.csv",
-      "SHA256": "c4f4090cd1e8d4111f5c520c2a499d9f3d6c695d1993c0a62f4b62f2a5ce6365",
-      "bytes": 23781
-    },
-    {
-      "file": "敏感性配对变化.csv",
-      "SHA256": "4c3c944cc3d556b58baf62df9df7587a98d22e73fe7c3b9710690af2c2f6e262",
-      "bytes": 6120
-    },
-    {
-      "file": "样本全球覆盖.csv",
-      "SHA256": "e28792fdc94145c0fc2af38eb98fbd5b816500a197b03669581254bb8a8764b1",
-      "bytes": 3610
-    },
-    {
-      "file": "模型敏感性结果.csv",
-      "SHA256": "05f5fdbe29351a4005640c82cd9aa7d86a19ef3da497c87d08abb553d2b2e75b",
-      "bytes": 18958
-    },
-    {
-      "file": "模型缺失国家.csv",
-      "SHA256": "4bc686f846aa7eb048a6ffecaf28c6ad5f0583956f284647e29bd5b47fa65218",
-      "bytes": 4938
-    },
-    {
-      "file": "模型诊断与分母.csv",
-      "SHA256": "fdf6d342aa9f70d9d0ecce3a922e45f744f70e308977beb340f03e73cbb83340",
-      "bytes": 25877
-    },
-    {
-      "file": "缺失极端边界.csv",
-      "SHA256": "55dfc702abf57ef8739c2bcd3bb0109ba65710c8874dfea52e67b4b0ee5528b8",
-      "bytes": 3432
-    },
-    {
-      "file": "药物逐轮计数.csv",
-      "SHA256": "16a430262c0fe66abb99cbc4e9b0d4f29ef13d0aef23e7919672876dabdc4096",
-      "bytes": 3799
-    },
-    {
-      "file": "逐轮原始答复.csv",
-      "SHA256": "6bcdeff6b22c8b7578d0265c039e06c57091a4ec8653d1a14421bc34aefb8f85",
-      "bytes": 4546
-    },
-    {
-      "file": "配对药物变化.csv",
-      "SHA256": "668d0a697e2aaabc227a95fa7105ce7b63ce78e6729d8ebaea9f4d78b33633f1",
-      "bytes": 837
-    }
-  ],
-  "omitted scripts": [
-    "GBD溯源与人口核验.py",
-    "准备地图.py",
-    "生成报告.py",
-    "生成文档.js",
-    "汇编图册.py",
-    "交付检查.py"
-  ],
-  "omission reason": "Upstream original-archive extraction or manuscript/Word/atlas packaging; not required for the 19-table and 11-figure offline replay.",
-  "omitted raw responses": [
-    "PM2.5首次请求错误.json",
-    "PM2.5备用响应.json"
-  ],
-  "raw response omission reason": "Initial failed request and duplicate fallback; successful PM2.5.json and all other retained source inputs remain present.",
-  "excluded third party resources": [
-    "Reference-publication PDFs/images",
-    "Times New Roman font files",
-    "Python dependencies and executables",
-    "Full original GBD download ZIPs"
   ]
 }

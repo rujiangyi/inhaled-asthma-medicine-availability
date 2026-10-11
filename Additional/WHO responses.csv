@@ -1,0 +1,971 @@
+﻿Year,Country code,Country,WHO region code,WHO region,支气管扩张剂,吸入激素,复方吸入剂,肺量计,峰流速,呼吸病计划,呼吸病指南,Both medicines valid,Medicine state
+2013,AFG,Afghanistan,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,AGO,Angola,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,ALB,Albania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,AND,Andorra,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ARE,United Arab Emirates,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ARG,Argentina,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ARM,Armenia,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,ATG,Antigua and Barbuda,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,AUS,Australia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,AUT,Austria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,AZE,Azerbaijan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BDI,Burundi,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No response,No observation for year,True,Bronchodilator Yes / ICS No
+2013,BEL,Belgium,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BEN,Benin,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,BFA,Burkina Faso,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BGD,Bangladesh,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,BGR,Bulgaria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BHR,Bahrain,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BHS,Bahamas,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BIH,Bosnia and Herzegovina,EUR,Europe,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,BLR,Belarus,EUR,Europe,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,BLZ,Belize,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BOL,Bolivia (Plurinational State of),AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BRA,Brazil,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BRB,Barbados,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BRN,Brunei Darussalam,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,BTN,Bhutan,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,BWA,Botswana,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CAF,Central African Republic,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,CAN,Canada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CHE,Switzerland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CHL,Chile,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CHN,China,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CIV,Cote d'Ivoire,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,CMR,Cameroon,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,COD,Democratic Republic of the Congo,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,COG,Congo,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,COK,Cook Islands,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,COL,Colombia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,COM,Comoros,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2013,CPV,Cabo Verde,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,CRI,Costa Rica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CUB,Cuba,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CYP,Cyprus,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,CZE,Czechia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,DEU,Germany,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,DJI,Djibouti,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,DMA,Dominica,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,DNK,Denmark,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,DOM,Dominican Republic,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,DZA,Algeria,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,ECU,Ecuador,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,EGY,Egypt,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ERI,Eritrea,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2013,ESP,Spain,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,EST,Estonia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ETH,Ethiopia,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,FIN,Finland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,FJI,Fiji,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,FRA,France,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,FSM,Micronesia (Federated States of),WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GAB,Gabon,AFR,Africa,No response,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2013,GBR,United Kingdom of Great Britain and Northern Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GEO,Georgia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GHA,Ghana,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GIN,Guinea,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2013,GMB,Gambia,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,GNB,Guinea-Bissau,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,GNQ,Equatorial Guinea,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GRC,Greece,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GRD,Grenada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GTM,Guatemala,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,GUY,Guyana,AMR,Americas,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,HND,Honduras,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,HRV,Croatia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,HTI,Haiti,AMR,Americas,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,HUN,Hungary,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,IDN,Indonesia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,IND,India,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,IRL,Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,IRN,Iran (Islamic Republic of),EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,IRQ,Iraq,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ISL,Iceland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ISR,Israel,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ITA,Italy,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,JAM,Jamaica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,JOR,Jordan,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,JPN,Japan,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,KAZ,Kazakhstan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,KEN,Kenya,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,KGZ,Kyrgyzstan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,KHM,Cambodia,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,KIR,Kiribati,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,KNA,Saint Kitts and Nevis,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,KOR,Republic of Korea,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,KWT,Kuwait,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LAO,Lao People's Democratic Republic,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,LBN,Lebanon,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LBR,Liberia,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LBY,Libya,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LCA,Saint Lucia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LKA,Sri Lanka,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,LSO,Lesotho,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LTU,Lithuania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LUX,Luxembourg,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,LVA,Latvia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MAR,Morocco,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,MCO,Monaco,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MDA,Republic of Moldova,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MDG,Madagascar,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2013,MDV,Maldives,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MEX,Mexico,AMR,Americas,Yes,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2013,MHL,Marshall Islands,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MKD,North Macedonia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MLI,Mali,AFR,Africa,Yes,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2013,MLT,Malta,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MMR,Myanmar,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MNE,Montenegro,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MNG,Mongolia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MOZ,Mozambique,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MRT,Mauritania,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,MUS,Mauritius,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,MWI,Malawi,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,MYS,Malaysia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NAM,Namibia,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NER,Niger,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,NGA,Nigeria,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2013,NIC,Nicaragua,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NIU,Niue,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NLD,Netherlands (Kingdom of the),EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NOR,Norway,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NPL,Nepal,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NRU,Naoero,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,NZL,New Zealand,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,OMN,Oman,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,PAK,Pakistan,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2013,PAN,Panama,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,PER,Peru,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,PHL,Philippines,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,PLW,Palau,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,PNG,Papua New Guinea,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2013,POL,Poland,EUR,Europe,Don't know,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2013,PRK,Democratic People's Republic of Korea,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,PRT,Portugal,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,PRY,Paraguay,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,QAT,Qatar,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ROU,Romania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,RUS,Russian Federation,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,RWA,Rwanda,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SAU,Saudi Arabia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SDN,Sudan,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,SEN,Senegal,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SGP,Singapore,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SLB,Solomon Islands,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,SLE,Sierra Leone,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,SLV,El Salvador,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SMR,San Marino,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SOM,Somalia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SRB,Serbia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SSD,South Sudan,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,STP,Sao Tome and Principe,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SUR,Suriname,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SVK,Slovakia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SVN,Slovenia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SWE,Sweden,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SWZ,Eswatini,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,SYC,Seychelles,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,SYR,Syrian Arab Republic,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,TCD,Chad,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,TGO,Togo,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2013,THA,Thailand,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,TJK,Tajikistan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,TKM,Turkmenistan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,TLS,Timor-Leste,SEAR,South-East Asia,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,TON,Tonga,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,TTO,Trinidad and Tobago,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,TUN,Tunisia,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2013,TUR,Türkiye,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,TUV,Tuvalu,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,TZA,United Republic of Tanzania,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,UGA,Uganda,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2013,UKR,Ukraine,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,URY,Uruguay,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,USA,United States of America,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,UZB,Uzbekistan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,VCT,Saint Vincent and the Grenadines,AMR,Americas,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,VEN,Venezuela (Bolivarian Republic of),AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2013,VNM,Viet Nam,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2013,VUT,Vanuatu,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2013,WSM,Samoa,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,YEM,Yemen,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ZAF,South Africa,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2013,ZMB,Zambia,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2013,ZWE,Zimbabwe,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,AFG,Afghanistan,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,AGO,Angola,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,ALB,Albania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,AND,Andorra,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ARE,United Arab Emirates,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ARG,Argentina,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,ARM,Armenia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ATG,Antigua and Barbuda,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,AUS,Australia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,AUT,Austria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,AZE,Azerbaijan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,BDI,Burundi,AFR,Africa,No,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS Yes
+2015,BEL,Belgium,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BEN,Benin,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BFA,Burkina Faso,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,BGD,Bangladesh,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,BGR,Bulgaria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BHR,Bahrain,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BHS,Bahamas,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BIH,Bosnia and Herzegovina,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BLR,Belarus,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BLZ,Belize,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,BOL,Bolivia (Plurinational State of),AMR,Americas,Yes,No response,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2015,BRA,Brazil,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BRB,Barbados,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BRN,Brunei Darussalam,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,BTN,Bhutan,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,BWA,Botswana,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,CAF,Central African Republic,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,CAN,Canada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,CHE,Switzerland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,CHL,Chile,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,CHN,China,WPR,Western Pacific,No,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS Yes
+2015,CIV,Cote d'Ivoire,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,CMR,Cameroon,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,COD,Democratic Republic of the Congo,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,COG,Congo,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,COK,Cook Islands,WPR,Western Pacific,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,COL,Colombia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,COM,Comoros,AFR,Africa,No,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2015,CPV,Cabo Verde,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,CRI,Costa Rica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,CUB,Cuba,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,CYP,Cyprus,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,CZE,Czechia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,DEU,Germany,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,DJI,Djibouti,EMR,Eastern Mediterranean,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,DMA,Dominica,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS No
+2015,DNK,Denmark,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,DOM,Dominican Republic,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,DZA,Algeria,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No response,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ECU,Ecuador,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,EGY,Egypt,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,ERI,Eritrea,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,ESP,Spain,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,EST,Estonia,EUR,Europe,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2015,ETH,Ethiopia,AFR,Africa,Don't know,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2015,FIN,Finland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,FJI,Fiji,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,FRA,France,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,FSM,Micronesia (Federated States of),WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,GAB,Gabon,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,GBR,United Kingdom of Great Britain and Northern Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,GEO,Georgia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,GHA,Ghana,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,GIN,Guinea,AFR,Africa,No,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS Yes
+2015,GMB,Gambia,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,GNB,Guinea-Bissau,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,GNQ,Equatorial Guinea,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,GRC,Greece,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,GRD,Grenada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,GTM,Guatemala,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,GUY,Guyana,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,HND,Honduras,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,HRV,Croatia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,HTI,Haiti,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,HUN,Hungary,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,IDN,Indonesia,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,IND,India,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,IRL,Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,IRN,Iran (Islamic Republic of),EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,IRQ,Iraq,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ISL,Iceland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ISR,Israel,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ITA,Italy,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,JAM,Jamaica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,JOR,Jordan,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,JPN,Japan,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,KAZ,Kazakhstan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,KEN,Kenya,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,KGZ,Kyrgyzstan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,KHM,Cambodia,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,KIR,Kiribati,WPR,Western Pacific,No response,No response,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2015,KNA,Saint Kitts and Nevis,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,KOR,Republic of Korea,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,KWT,Kuwait,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,LAO,Lao People's Democratic Republic,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,LBN,Lebanon,EMR,Eastern Mediterranean,No,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS Yes
+2015,LBR,Liberia,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,LBY,Libya,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,LCA,Saint Lucia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,LKA,Sri Lanka,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,LSO,Lesotho,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,LTU,Lithuania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,LUX,Luxembourg,EUR,Europe,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,LVA,Latvia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MAR,Morocco,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MCO,Monaco,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MDA,Republic of Moldova,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MDG,Madagascar,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,MDV,Maldives,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,MEX,Mexico,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MHL,Marshall Islands,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MKD,North Macedonia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MLI,Mali,AFR,Africa,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2015,MLT,Malta,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MMR,Myanmar,SEAR,South-East Asia,Yes,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2015,MNE,Montenegro,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,MNG,Mongolia,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,MOZ,Mozambique,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,MRT,Mauritania,AFR,Africa,No,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS Yes
+2015,MUS,Mauritius,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,MWI,Malawi,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,MYS,Malaysia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,NAM,Namibia,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,NER,Niger,AFR,Africa,No,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS Yes
+2015,NGA,Nigeria,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,NIC,Nicaragua,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,NIU,Niue,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No response,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,NLD,Netherlands (Kingdom of the),EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,NOR,Norway,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,NPL,Nepal,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,NRU,Naoero,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,NZL,New Zealand,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,OMN,Oman,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,PAK,Pakistan,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,PAN,Panama,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,PER,Peru,AMR,Americas,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2015,PHL,Philippines,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,PLW,Palau,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,PNG,Papua New Guinea,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,POL,Poland,EUR,Europe,Don't know,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2015,PRK,Democratic People's Republic of Korea,SEAR,South-East Asia,No,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2015,PRT,Portugal,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,PRY,Paraguay,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,QAT,Qatar,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ROU,Romania,EUR,Europe,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,RUS,Russian Federation,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,RWA,Rwanda,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SAU,Saudi Arabia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SDN,Sudan,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,SEN,Senegal,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SGP,Singapore,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SLB,Solomon Islands,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,SLE,Sierra Leone,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,SLV,El Salvador,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SMR,San Marino,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SOM,Somalia,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,SRB,Serbia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SSD,South Sudan,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,STP,Sao Tome and Principe,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SUR,Suriname,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SVK,Slovakia,EUR,Europe,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,SVN,Slovenia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SWE,Sweden,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SWZ,Eswatini,AFR,Africa,Don't know,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2015,SYC,Seychelles,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,SYR,Syrian Arab Republic,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,TCD,Chad,AFR,Africa,Don't know,No,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2015,TGO,Togo,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,THA,Thailand,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,TJK,Tajikistan,EUR,Europe,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,TKM,Turkmenistan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,TLS,Timor-Leste,SEAR,South-East Asia,Don't know,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2015,TON,Tonga,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,TTO,Trinidad and Tobago,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,TUN,Tunisia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No response,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,TUR,Türkiye,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,TUV,Tuvalu,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,TZA,United Republic of Tanzania,AFR,Africa,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,UGA,Uganda,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2015,UKR,Ukraine,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,URY,Uruguay,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,USA,United States of America,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,UZB,Uzbekistan,EUR,Europe,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,VCT,Saint Vincent and the Grenadines,AMR,Americas,Yes,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2015,VEN,Venezuela (Bolivarian Republic of),AMR,Americas,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,VNM,Viet Nam,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2015,VUT,Vanuatu,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,WSM,Samoa,WPR,Western Pacific,No data received,No data received,No observation for year,No observation for year,No observation for year,No data received,No observation for year,False,Missing one or both medicines
+2015,YEM,Yemen,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2015,ZAF,South Africa,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2015,ZMB,Zambia,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2015,ZWE,Zimbabwe,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,AFG,Afghanistan,EMR,Eastern Mediterranean,Don't know,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2017,AGO,Angola,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,ALB,Albania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,AND,Andorra,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ARE,United Arab Emirates,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ARG,Argentina,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,ARM,Armenia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ATG,Antigua and Barbuda,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,AUS,Australia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,AUT,Austria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,AZE,Azerbaijan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,BDI,Burundi,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,BEL,Belgium,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BEN,Benin,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,BFA,Burkina Faso,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,BGD,Bangladesh,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,BGR,Bulgaria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BHR,Bahrain,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BHS,Bahamas,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BIH,Bosnia and Herzegovina,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BLR,Belarus,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BLZ,Belize,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,BOL,Bolivia (Plurinational State of),AMR,Americas,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,BRA,Brazil,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BRB,Barbados,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BRN,Brunei Darussalam,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,BTN,Bhutan,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,BWA,Botswana,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CAF,Central African Republic,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,CAN,Canada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CHE,Switzerland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CHL,Chile,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CHN,China,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CIV,Cote d'Ivoire,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,CMR,Cameroon,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,COD,Democratic Republic of the Congo,AFR,Africa,No,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,COG,Congo,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,COK,Cook Islands,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,COL,Colombia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,COM,Comoros,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,CPV,Cabo Verde,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CRI,Costa Rica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CUB,Cuba,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CYP,Cyprus,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,CZE,Czechia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,DEU,Germany,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,DJI,Djibouti,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,DMA,Dominica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,DNK,Denmark,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,DOM,Dominican Republic,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,DZA,Algeria,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,ECU,Ecuador,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,EGY,Egypt,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,ERI,Eritrea,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,ESP,Spain,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,EST,Estonia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ETH,Ethiopia,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,FIN,Finland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,FJI,Fiji,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,FRA,France,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,FSM,Micronesia (Federated States of),WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,GAB,Gabon,AFR,Africa,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,GBR,United Kingdom of Great Britain and Northern Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,GEO,Georgia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,GHA,Ghana,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,GIN,Guinea,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,GMB,Gambia,AFR,Africa,No,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS Yes
+2017,GNB,Guinea-Bissau,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,GNQ,Equatorial Guinea,AFR,Africa,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,GRC,Greece,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,GRD,Grenada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,GTM,Guatemala,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,GUY,Guyana,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,HND,Honduras,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,HRV,Croatia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,HTI,Haiti,AMR,Americas,Yes,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,HUN,Hungary,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,IDN,Indonesia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,IND,India,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,IRL,Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,IRN,Iran (Islamic Republic of),EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,IRQ,Iraq,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ISL,Iceland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ISR,Israel,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ITA,Italy,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,JAM,Jamaica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,JOR,Jordan,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,JPN,Japan,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,KAZ,Kazakhstan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,KEN,Kenya,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,KGZ,Kyrgyzstan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,KHM,Cambodia,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,KIR,Kiribati,WPR,Western Pacific,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,KNA,Saint Kitts and Nevis,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,KOR,Republic of Korea,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,KWT,Kuwait,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,LAO,Lao People's Democratic Republic,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,LBN,Lebanon,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,LBR,Liberia,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,LBY,Libya,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,LCA,Saint Lucia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,LKA,Sri Lanka,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,LSO,Lesotho,AFR,Africa,Yes,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2017,LTU,Lithuania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,LUX,Luxembourg,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,LVA,Latvia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MAR,Morocco,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MCO,Monaco,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MDA,Republic of Moldova,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MDG,Madagascar,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,MDV,Maldives,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,MEX,Mexico,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MHL,Marshall Islands,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,MKD,North Macedonia,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,MLI,Mali,AFR,Africa,Yes,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,MLT,Malta,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MMR,Myanmar,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,MNE,Montenegro,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MNG,Mongolia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MOZ,Mozambique,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,MRT,Mauritania,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,MUS,Mauritius,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,MWI,Malawi,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,MYS,Malaysia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,NAM,Namibia,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,NER,Niger,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,NGA,Nigeria,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,NIC,Nicaragua,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,NIU,Niue,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,NLD,Netherlands (Kingdom of the),EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,NOR,Norway,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,NPL,Nepal,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,NRU,Naoero,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,NZL,New Zealand,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,OMN,Oman,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,PAK,Pakistan,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,PAN,Panama,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,PER,Peru,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,PHL,Philippines,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,PLW,Palau,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,PNG,Papua New Guinea,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,POL,Poland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,PRK,Democratic People's Republic of Korea,SEAR,South-East Asia,No,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2017,PRT,Portugal,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,PRY,Paraguay,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,QAT,Qatar,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ROU,Romania,EUR,Europe,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,RUS,Russian Federation,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,RWA,Rwanda,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SAU,Saudi Arabia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SDN,Sudan,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,SEN,Senegal,AFR,Africa,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2017,SGP,Singapore,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SLB,Solomon Islands,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,SLE,Sierra Leone,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,SLV,El Salvador,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,SMR,San Marino,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SOM,Somalia,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,SRB,Serbia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SSD,South Sudan,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,STP,Sao Tome and Principe,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SUR,Suriname,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SVK,Slovakia,EUR,Europe,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,SVN,Slovenia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SWE,Sweden,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SWZ,Eswatini,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SYC,Seychelles,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,SYR,Syrian Arab Republic,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,TCD,Chad,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,TGO,Togo,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,THA,Thailand,SEAR,South-East Asia,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,TJK,Tajikistan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,TKM,Turkmenistan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,TLS,Timor-Leste,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,TON,Tonga,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,TTO,Trinidad and Tobago,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,TUN,Tunisia,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,TUR,Türkiye,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,TUV,Tuvalu,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,TZA,United Republic of Tanzania,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,UGA,Uganda,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,UKR,Ukraine,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,URY,Uruguay,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,USA,United States of America,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,UZB,Uzbekistan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,VCT,Saint Vincent and the Grenadines,AMR,Americas,No,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS Yes
+2017,VEN,Venezuela (Bolivarian Republic of),AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,VNM,Viet Nam,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2017,VUT,Vanuatu,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,WSM,Samoa,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2017,YEM,Yemen,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2017,ZAF,South Africa,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2017,ZMB,Zambia,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2017,ZWE,Zimbabwe,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,AFG,Afghanistan,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,AGO,Angola,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,ALB,Albania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,AND,Andorra,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ARE,United Arab Emirates,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ARG,Argentina,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ARM,Armenia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ATG,Antigua and Barbuda,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,AUS,Australia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,AUT,Austria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,AZE,Azerbaijan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,BDI,Burundi,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,BEL,Belgium,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BEN,Benin,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,BFA,Burkina Faso,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,BGD,Bangladesh,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BGR,Bulgaria,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BHR,Bahrain,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BHS,Bahamas,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BIH,Bosnia and Herzegovina,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BLR,Belarus,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BLZ,Belize,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,BOL,Bolivia (Plurinational State of),AMR,Americas,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2019,BRA,Brazil,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BRB,Barbados,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BRN,Brunei Darussalam,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,BTN,Bhutan,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,BWA,Botswana,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CAF,Central African Republic,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,CAN,Canada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CHE,Switzerland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CHL,Chile,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CHN,China,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CIV,Cote d'Ivoire,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,CMR,Cameroon,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,COD,Democratic Republic of the Congo,AFR,Africa,No,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2019,COG,Congo,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,COK,Cook Islands,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,COL,Colombia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,COM,Comoros,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,CPV,Cabo Verde,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CRI,Costa Rica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CUB,Cuba,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CYP,Cyprus,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,CZE,Czechia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,DEU,Germany,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,DJI,Djibouti,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,DMA,Dominica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,DNK,Denmark,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,DOM,Dominican Republic,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,DZA,Algeria,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,ECU,Ecuador,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,EGY,Egypt,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,ERI,Eritrea,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,ESP,Spain,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,EST,Estonia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ETH,Ethiopia,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,FIN,Finland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,FJI,Fiji,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,FRA,France,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,FSM,Micronesia (Federated States of),WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,GAB,Gabon,AFR,Africa,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2019,GBR,United Kingdom of Great Britain and Northern Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,GEO,Georgia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,GHA,Ghana,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,GIN,Guinea,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,GMB,Gambia,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,GNB,Guinea-Bissau,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,GNQ,Equatorial Guinea,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,GRC,Greece,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,GRD,Grenada,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,GTM,Guatemala,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,GUY,Guyana,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,HND,Honduras,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,HRV,Croatia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,HTI,Haiti,AMR,Americas,Yes,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2019,HUN,Hungary,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,IDN,Indonesia,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,IND,India,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,IRL,Ireland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,IRN,Iran (Islamic Republic of),EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,IRQ,Iraq,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ISL,Iceland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ISR,Israel,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ITA,Italy,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,JAM,Jamaica,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,JOR,Jordan,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,JPN,Japan,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,KAZ,Kazakhstan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,KEN,Kenya,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,KGZ,Kyrgyzstan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,KHM,Cambodia,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,KIR,Kiribati,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,KNA,Saint Kitts and Nevis,AMR,Americas,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,KOR,Republic of Korea,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,KWT,Kuwait,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LAO,Lao People's Democratic Republic,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,LBN,Lebanon,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LBR,Liberia,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,LBY,Libya,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LCA,Saint Lucia,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LKA,Sri Lanka,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LSO,Lesotho,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LTU,Lithuania,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LUX,Luxembourg,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,LVA,Latvia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MAR,Morocco,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,MCO,Monaco,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MDA,Republic of Moldova,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MDG,Madagascar,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,MDV,Maldives,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MEX,Mexico,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MHL,Marshall Islands,WPR,Western Pacific,Don't know,Don't know,No observation for year,No observation for year,No observation for year,No,No observation for year,False,Missing one or both medicines
+2019,MKD,North Macedonia,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,MLI,Mali,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,MLT,Malta,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MMR,Myanmar,SEAR,South-East Asia,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,MNE,Montenegro,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MNG,Mongolia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MOZ,Mozambique,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MRT,Mauritania,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,MUS,Mauritius,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,MWI,Malawi,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,MYS,Malaysia,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,NAM,Namibia,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,NER,Niger,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,NGA,Nigeria,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,NIC,Nicaragua,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,NIU,Niue,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,don't know,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,NLD,Netherlands (Kingdom of the),EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,NOR,Norway,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,NPL,Nepal,SEAR,South-East Asia,Don't know,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2019,NRU,Naoero,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,NZL,New Zealand,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,OMN,Oman,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,PAK,Pakistan,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,PAN,Panama,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,PER,Peru,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,PHL,Philippines,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,PLW,Palau,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,PNG,Papua New Guinea,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,POL,Poland,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,PRK,Democratic People's Republic of Korea,SEAR,South-East Asia,No,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2019,PRT,Portugal,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,PRY,Paraguay,AMR,Americas,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,QAT,Qatar,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ROU,Romania,EUR,Europe,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,RUS,Russian Federation,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,RWA,Rwanda,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SAU,Saudi Arabia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SDN,Sudan,EMR,Eastern Mediterranean,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,SEN,Senegal,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,SGP,Singapore,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SLB,Solomon Islands,WPR,Western Pacific,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,SLE,Sierra Leone,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,SLV,El Salvador,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SMR,San Marino,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SOM,Somalia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SRB,Serbia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SSD,South Sudan,AFR,Africa,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,STP,Sao Tome and Principe,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,SUR,Suriname,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SVK,Slovakia,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,SVN,Slovenia,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SWE,Sweden,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SWZ,Eswatini,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,SYC,Seychelles,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,SYR,Syrian Arab Republic,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,TCD,Chad,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,TGO,Togo,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,THA,Thailand,SEAR,South-East Asia,No,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator No / ICS No
+2019,TJK,Tajikistan,EUR,Europe,Don't know,Don't know,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2019,TKM,Turkmenistan,EUR,Europe,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,TLS,Timor-Leste,SEAR,South-East Asia,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,TON,Tonga,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS No
+2019,TTO,Trinidad and Tobago,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,TUN,Tunisia,EMR,Eastern Mediterranean,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,TUR,Türkiye,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,TUV,Tuvalu,WPR,Western Pacific,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,TZA,United Republic of Tanzania,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,UGA,Uganda,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,UKR,Ukraine,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,URY,Uruguay,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,USA,United States of America,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,UZB,Uzbekistan,EUR,Europe,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,VCT,Saint Vincent and the Grenadines,AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,VEN,Venezuela (Bolivarian Republic of),AMR,Americas,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,VNM,Viet Nam,WPR,Western Pacific,Don't know,No,No observation for year,No observation for year,No observation for year,Yes,No observation for year,False,Missing one or both medicines
+2019,VUT,Vanuatu,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,WSM,Samoa,WPR,Western Pacific,Yes,Yes,No observation for year,No observation for year,No observation for year,Yes,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,YEM,Yemen,EMR,Eastern Mediterranean,No,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator No / ICS No
+2019,ZAF,South Africa,AFR,Africa,Yes,Yes,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS Yes
+2019,ZMB,Zambia,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2019,ZWE,Zimbabwe,AFR,Africa,Yes,No,No observation for year,No observation for year,No observation for year,No,No observation for year,True,Bronchodilator Yes / ICS No
+2021,AFG,Afghanistan,EMR,Eastern Mediterranean,Yes,Yes,No,No,No,No,No,True,Bronchodilator Yes / ICS Yes
+2021,AGO,Angola,AFR,Africa,Yes,Don't know,Yes,Don't know,Don't know,No,No,False,Missing one or both medicines
+2021,ALB,Albania,EUR,Europe,Yes,Yes,Yes,Don't know,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,AND,Andorra,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,ARE,United Arab Emirates,EMR,Eastern Mediterranean,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,ARG,Argentina,AMR,Americas,Yes,Yes,No,Don't know,Don't know,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,ARM,Armenia,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,ATG,Antigua and Barbuda,AMR,Americas,Yes,Yes,Yes,Don't know,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,AUS,Australia,WPR,Western Pacific,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,AUT,Austria,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,AZE,Azerbaijan,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BDI,Burundi,AFR,Africa,No,No,No,No,No,Yes,No,True,Bronchodilator No / ICS No
+2021,BEL,Belgium,EUR,Europe,Yes,Yes,Don't know,Don't know,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BEN,Benin,AFR,Africa,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,BFA,Burkina Faso,AFR,Africa,No,No,No,No,No,No,Yes,True,Bronchodilator No / ICS No
+2021,BGD,Bangladesh,SEAR,South-East Asia,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,BGR,Bulgaria,EUR,Europe,Yes,Yes,Don't know,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BHR,Bahrain,EMR,Eastern Mediterranean,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BHS,Bahamas,AMR,Americas,Yes,Yes,Yes,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BIH,Bosnia and Herzegovina,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BLR,Belarus,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BLZ,Belize,AMR,Americas,Yes,No,Don't know,Don't know,No,Yes,No,True,Bronchodilator Yes / ICS No
+2021,BOL,Bolivia (Plurinational State of),AMR,Americas,Yes,Yes,Yes,Don't know,Don't know,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BRA,Brazil,AMR,Americas,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BRB,Barbados,AMR,Americas,Yes,Yes,Yes,No,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BRN,Brunei Darussalam,WPR,Western Pacific,Yes,Yes,Yes,No,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BTN,Bhutan,SEAR,South-East Asia,Yes,Yes,Yes,Don't know,Don't know,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,BWA,Botswana,AFR,Africa,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,CAF,Central African Republic,AFR,Africa,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,CAN,Canada,AMR,Americas,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,CHE,Switzerland,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,CHL,Chile,AMR,Americas,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,CHN,China,WPR,Western Pacific,Yes,Don't know,No,Don't know,Don't know,Yes,Yes,False,Missing one or both medicines
+2021,CIV,Cote d'Ivoire,AFR,Africa,No,No,No,Don't know,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,CMR,Cameroon,AFR,Africa,Yes,No,No,No,No,No,No,True,Bronchodilator Yes / ICS No
+2021,COD,Democratic Republic of the Congo,AFR,Africa,Yes,Don't know,Don't know,Yes,Yes,Don't know,No,False,Missing one or both medicines
+2021,COG,Congo,AFR,Africa,No,No,No,No,No,No,No,True,Bronchodilator No / ICS No
+2021,COK,Cook Islands,WPR,Western Pacific,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,COL,Colombia,AMR,Americas,Yes,Yes,Don't know,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,COM,Comoros,AFR,Africa,Yes,No,No,No,No,No,No,True,Bronchodilator Yes / ICS No
+2021,CPV,Cabo Verde,AFR,Africa,Yes,No,No,Yes,No,No,No,True,Bronchodilator Yes / ICS No
+2021,CRI,Costa Rica,AMR,Americas,Yes,Yes,No,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,CUB,Cuba,AMR,Americas,Yes,Yes,Yes,No response,No response,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,CYP,Cyprus,EUR,Europe,No,No,No,No,No,No,Don't know,True,Bronchodilator No / ICS No
+2021,CZE,Czechia,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,DEU,Germany,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,DJI,Djibouti,EMR,Eastern Mediterranean,Yes,Yes,No,Yes,No,No,No,True,Bronchodilator Yes / ICS Yes
+2021,DMA,Dominica,AMR,Americas,Yes,No,No,No response,No response,No,No,True,Bronchodilator Yes / ICS No
+2021,DNK,Denmark,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,DOM,Dominican Republic,AMR,Americas,Yes,No,No,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS No
+2021,DZA,Algeria,AFR,Africa,Yes,No,Yes,No,Yes,No,Yes,True,Bronchodilator Yes / ICS No
+2021,ECU,Ecuador,AMR,Americas,Yes,Yes,No,Don't know,Don't know,No,No,True,Bronchodilator Yes / ICS Yes
+2021,EGY,Egypt,EMR,Eastern Mediterranean,No response,No response,No response,No response,No response,Yes,Yes,False,Missing one or both medicines
+2021,ERI,Eritrea,AFR,Africa,Yes,No,No,Yes,Yes,Yes,No,True,Bronchodilator Yes / ICS No
+2021,ESP,Spain,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,EST,Estonia,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,ETH,Ethiopia,AFR,Africa,Yes,Yes,Don't know,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,FIN,Finland,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,FJI,Fiji,WPR,Western Pacific,Yes,Yes,No,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,FRA,France,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,FSM,Micronesia (Federated States of),WPR,Western Pacific,Yes,Yes,No,No,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,GAB,Gabon,AFR,Africa,No,No,No,No,No,No,No,True,Bronchodilator No / ICS No
+2021,GBR,United Kingdom of Great Britain and Northern Ireland,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,GEO,Georgia,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,GHA,Ghana,AFR,Africa,Yes,No,No,No,No,No,Yes,True,Bronchodilator Yes / ICS No
+2021,GIN,Guinea,AFR,Africa,No,No,No,Yes,Yes,Yes,Yes,True,Bronchodilator No / ICS No
+2021,GMB,Gambia,AFR,Africa,Yes,No,No,No,No,No,No,True,Bronchodilator Yes / ICS No
+2021,GNB,Guinea-Bissau,AFR,Africa,No response,No response,No response,No response,No response,No,No,False,Missing one or both medicines
+2021,GNQ,Equatorial Guinea,AFR,Africa,Yes,Yes,Yes,Yes,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,GRC,Greece,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,GRD,Grenada,AMR,Americas,Yes,Yes,No,No,No,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,GTM,Guatemala,AMR,Americas,No,No,No,No,No,No,Yes,True,Bronchodilator No / ICS No
+2021,GUY,Guyana,AMR,Americas,Yes,Yes,No,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,HND,Honduras,AMR,Americas,No,No,Don't know,No,Don't know,No,No,True,Bronchodilator No / ICS No
+2021,HRV,Croatia,EUR,Europe,Yes,Yes,Yes,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,HTI,Haiti,AMR,Americas,No,No,No,Don't know,No,Don't know,Yes,True,Bronchodilator No / ICS No
+2021,HUN,Hungary,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,IDN,Indonesia,WPR,Western Pacific,Yes,Yes,No,Yes,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,IND,India,SEAR,South-East Asia,Yes,No,Don't know,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS No
+2021,IRL,Ireland,EUR,Europe,Yes,Yes,Yes,No response,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,IRN,Iran (Islamic Republic of),EMR,Eastern Mediterranean,Yes,Yes,Yes,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,IRQ,Iraq,EMR,Eastern Mediterranean,Yes,Yes,No,Don't know,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,ISL,Iceland,EUR,Europe,Yes,Yes,Don't know,No response,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,ISR,Israel,EUR,Europe,Yes,Yes,Don't know,Don't know,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,ITA,Italy,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,JAM,Jamaica,AMR,Americas,Yes,Yes,Yes,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,JOR,Jordan,EMR,Eastern Mediterranean,Yes,Yes,Yes,Yes,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,JPN,Japan,WPR,Western Pacific,Yes,Yes,Yes,No,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,KAZ,Kazakhstan,EUR,Europe,Yes,Don't know,Yes,Yes,Yes,Yes,Yes,False,Missing one or both medicines
+2021,KEN,Kenya,AFR,Africa,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,KGZ,Kyrgyzstan,EUR,Europe,No,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator No / ICS Yes
+2021,KHM,Cambodia,WPR,Western Pacific,No,No,No,No,No,No,No,True,Bronchodilator No / ICS No
+2021,KIR,Kiribati,WPR,Western Pacific,No,No,No,Don't know,Don't know,No,No,True,Bronchodilator No / ICS No
+2021,KNA,Saint Kitts and Nevis,AMR,Americas,Yes,No,Yes,Don't know,Don't know,No,Yes,True,Bronchodilator Yes / ICS No
+2021,KOR,Republic of Korea,WPR,Western Pacific,No response,No response,No response,No response,No response,Yes,No,False,Missing one or both medicines
+2021,KWT,Kuwait,EMR,Eastern Mediterranean,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,LAO,Lao People's Democratic Republic,WPR,Western Pacific,No,No,No,Yes,Yes,Yes,Yes,True,Bronchodilator No / ICS No
+2021,LBN,Lebanon,EMR,Eastern Mediterranean,Yes,Yes,No,No,No,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,LBR,Liberia,AFR,Africa,Yes,Don't know,Yes,No,No,No,Yes,False,Missing one or both medicines
+2021,LBY,Libya,EMR,Eastern Mediterranean,Yes,Yes,No,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,LCA,Saint Lucia,AMR,Americas,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,LKA,Sri Lanka,SEAR,South-East Asia,Yes,Yes,No,Don't know,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,LSO,Lesotho,AFR,Africa,No response,No response,No response,No response,No response,No response,Yes,False,Missing one or both medicines
+2021,LTU,Lithuania,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,LUX,Luxembourg,EUR,Europe,Yes,Yes,Yes,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,LVA,Latvia,EUR,Europe,Yes,Yes,Yes,Don't know,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,MAR,Morocco,EMR,Eastern Mediterranean,Yes,Yes,No,Yes,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,MCO,Monaco,EUR,Europe,Yes,Yes,No response,No response,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,MDA,Republic of Moldova,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,MDG,Madagascar,AFR,Africa,Yes,No,No,No,No,Yes,Yes,True,Bronchodilator Yes / ICS No
+2021,MDV,Maldives,SEAR,South-East Asia,Yes,Yes,Yes,Yes,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,MEX,Mexico,AMR,Americas,Yes,Yes,Don't know,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,MHL,Marshall Islands,WPR,Western Pacific,No,No,No,Yes,Don't know,No,No,True,Bronchodilator No / ICS No
+2021,MKD,North Macedonia,EUR,Europe,Yes,Don't know,Don't know,Yes,Yes,Don't know,Yes,False,Missing one or both medicines
+2021,MLI,Mali,AFR,Africa,No,No,No,No,No,Yes,No,True,Bronchodilator No / ICS No
+2021,MLT,Malta,EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,MMR,Myanmar,SEAR,South-East Asia,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,MNE,Montenegro,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,MNG,Mongolia,WPR,Western Pacific,Yes,Yes,Yes,Yes,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,MOZ,Mozambique,AFR,Africa,Yes,Yes,No,Yes,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,MRT,Mauritania,AFR,Africa,No,No,No response,Yes,Yes,Yes,No,True,Bronchodilator No / ICS No
+2021,MUS,Mauritius,AFR,Africa,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,MWI,Malawi,AFR,Africa,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,MYS,Malaysia,WPR,Western Pacific,Yes,Yes,No,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,NAM,Namibia,AFR,Africa,Yes,Yes,No,Don't know,Don't know,No,No,True,Bronchodilator Yes / ICS Yes
+2021,NER,Niger,AFR,Africa,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,NGA,Nigeria,AFR,Africa,Yes,Yes,Yes,Yes,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,NIC,Nicaragua,AMR,Americas,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,NIU,Niue,WPR,Western Pacific,Yes,Yes,No,No,No,No,No,True,Bronchodilator Yes / ICS Yes
+2021,NLD,Netherlands (Kingdom of the),EUR,Europe,Yes,Yes,Yes,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,NOR,Norway,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,NPL,Nepal,SEAR,South-East Asia,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,NRU,Naoero,WPR,Western Pacific,Yes,Yes,Yes,No,No,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,NZL,New Zealand,WPR,Western Pacific,Yes,Yes,Yes,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,OMN,Oman,EMR,Eastern Mediterranean,Yes,Yes,Yes,No,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,PAK,Pakistan,EMR,Eastern Mediterranean,No,No,No,No,No,No,No,True,Bronchodilator No / ICS No
+2021,PAN,Panama,AMR,Americas,Yes,Yes,No,Yes,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,PER,Peru,AMR,Americas,Yes,Yes,No,No,No,No,No,True,Bronchodilator Yes / ICS Yes
+2021,PHL,Philippines,WPR,Western Pacific,No,No,No,Yes,Yes,Yes,No,True,Bronchodilator No / ICS No
+2021,PLW,Palau,WPR,Western Pacific,Yes,Yes,No,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,PNG,Papua New Guinea,WPR,Western Pacific,Yes,Yes,Yes,Don't know,Don't know,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,POL,Poland,EUR,Europe,Yes,Yes,Don't know,No,Don't know,No,Don't know,True,Bronchodilator Yes / ICS Yes
+2021,PRK,Democratic People's Republic of Korea,SEAR,South-East Asia,Yes,Yes,Yes,No response,Yes,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,PRT,Portugal,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,PRY,Paraguay,AMR,Americas,No,No,No,Yes,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,QAT,Qatar,EMR,Eastern Mediterranean,Yes,Yes,Don't know,Don't know,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,ROU,Romania,EUR,Europe,Yes,Yes,Don't know,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,RUS,Russian Federation,EUR,Europe,Yes,Yes,Don't know,Yes,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,RWA,Rwanda,AFR,Africa,Yes,Yes,Don't know,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SAU,Saudi Arabia,EMR,Eastern Mediterranean,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SDN,Sudan,EMR,Eastern Mediterranean,Yes,No,No,No,No,No,Yes,True,Bronchodilator Yes / ICS No
+2021,SEN,Senegal,AFR,Africa,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,SGP,Singapore,WPR,Western Pacific,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SLB,Solomon Islands,WPR,Western Pacific,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,SLE,Sierra Leone,AFR,Africa,Yes,Yes,No,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SLV,El Salvador,AMR,Americas,Yes,Yes,No,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SMR,San Marino,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SOM,Somalia,EMR,Eastern Mediterranean,No,No,No,No,No,No,No,True,Bronchodilator No / ICS No
+2021,SRB,Serbia,EUR,Europe,Yes,Yes,Don't know,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SSD,South Sudan,AFR,Africa,No,No,No,No,No,Yes,Yes,True,Bronchodilator No / ICS No
+2021,STP,Sao Tome and Principe,AFR,Africa,Yes,Yes,No,No,No,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SUR,Suriname,AMR,Americas,Yes,Yes,No,No,No,Yes,No,True,Bronchodilator Yes / ICS Yes
+2021,SVK,Slovakia,EUR,Europe,No response,No response,No response,No response,No response,Yes,Yes,False,Missing one or both medicines
+2021,SVN,Slovenia,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SWE,Sweden,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SWZ,Eswatini,AFR,Africa,Yes,Yes,No,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SYC,Seychelles,AFR,Africa,Yes,Yes,Yes,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,SYR,Syrian Arab Republic,EMR,Eastern Mediterranean,Yes,Yes,Don't know,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,TCD,Chad,AFR,Africa,No response,No response,No response,No response,No response,Yes,No,False,Missing one or both medicines
+2021,TGO,Togo,AFR,Africa,No,No,No,Don't know,Don't know,Yes,No,True,Bronchodilator No / ICS No
+2021,THA,Thailand,SEAR,South-East Asia,Yes,No,No,No,No,Yes,Yes,True,Bronchodilator Yes / ICS No
+2021,TJK,Tajikistan,EUR,Europe,No,No,No,No response,No response,Yes,Yes,True,Bronchodilator No / ICS No
+2021,TKM,Turkmenistan,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,TLS,Timor-Leste,SEAR,South-East Asia,Yes,Yes,No,No,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,TON,Tonga,WPR,Western Pacific,Yes,Yes,No,No,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,TTO,Trinidad and Tobago,AMR,Americas,Yes,Yes,Don't know,Don't know,Yes,No,Don't know,True,Bronchodilator Yes / ICS Yes
+2021,TUN,Tunisia,EMR,Eastern Mediterranean,Yes,Yes,No,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,TUR,Türkiye,EUR,Europe,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,TUV,Tuvalu,WPR,Western Pacific,Yes,Yes,Yes,No,No,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,TZA,United Republic of Tanzania,AFR,Africa,Yes,Yes,Yes,No,No response,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,UGA,Uganda,AFR,Africa,Yes,No,Don't know,No,Yes,Yes,Yes,True,Bronchodilator Yes / ICS No
+2021,UKR,Ukraine,EUR,Europe,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,URY,Uruguay,AMR,Americas,Yes,Yes,Yes,Yes,Yes,No,No,True,Bronchodilator Yes / ICS Yes
+2021,USA,United States of America,AMR,Americas,Yes,Yes,Don't know,Don't know,Don't know,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,UZB,Uzbekistan,EUR,Europe,Yes,No,Yes,Yes,Yes,Yes,Yes,True,Bronchodilator Yes / ICS No
+2021,VCT,Saint Vincent and the Grenadines,AMR,Americas,Yes,Yes,Yes,Don't know,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,VEN,Venezuela (Bolivarian Republic of),AMR,Americas,Yes,Yes,Don't know,Don't know,Yes,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,VNM,Viet Nam,WPR,Western Pacific,Yes,No,No,No,No,Yes,Yes,True,Bronchodilator Yes / ICS No
+2021,VUT,Vanuatu,WPR,Western Pacific,Yes,Yes,No,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,WSM,Samoa,WPR,Western Pacific,Yes,Yes,Don't know,No,No,Yes,Yes,True,Bronchodilator Yes / ICS Yes
+2021,YEM,Yemen,EMR,Eastern Mediterranean,No,No,No,No response,No response,No,No,True,Bronchodilator No / ICS No
+2021,ZAF,South Africa,AFR,Africa,Yes,Yes,No,Don't know,Don't know,No,Yes,True,Bronchodilator Yes / ICS Yes
+2021,ZMB,Zambia,AFR,Africa,Yes,Don't know,No,No,Yes,No,Yes,False,Missing one or both medicines
+2021,ZWE,Zimbabwe,AFR,Africa,Yes,No,No,No,Yes,No,Yes,True,Bronchodilator Yes / ICS No
