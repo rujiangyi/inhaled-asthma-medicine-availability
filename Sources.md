@@ -1,6 +1,6 @@
 # Data provenance and reuse
 
-Prepared 5 October 2026 for local research and submission preparation. These archives combine third-party data and derived research results. No blanket open licence is assigned to either archive or to its contents, and no public repository deposit has been performed. Packaging the files locally does not establish permission for unrestricted redistribution. Dataset-specific conditions and any agreement accepted by the downloader continue to govern reuse; authors should verify those conditions before public deposition. No statement of permission or source-organisation endorsement is inferred.
+Prepared 5 October 2026. These archives combine third-party data and derived research results. The author-generated tables and scripts in this repository are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). Values derived from WHO, World Bank and IHME (GBD 2023) sources remain subject to the reuse conditions of those organisations; dataset-specific conditions and any agreement accepted by the downloader continue to govern reuse of third-party content. No statement of permission or source-organisation endorsement is inferred.
 
 ## WHO
 
